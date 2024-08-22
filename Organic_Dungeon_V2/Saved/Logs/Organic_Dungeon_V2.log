@@ -2981,3 +2981,666 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2024.08.22-15.19.03:660][733]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
 [2024.08.22-15.19.03:660][733]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
 [2024.08.22-15.33.16:726][292]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.08.22-15.53.11:555][883]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.08.22-15.53.15:146][281]LogEditorTransaction: Undo Delete current selection
+[2024.08.22-15.53.15:294][281]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.08.22-15.53.15:297][281]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.08.22-15.53.15:304][281]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.08.22-15.53.15:427][281]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-15.53.15:699][295]LogEditorTransaction: Undo Move Node
+[2024.08.22-15.53.15:840][295]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.08.22-15.53.15:841][295]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.08.22-15.53.15:846][295]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.08.22-15.53.15:949][295]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-15.53.16:269][327]LogEditorTransaction: Undo Move Node
+[2024.08.22-15.53.16:412][327]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.08.22-15.53.16:414][327]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.08.22-15.53.16:419][327]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.08.22-15.53.16:528][327]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-15.53.16:788][354]LogEditorTransaction: Undo Add Node
+[2024.08.22-15.53.16:930][354]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.08.22-15.53.16:931][354]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.08.22-15.53.16:936][354]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.08.22-15.53.17:043][354]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-15.53.17:359][387]LogEditorTransaction: Undo Create Pin Link
+[2024.08.22-15.53.17:495][387]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.08.22-15.53.17:497][387]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.08.22-15.53.17:502][387]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.08.22-15.53.17:609][387]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-15.53.19:069][548]LogEditorTransaction: Redo Create Pin Link
+[2024.08.22-15.53.19:220][548]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.08.22-15.53.19:222][548]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.08.22-15.53.19:225][548]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.08.22-15.53.19:332][548]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-15.53.20:018][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.08.22-15.53.20:021][618]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-15.53.20:052][618]LogSavePackage: Moving output files for package: /Game/Movement/BPC_Footfalls
+[2024.08.22-15.53.20:052][618]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BPC_Footfalls278C2156476884C6B59D00BB3902E418.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Movement/BPC_Footfalls.uasset'
+[2024.08.22-15.53.20:058][618]LogFileHelpers: InternalPromptForCheckoutAndSave took 37 ms (total: 525 ms)
+[2024.08.22-15.53.20:062][618]AssetCheck: New page: Asset Save: BPC_Footfalls
+[2024.08.22-15.53.20:062][618]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Movement/BPC_Footfalls.BPC_Footfalls
+[2024.08.22-15.53.21:102][732]BlueprintLog: New page: Compile BPC_Footfalls
+[2024.08.22-15.53.21:152][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.08.22-15.53.21:167][732]LogScript: Warning: Attempted to access TRASH_BPC_Slide_C_250 via property BPC_Slide, but TRASH_BPC_Slide_C_250 is not valid (pending kill or garbage)
+	BP_Player_C /Engine/Transient.World_3:PersistentLevel.BP_Player_C_0
+	Function /Game/Characters/Player/BP_Player.BP_Player_C:Get_Sliding:0017
+[2024.08.22-15.53.21:174][732]LogScript: Warning: Attempted to access TRASH_BPC_Slide_C_265 via property BPC_Slide, but TRASH_BPC_Slide_C_265 is not valid (pending kill or garbage)
+	BP_Player_C /Engine/Transient.World_3:PersistentLevel.BP_Player_C_0
+	Function /Game/Characters/Player/BP_Player.BP_Player_C:Get_Sliding:0017
+[2024.08.22-15.55.25:724][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.08.22-15.55.25:727][821]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/ThirdPersonMap' took 0.029
+[2024.08.22-15.55.25:727][821]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Movement/BPC_Footfalls] ([2] browsable assets)...
+[2024.08.22-15.55.25:727][821]OBJ SavePackage: Finished generating thumbnails for package [/Game/Movement/BPC_Footfalls]
+[2024.08.22-15.55.25:735][821]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Movement/BPC_Footfalls_Auto3
+[2024.08.22-15.55.25:735][821]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BPC_Footfalls_Auto3FC93A4E84FC4A350CBC91A98CEA2F2FA.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Autosaves/Game/Movement/BPC_Footfalls_Auto3.uasset'
+[2024.08.22-15.55.25:736][821]LogFileHelpers: Auto-saving content packages took 0.009
+[2024.08.22-15.55.47:044][192]LogSlate: Window 'Editor Preferences' being destroyed
+[2024.08.22-15.55.47:050][192]LogSlate: Window 'Editor Preferences' being destroyed
+[2024.08.22-15.56.25:270][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.08.22-15.56.25:272][168]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-15.56.25:303][168]LogSavePackage: Moving output files for package: /Game/Movement/BPC_Footfalls
+[2024.08.22-15.56.25:304][168]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BPC_Footfalls9219B0264F463356B88107AB90630FDB.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Movement/BPC_Footfalls.uasset'
+[2024.08.22-15.56.25:311][168]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 563 ms)
+[2024.08.22-15.56.25:316][168]AssetCheck: New page: Asset Save: BPC_Footfalls
+[2024.08.22-15.56.25:316][168]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Movement/BPC_Footfalls.BPC_Footfalls
+[2024.08.22-15.56.57:966][338]LogSlate: Window 'Project Settings' being destroyed
+[2024.08.22-15.56.57:972][338]LogSlate: Window 'Project Settings' being destroyed
+[2024.08.22-15.57.07:890][240]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.08.22-15.57.07:900][240]LogContentBrowser: Creating deferred item: NewFolder
+[2024.08.22-15.57.07:912][241]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.08.22-15.57.08:930][354]LogContentBrowser: Attempting asset rename: NewFolder -> Tile
+[2024.08.22-15.57.08:930][354]LogContentBrowser: End creating deferred item NewFolder
+[2024.08.22-15.57.12:239][682]LogMetaData: Removing '/Game/VFX_SFX/Sounds/Footfalls/Tile/Footstep_Tile_SC.Footstep_Tile_SC:SoundCueGraph_0.SoundCueGraphNode_Root_0' ref from Metadata '/Game/VFX_SFX/Sounds/Footfalls/Footstep_Tile_SC.PackageMetaData'
+[2024.08.22-15.57.12:240][682]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-15.57.12:271][682]LogSavePackage: Moving output files for package: /Game/Movement/BPC_Footfalls
+[2024.08.22-15.57.12:271][682]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BPC_Footfalls7AECD6294B2EB413B477388E04206F85.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Movement/BPC_Footfalls.uasset'
+[2024.08.22-15.57.12:273][682]LogSavePackage: Moving output files for package: /Game/VFX_SFX/Sounds/Footfalls/Tile/Footstep_Tile_1
+[2024.08.22-15.57.12:273][682]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Footstep_Tile_104FD8AB948207DC97A83359039AC050C.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/VFX_SFX/Sounds/Footfalls/Tile/Footstep_Tile_1.uasset'
+[2024.08.22-15.57.12:276][682]LogSavePackage: Moving output files for package: /Game/VFX_SFX/Sounds/Footfalls/Tile/Footstep_Tile_2
+[2024.08.22-15.57.12:276][682]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Footstep_Tile_24412757643FA48581BCF588E6E465408.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/VFX_SFX/Sounds/Footfalls/Tile/Footstep_Tile_2.uasset'
+[2024.08.22-15.57.12:278][682]LogSavePackage: Moving output files for package: /Game/VFX_SFX/Sounds/Footfalls/Tile/Footstep_Tile_3
+[2024.08.22-15.57.12:278][682]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Footstep_Tile_3420B199B4CA45A3634633DB97EBEA6F0.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/VFX_SFX/Sounds/Footfalls/Tile/Footstep_Tile_3.uasset'
+[2024.08.22-15.57.12:280][682]LogSavePackage: Moving output files for package: /Game/VFX_SFX/Sounds/Footfalls/Tile/Footstep_Tile_4
+[2024.08.22-15.57.12:280][682]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Footstep_Tile_4EC6A612A4249E2696CECF0995B7EBB74.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/VFX_SFX/Sounds/Footfalls/Tile/Footstep_Tile_4.uasset'
+[2024.08.22-15.57.12:282][682]LogSavePackage: Moving output files for package: /Game/VFX_SFX/Sounds/Footfalls/Tile/Footstep_Tile_SC
+[2024.08.22-15.57.12:282][682]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Footstep_Tile_SC8F84B4AD45824707C9DB8C986796D864.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/VFX_SFX/Sounds/Footfalls/Tile/Footstep_Tile_SC.uasset'
+[2024.08.22-15.57.12:290][682]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 613 ms)
+[2024.08.22-15.57.12:373][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.08.22-15.57.12:399][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.08.22-15.57.12:422][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.08.22-15.57.12:440][682]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.22-15.57.12:440][682]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/VFX_SFX/Sounds/Footfalls/Tile/Footstep_Tile_1.Footstep_Tile_1
+[2024.08.22-15.57.12:440][682]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/VFX_SFX/Sounds/Footfalls/Tile/Footstep_Tile_2.Footstep_Tile_2
+[2024.08.22-15.57.12:440][682]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/VFX_SFX/Sounds/Footfalls/Tile/Footstep_Tile_3.Footstep_Tile_3
+[2024.08.22-15.57.12:440][682]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/VFX_SFX/Sounds/Footfalls/Tile/Footstep_Tile_4.Footstep_Tile_4
+[2024.08.22-15.57.12:440][682]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/VFX_SFX/Sounds/Footfalls/Tile/Footstep_Tile_SC.Footstep_Tile_SC
+[2024.08.22-15.57.12:440][682]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Movement/BPC_Footfalls.BPC_Footfalls
+[2024.08.22-15.57.14:030][841]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.08.22-15.57.14:050][841]LogContentBrowser: Creating deferred item: NewFolder
+[2024.08.22-15.57.14:060][842]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.08.22-15.57.15:396][995]LogContentBrowser: Attempting asset rename: NewFolder -> Wood
+[2024.08.22-15.57.15:396][995]LogContentBrowser: End creating deferred item NewFolder
+[2024.08.22-15.57.17:350][191]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.08.22-15.57.17:361][191]LogContentBrowser: Creating deferred item: NewFolder
+[2024.08.22-15.57.17:372][192]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.08.22-15.57.19:360][419]LogContentBrowser: Attempting asset rename: NewFolder -> Grass
+[2024.08.22-15.57.19:360][419]LogContentBrowser: End creating deferred item NewFolder
+[2024.08.22-15.57.32:002][429]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\harry\Soundly Audio\Footsteps, Human, Wood, Walk SND62081.wav)
+[2024.08.22-15.57.32:003][429]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Footsteps__Human__Wood__Walk_SND62081...
+[2024.08.22-15.57.32:003][429]LogAudioDerivedData: Warning: [SoundWave /Game/VFX_SFX/Sounds/Footfalls/Wood/Footsteps__Human__Wood__Walk_SND62081.Footsteps__Human__Wood__Walk_SND62081] High sample rate wave (96000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2024.08.22-15.57.32:004][429]LogAudio: Display: Chunk size for SoundWave /Game/VFX_SFX/Sounds/Footfalls/Wood/Footsteps__Human__Wood__Walk_SND62081.Footsteps__Human__Wood__Walk_SND62081: 262144
+[2024.08.22-15.57.32:017][429]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Footsteps__Human__Wood__Walk_SND62081...
+[2024.08.22-15.57.32:017][429]LogAudioDerivedData: Warning: [SoundWave /Game/VFX_SFX/Sounds/Footfalls/Wood/Footsteps__Human__Wood__Walk_SND62081.Footsteps__Human__Wood__Walk_SND62081] High sample rate wave (96000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2024.08.22-15.57.32:018][429]LogAudio: Display: Chunk size for SoundWave /Game/VFX_SFX/Sounds/Footfalls/Wood/Footsteps__Human__Wood__Walk_SND62081.Footsteps__Human__Wood__Walk_SND62081: 262144
+[2024.08.22-15.57.35:013][477]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\harry\Soundly Audio\Footsteps, Human, Wood, Walk SND62081 1.wav)
+[2024.08.22-15.57.35:015][477]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Footsteps__Human__Wood__Walk_SND62081_1...
+[2024.08.22-15.57.35:015][477]LogAudioDerivedData: Warning: [SoundWave /Game/VFX_SFX/Sounds/Footfalls/Wood/Footsteps__Human__Wood__Walk_SND62081_1.Footsteps__Human__Wood__Walk_SND62081_1] High sample rate wave (96000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2024.08.22-15.57.35:016][477]LogAudio: Display: Chunk size for SoundWave /Game/VFX_SFX/Sounds/Footfalls/Wood/Footsteps__Human__Wood__Walk_SND62081_1.Footsteps__Human__Wood__Walk_SND62081_1: 262144
+[2024.08.22-15.57.35:029][477]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Footsteps__Human__Wood__Walk_SND62081_1...
+[2024.08.22-15.57.35:029][477]LogAudioDerivedData: Warning: [SoundWave /Game/VFX_SFX/Sounds/Footfalls/Wood/Footsteps__Human__Wood__Walk_SND62081_1.Footsteps__Human__Wood__Walk_SND62081_1] High sample rate wave (96000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2024.08.22-15.57.35:030][477]LogAudio: Display: Chunk size for SoundWave /Game/VFX_SFX/Sounds/Footfalls/Wood/Footsteps__Human__Wood__Walk_SND62081_1.Footsteps__Human__Wood__Walk_SND62081_1: 262144
+[2024.08.22-15.57.42:905][597]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\harry\Soundly Audio\Footsteps, Human, Wood, Walk SND62081 2.wav)
+[2024.08.22-15.57.42:906][597]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Footsteps__Human__Wood__Walk_SND62081_2...
+[2024.08.22-15.57.42:906][597]LogAudioDerivedData: Warning: [SoundWave /Game/VFX_SFX/Sounds/Footfalls/Wood/Footsteps__Human__Wood__Walk_SND62081_2.Footsteps__Human__Wood__Walk_SND62081_2] High sample rate wave (96000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2024.08.22-15.57.42:908][597]LogAudio: Display: Chunk size for SoundWave /Game/VFX_SFX/Sounds/Footfalls/Wood/Footsteps__Human__Wood__Walk_SND62081_2.Footsteps__Human__Wood__Walk_SND62081_2: 262144
+[2024.08.22-15.57.42:918][597]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Footsteps__Human__Wood__Walk_SND62081_2...
+[2024.08.22-15.57.42:918][597]LogAudioDerivedData: Warning: [SoundWave /Game/VFX_SFX/Sounds/Footfalls/Wood/Footsteps__Human__Wood__Walk_SND62081_2.Footsteps__Human__Wood__Walk_SND62081_2] High sample rate wave (96000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2024.08.22-15.57.42:919][597]LogAudio: Display: Chunk size for SoundWave /Game/VFX_SFX/Sounds/Footfalls/Wood/Footsteps__Human__Wood__Walk_SND62081_2.Footsteps__Human__Wood__Walk_SND62081_2: 262144
+[2024.08.22-15.57.45:754][665]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\harry\Soundly Audio\Footsteps, Human, Wood, Walk SND62081 3.wav)
+[2024.08.22-15.57.45:756][665]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Footsteps__Human__Wood__Walk_SND62081_3...
+[2024.08.22-15.57.45:756][665]LogAudioDerivedData: Warning: [SoundWave /Game/VFX_SFX/Sounds/Footfalls/Wood/Footsteps__Human__Wood__Walk_SND62081_3.Footsteps__Human__Wood__Walk_SND62081_3] High sample rate wave (96000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2024.08.22-15.57.45:757][665]LogAudio: Display: Chunk size for SoundWave /Game/VFX_SFX/Sounds/Footfalls/Wood/Footsteps__Human__Wood__Walk_SND62081_3.Footsteps__Human__Wood__Walk_SND62081_3: 262144
+[2024.08.22-15.57.45:777][665]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Footsteps__Human__Wood__Walk_SND62081_3...
+[2024.08.22-15.57.45:777][665]LogAudioDerivedData: Warning: [SoundWave /Game/VFX_SFX/Sounds/Footfalls/Wood/Footsteps__Human__Wood__Walk_SND62081_3.Footsteps__Human__Wood__Walk_SND62081_3] High sample rate wave (96000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2024.08.22-15.57.45:779][665]LogAudio: Display: Chunk size for SoundWave /Game/VFX_SFX/Sounds/Footfalls/Wood/Footsteps__Human__Wood__Walk_SND62081_3.Footsteps__Human__Wood__Walk_SND62081_3: 262144
+[2024.08.22-15.57.54:895][523]LogContentBrowser: Attempting asset rename: Footsteps__Human__Wood__Walk_SND62081 -> Footfall_Wood_1
+[2024.08.22-15.57.54:909][523]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-15.57.54:931][523]LogSavePackage: Moving output files for package: /Game/VFX_SFX/Sounds/Footfalls/Wood/Footfall_Wood_1
+[2024.08.22-15.57.54:931][523]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Footfall_Wood_15833281E4D461BFEAE0B9E81108EE020.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/VFX_SFX/Sounds/Footfalls/Wood/Footfall_Wood_1.uasset'
+[2024.08.22-15.57.54:939][523]LogFileHelpers: InternalPromptForCheckoutAndSave took 29 ms (total: 642 ms)
+[2024.08.22-15.57.54:977][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.08.22-15.57.55:002][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.08.22-15.57.55:023][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.08.22-15.57.55:028][523]AssetCheck: New page: Asset Save: Footfall_Wood_1
+[2024.08.22-15.57.55:028][523]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/VFX_SFX/Sounds/Footfalls/Wood/Footfall_Wood_1.Footfall_Wood_1
+[2024.08.22-15.57.56:832][736]LogContentBrowser: Attempting asset rename: Footsteps__Human__Wood__Walk_SND62081_1 -> Footfall_Wood_2
+[2024.08.22-15.57.56:847][736]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-15.57.56:871][736]LogSavePackage: Moving output files for package: /Game/VFX_SFX/Sounds/Footfalls/Wood/Footfall_Wood_2
+[2024.08.22-15.57.56:871][736]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Footfall_Wood_27E437C5C4D86007219A19A9D4F99BCF4.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/VFX_SFX/Sounds/Footfalls/Wood/Footfall_Wood_2.uasset'
+[2024.08.22-15.57.56:880][736]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 675 ms)
+[2024.08.22-15.57.56:914][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.08.22-15.57.56:938][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.08.22-15.57.56:961][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.08.22-15.57.56:966][736]AssetCheck: New page: Asset Save: Footfall_Wood_2
+[2024.08.22-15.57.56:966][736]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/VFX_SFX/Sounds/Footfalls/Wood/Footfall_Wood_2.Footfall_Wood_2
+[2024.08.22-15.57.59:289][ 13]LogContentBrowser: Attempting asset rename: Footsteps__Human__Wood__Walk_SND62081_2 -> Footfall_Wood_3
+[2024.08.22-15.57.59:303][ 13]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-15.57.59:328][ 13]LogSavePackage: Moving output files for package: /Game/VFX_SFX/Sounds/Footfalls/Wood/Footfall_Wood_3
+[2024.08.22-15.57.59:328][ 13]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Footfall_Wood_368BB95B347EBF5131379929409BC577A.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/VFX_SFX/Sounds/Footfalls/Wood/Footfall_Wood_3.uasset'
+[2024.08.22-15.57.59:337][ 13]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 709 ms)
+[2024.08.22-15.57.59:370][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.08.22-15.57.59:392][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.08.22-15.57.59:415][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.08.22-15.57.59:421][ 13]AssetCheck: New page: Asset Save: Footfall_Wood_3
+[2024.08.22-15.57.59:421][ 13]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/VFX_SFX/Sounds/Footfalls/Wood/Footfall_Wood_3.Footfall_Wood_3
+[2024.08.22-15.58.02:238][268]LogContentBrowser: Attempting asset rename: Footsteps__Human__Wood__Walk_SND62081_3 -> Footfall_Wood_4
+[2024.08.22-15.58.02:252][268]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-15.58.02:276][268]LogSavePackage: Moving output files for package: /Game/VFX_SFX/Sounds/Footfalls/Wood/Footfall_Wood_4
+[2024.08.22-15.58.02:276][268]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Footfall_Wood_458AF91EE4D24535165F6AF962907819A.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/VFX_SFX/Sounds/Footfalls/Wood/Footfall_Wood_4.uasset'
+[2024.08.22-15.58.02:284][268]LogFileHelpers: InternalPromptForCheckoutAndSave took 32 ms (total: 742 ms)
+[2024.08.22-15.58.02:316][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.08.22-15.58.02:339][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.08.22-15.58.02:361][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.08.22-15.58.02:366][268]AssetCheck: New page: Asset Save: Footfall_Wood_4
+[2024.08.22-15.58.02:366][268]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/VFX_SFX/Sounds/Footfalls/Wood/Footfall_Wood_4.Footfall_Wood_4
+[2024.08.22-15.59.24:843][101]LogContentBrowser: Attempting asset rename: Footstep_Tile_SC -> Footstep_Grass_SC
+[2024.08.22-15.59.24:858][101]LogMetaData: Removing '/Game/VFX_SFX/Sounds/Footfalls/Wood/Footstep_Grass_SC.Footstep_Grass_SC:SoundCueGraph_0.SoundCueGraphNode_Root_0' ref from Metadata '/Game/VFX_SFX/Sounds/Footfalls/Wood/Footstep_Tile_SC.PackageMetaData'
+[2024.08.22-15.59.24:858][101]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-15.59.24:885][101]LogSavePackage: Moving output files for package: /Game/VFX_SFX/Sounds/Footfalls/Wood/Footstep_Grass_SC
+[2024.08.22-15.59.24:885][101]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Footstep_Grass_SC19A743FC4DD86804A2A1B88A0A1EECE6.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/VFX_SFX/Sounds/Footfalls/Wood/Footstep_Grass_SC.uasset'
+[2024.08.22-15.59.24:892][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 776 ms)
+[2024.08.22-15.59.24:927][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.08.22-15.59.24:952][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.08.22-15.59.24:977][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.08.22-15.59.24:981][101]AssetCheck: New page: Asset Save: Footstep_Grass_SC
+[2024.08.22-15.59.24:981][101]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/VFX_SFX/Sounds/Footfalls/Wood/Footstep_Grass_SC.Footstep_Grass_SC
+[2024.08.22-15.59.27:032][345]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/VFX_SFX/Sounds/Footfalls/Wood/Footstep_Grass_SC.Footstep_Grass_SC
+[2024.08.22-15.59.39:267][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.08.22-15.59.39:270][552]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-15.59.39:299][552]LogSavePackage: Moving output files for package: /Game/VFX_SFX/Sounds/Footfalls/Wood/Footstep_Grass_SC
+[2024.08.22-15.59.39:299][552]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Footstep_Grass_SCEA3B89B34830FAB754C686B8BE1260B3.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/VFX_SFX/Sounds/Footfalls/Wood/Footstep_Grass_SC.uasset'
+[2024.08.22-15.59.39:306][552]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 813 ms)
+[2024.08.22-15.59.39:311][552]AssetCheck: New page: Asset Save: Footstep_Grass_SC
+[2024.08.22-15.59.39:311][552]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/VFX_SFX/Sounds/Footfalls/Wood/Footstep_Grass_SC.Footstep_Grass_SC
+[2024.08.22-16.00.15:814][  0]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-16.00.15:840][  0]LogSavePackage: Moving output files for package: /Game/VFX_SFX/Sounds/Footfalls/Wood/Footfall_Wood_1
+[2024.08.22-16.00.15:841][  0]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Footfall_Wood_1699F115742DCCBE39000AE995B8ED783.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/VFX_SFX/Sounds/Footfalls/Wood/Footfall_Wood_1.uasset'
+[2024.08.22-16.00.15:843][  0]LogSavePackage: Moving output files for package: /Game/VFX_SFX/Sounds/Footfalls/Wood/Footfall_Wood_2
+[2024.08.22-16.00.15:844][  0]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Footfall_Wood_2801D7D48436AD9EAF326129EC51C2A8F.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/VFX_SFX/Sounds/Footfalls/Wood/Footfall_Wood_2.uasset'
+[2024.08.22-16.00.15:846][  0]LogSavePackage: Moving output files for package: /Game/VFX_SFX/Sounds/Footfalls/Wood/Footfall_Wood_3
+[2024.08.22-16.00.15:846][  0]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Footfall_Wood_341A7F01A44532A1212882C97F5DA4084.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/VFX_SFX/Sounds/Footfalls/Wood/Footfall_Wood_3.uasset'
+[2024.08.22-16.00.15:848][  0]LogSavePackage: Moving output files for package: /Game/VFX_SFX/Sounds/Footfalls/Wood/Footfall_Wood_4
+[2024.08.22-16.00.15:848][  0]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Footfall_Wood_447ECC86841E5FA05C669D2A3FC2301A4.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/VFX_SFX/Sounds/Footfalls/Wood/Footfall_Wood_4.uasset'
+[2024.08.22-16.00.15:856][  0]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 855 ms)
+[2024.08.22-16.00.15:860][  0]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.22-16.00.15:860][  0]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/VFX_SFX/Sounds/Footfalls/Wood/Footfall_Wood_4.Footfall_Wood_4
+[2024.08.22-16.00.15:860][  0]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/VFX_SFX/Sounds/Footfalls/Wood/Footfall_Wood_3.Footfall_Wood_3
+[2024.08.22-16.00.15:860][  0]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/VFX_SFX/Sounds/Footfalls/Wood/Footfall_Wood_2.Footfall_Wood_2
+[2024.08.22-16.00.15:860][  0]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/VFX_SFX/Sounds/Footfalls/Wood/Footfall_Wood_1.Footfall_Wood_1
+[2024.08.22-16.02.54:934][588]LogContentBrowser: Attempting asset rename: Footstep_Tile_SC -> Footstep_Grass_SC
+[2024.08.22-16.02.54:949][588]LogMetaData: Removing '/Game/VFX_SFX/Sounds/Footfalls/Grass/Footstep_Grass_SC.Footstep_Grass_SC:SoundCueGraph_0.SoundCueGraphNode_Root_0' ref from Metadata '/Game/VFX_SFX/Sounds/Footfalls/Grass/Footstep_Tile_SC.PackageMetaData'
+[2024.08.22-16.02.54:950][588]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-16.02.54:982][588]LogSavePackage: Moving output files for package: /Game/VFX_SFX/Sounds/Footfalls/Grass/Footstep_Grass_SC
+[2024.08.22-16.02.54:982][588]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Footstep_Grass_SCF4EF074740E6D203E6FB0D8E653965B2.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/VFX_SFX/Sounds/Footfalls/Grass/Footstep_Grass_SC.uasset'
+[2024.08.22-16.02.54:992][588]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 896 ms)
+[2024.08.22-16.02.55:027][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.08.22-16.02.55:055][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.08.22-16.02.55:079][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.08.22-16.02.55:083][588]AssetCheck: New page: Asset Save: Footstep_Grass_SC
+[2024.08.22-16.02.55:083][588]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/VFX_SFX/Sounds/Footfalls/Grass/Footstep_Grass_SC.Footstep_Grass_SC
+[2024.08.22-16.02.56:364][723]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/VFX_SFX/Sounds/Footfalls/Grass/Footstep_Grass_SC.Footstep_Grass_SC
+[2024.08.22-16.05.26:566][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.08.22-16.05.26:568][496]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/ThirdPersonMap' took 0.027
+[2024.08.22-16.05.26:569][496]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Movement/BPC_Footfalls] ([2] browsable assets)...
+[2024.08.22-16.05.26:569][496]OBJ SavePackage: Finished generating thumbnails for package [/Game/Movement/BPC_Footfalls]
+[2024.08.22-16.05.26:578][496]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Movement/BPC_Footfalls_Auto4
+[2024.08.22-16.05.26:578][496]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BPC_Footfalls_Auto4C5B86775449D1B548A3E30976C628297.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Autosaves/Game/Movement/BPC_Footfalls_Auto4.uasset'
+[2024.08.22-16.05.26:579][496]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VFX_SFX/Sounds/Footfalls/Grass/Footstep_Grass_SC] ([1] browsable assets)...
+[2024.08.22-16.05.26:579][496]OBJ SavePackage: Finished generating thumbnails for package [/Game/VFX_SFX/Sounds/Footfalls/Grass/Footstep_Grass_SC]
+[2024.08.22-16.05.26:580][496]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VFX_SFX/Sounds/Footfalls/Grass/Footstep_Grass_SC_Auto4
+[2024.08.22-16.05.26:580][496]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Footstep_Grass_SC_Auto457E9E9184838EEC7414AB98DFEB10FAF.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Autosaves/Game/VFX_SFX/Sounds/Footfalls/Grass/Footstep_Grass_SC_Auto4.uasset'
+[2024.08.22-16.05.26:581][496]LogFileHelpers: Auto-saving content packages took 0.012
+[2024.08.22-16.07.07:697][997]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\harry\Soundly Audio\Footsteps, Human, Grass, Run SND62074.wav)
+[2024.08.22-16.07.07:699][997]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Footsteps__Human__Grass__Run_SND62074...
+[2024.08.22-16.07.07:699][997]LogAudioDerivedData: Warning: [SoundWave /Game/VFX_SFX/Sounds/Footfalls/Grass/Footsteps__Human__Grass__Run_SND62074.Footsteps__Human__Grass__Run_SND62074] High sample rate wave (96000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2024.08.22-16.07.07:701][997]LogAudio: Display: Chunk size for SoundWave /Game/VFX_SFX/Sounds/Footfalls/Grass/Footsteps__Human__Grass__Run_SND62074.Footsteps__Human__Grass__Run_SND62074: 262144
+[2024.08.22-16.07.07:709][997]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Footsteps__Human__Grass__Run_SND62074...
+[2024.08.22-16.07.07:710][997]LogAudioDerivedData: Warning: [SoundWave /Game/VFX_SFX/Sounds/Footfalls/Grass/Footsteps__Human__Grass__Run_SND62074.Footsteps__Human__Grass__Run_SND62074] High sample rate wave (96000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2024.08.22-16.07.07:712][997]LogAudio: Display: Chunk size for SoundWave /Game/VFX_SFX/Sounds/Footfalls/Grass/Footsteps__Human__Grass__Run_SND62074.Footsteps__Human__Grass__Run_SND62074: 262144
+[2024.08.22-16.07.13:092][ 91]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\harry\Soundly Audio\Footsteps, Human, Grass, Run SND62074 1.wav)
+[2024.08.22-16.07.13:094][ 91]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Footsteps__Human__Grass__Run_SND62074_1...
+[2024.08.22-16.07.13:094][ 91]LogAudioDerivedData: Warning: [SoundWave /Game/VFX_SFX/Sounds/Footfalls/Grass/Footsteps__Human__Grass__Run_SND62074_1.Footsteps__Human__Grass__Run_SND62074_1] High sample rate wave (96000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2024.08.22-16.07.13:097][ 91]LogAudio: Display: Chunk size for SoundWave /Game/VFX_SFX/Sounds/Footfalls/Grass/Footsteps__Human__Grass__Run_SND62074_1.Footsteps__Human__Grass__Run_SND62074_1: 262144
+[2024.08.22-16.07.13:111][ 91]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Footsteps__Human__Grass__Run_SND62074_1...
+[2024.08.22-16.07.13:111][ 91]LogAudioDerivedData: Warning: [SoundWave /Game/VFX_SFX/Sounds/Footfalls/Grass/Footsteps__Human__Grass__Run_SND62074_1.Footsteps__Human__Grass__Run_SND62074_1] High sample rate wave (96000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2024.08.22-16.07.13:114][ 91]LogAudio: Display: Chunk size for SoundWave /Game/VFX_SFX/Sounds/Footfalls/Grass/Footsteps__Human__Grass__Run_SND62074_1.Footsteps__Human__Grass__Run_SND62074_1: 262144
+[2024.08.22-16.07.49:335][253]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\harry\Soundly Audio\Footsteps, Human, Grass, Run SND62074 2.wav)
+[2024.08.22-16.07.49:337][253]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Footsteps__Human__Grass__Run_SND62074_2...
+[2024.08.22-16.07.49:337][253]LogAudioDerivedData: Warning: [SoundWave /Game/VFX_SFX/Sounds/Footfalls/Grass/Footsteps__Human__Grass__Run_SND62074_2.Footsteps__Human__Grass__Run_SND62074_2] High sample rate wave (96000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2024.08.22-16.07.49:340][253]LogAudio: Display: Chunk size for SoundWave /Game/VFX_SFX/Sounds/Footfalls/Grass/Footsteps__Human__Grass__Run_SND62074_2.Footsteps__Human__Grass__Run_SND62074_2: 262144
+[2024.08.22-16.07.49:361][253]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Footsteps__Human__Grass__Run_SND62074_2...
+[2024.08.22-16.07.49:361][253]LogAudioDerivedData: Warning: [SoundWave /Game/VFX_SFX/Sounds/Footfalls/Grass/Footsteps__Human__Grass__Run_SND62074_2.Footsteps__Human__Grass__Run_SND62074_2] High sample rate wave (96000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2024.08.22-16.07.49:363][253]LogAudio: Display: Chunk size for SoundWave /Game/VFX_SFX/Sounds/Footfalls/Grass/Footsteps__Human__Grass__Run_SND62074_2.Footsteps__Human__Grass__Run_SND62074_2: 262144
+[2024.08.22-16.07.52:988][296]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\harry\Soundly Audio\Footsteps, Human, Grass, Run SND62074 3.wav)
+[2024.08.22-16.07.52:990][296]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Footsteps__Human__Grass__Run_SND62074_3...
+[2024.08.22-16.07.52:990][296]LogAudioDerivedData: Warning: [SoundWave /Game/VFX_SFX/Sounds/Footfalls/Grass/Footsteps__Human__Grass__Run_SND62074_3.Footsteps__Human__Grass__Run_SND62074_3] High sample rate wave (96000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2024.08.22-16.07.52:992][296]LogAudio: Display: Chunk size for SoundWave /Game/VFX_SFX/Sounds/Footfalls/Grass/Footsteps__Human__Grass__Run_SND62074_3.Footsteps__Human__Grass__Run_SND62074_3: 262144
+[2024.08.22-16.07.53:030][296]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Footsteps__Human__Grass__Run_SND62074_3...
+[2024.08.22-16.07.53:030][296]LogAudioDerivedData: Warning: [SoundWave /Game/VFX_SFX/Sounds/Footfalls/Grass/Footsteps__Human__Grass__Run_SND62074_3.Footsteps__Human__Grass__Run_SND62074_3] High sample rate wave (96000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2024.08.22-16.07.53:031][296]LogAudio: Display: Chunk size for SoundWave /Game/VFX_SFX/Sounds/Footfalls/Grass/Footsteps__Human__Grass__Run_SND62074_3.Footsteps__Human__Grass__Run_SND62074_3: 262144
+[2024.08.22-16.07.54:941][332]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-16.07.54:970][332]LogSavePackage: Moving output files for package: /Game/VFX_SFX/Sounds/Footfalls/Grass/Footstep_Grass_SC
+[2024.08.22-16.07.54:970][332]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Footstep_Grass_SCC3F3B6DA46EC1920072439B9112214DA.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/VFX_SFX/Sounds/Footfalls/Grass/Footstep_Grass_SC.uasset'
+[2024.08.22-16.07.54:975][332]LogSavePackage: Moving output files for package: /Game/VFX_SFX/Sounds/Footfalls/Grass/Footsteps__Human__Grass__Run_SND62074_3
+[2024.08.22-16.07.54:975][332]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Footsteps__Human__Grass__Run_SND18F4120640CB42635A3D509D2DD8C414.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/VFX_SFX/Sounds/Footfalls/Grass/Footsteps__Human__Grass__Run_SND62074_3.uasset'
+[2024.08.22-16.07.54:980][332]LogSavePackage: Moving output files for package: /Game/VFX_SFX/Sounds/Footfalls/Grass/Footsteps__Human__Grass__Run_SND62074_2
+[2024.08.22-16.07.54:980][332]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Footsteps__Human__Grass__Run_SNDA375B5B743206E53C85F67979D3D0736.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/VFX_SFX/Sounds/Footfalls/Grass/Footsteps__Human__Grass__Run_SND62074_2.uasset'
+[2024.08.22-16.07.54:985][332]LogSavePackage: Moving output files for package: /Game/VFX_SFX/Sounds/Footfalls/Grass/Footsteps__Human__Grass__Run_SND62074_1
+[2024.08.22-16.07.54:985][332]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Footsteps__Human__Grass__Run_SND5FA3D6154A3778947C729A99FA00FAFD.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/VFX_SFX/Sounds/Footfalls/Grass/Footsteps__Human__Grass__Run_SND62074_1.uasset'
+[2024.08.22-16.07.54:989][332]LogSavePackage: Moving output files for package: /Game/VFX_SFX/Sounds/Footfalls/Grass/Footsteps__Human__Grass__Run_SND62074
+[2024.08.22-16.07.54:990][332]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Footsteps__Human__Grass__Run_SND981B59354F6B11E89AF7568BF82AF48E.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/VFX_SFX/Sounds/Footfalls/Grass/Footsteps__Human__Grass__Run_SND62074.uasset'
+[2024.08.22-16.07.54:998][332]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 954 ms)
+[2024.08.22-16.07.55:002][332]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.22-16.07.55:002][332]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/VFX_SFX/Sounds/Footfalls/Grass/Footstep_Grass_SC.Footstep_Grass_SC
+[2024.08.22-16.07.55:002][332]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/VFX_SFX/Sounds/Footfalls/Grass/Footsteps__Human__Grass__Run_SND62074_3.Footsteps__Human__Grass__Run_SND62074_3
+[2024.08.22-16.07.55:002][332]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/VFX_SFX/Sounds/Footfalls/Grass/Footsteps__Human__Grass__Run_SND62074_2.Footsteps__Human__Grass__Run_SND62074_2
+[2024.08.22-16.07.55:002][332]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/VFX_SFX/Sounds/Footfalls/Grass/Footsteps__Human__Grass__Run_SND62074_1.Footsteps__Human__Grass__Run_SND62074_1
+[2024.08.22-16.07.55:002][332]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/VFX_SFX/Sounds/Footfalls/Grass/Footsteps__Human__Grass__Run_SND62074.Footsteps__Human__Grass__Run_SND62074
+[2024.08.22-16.08.03:976][297]LogContentBrowser: Attempting asset rename: Footsteps__Human__Grass__Run_SND62074 -> Footstep_Grass_1
+[2024.08.22-16.08.03:994][297]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-16.08.04:024][297]LogSavePackage: Moving output files for package: /Game/VFX_SFX/Sounds/Footfalls/Grass/Footstep_Grass_1
+[2024.08.22-16.08.04:024][297]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Footstep_Grass_1581CC0A64DF0A8288D0F10A57C5C1CC6.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/VFX_SFX/Sounds/Footfalls/Grass/Footstep_Grass_1.uasset'
+[2024.08.22-16.08.04:033][297]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 993 ms)
+[2024.08.22-16.08.04:068][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.08.22-16.08.04:092][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.08.22-16.08.04:116][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.08.22-16.08.04:122][297]AssetCheck: New page: Asset Save: Footstep_Grass_1
+[2024.08.22-16.08.04:122][297]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/VFX_SFX/Sounds/Footfalls/Grass/Footstep_Grass_1.Footstep_Grass_1
+[2024.08.22-16.08.05:597][457]LogContentBrowser: Attempting asset rename: Footsteps__Human__Grass__Run_SND62074_1 -> Footstep_Grass_2
+[2024.08.22-16.08.05:613][457]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-16.08.05:636][457]LogSavePackage: Moving output files for package: /Game/VFX_SFX/Sounds/Footfalls/Grass/Footstep_Grass_2
+[2024.08.22-16.08.05:636][457]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Footstep_Grass_2732D489548B5885A83DD21A6C9312300.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/VFX_SFX/Sounds/Footfalls/Grass/Footstep_Grass_2.uasset'
+[2024.08.22-16.08.05:646][457]LogFileHelpers: InternalPromptForCheckoutAndSave took 32 ms (total: 1.02 sec)
+[2024.08.22-16.08.05:679][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.08.22-16.08.05:703][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.08.22-16.08.05:728][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.08.22-16.08.05:734][457]AssetCheck: New page: Asset Save: Footstep_Grass_2
+[2024.08.22-16.08.05:734][457]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/VFX_SFX/Sounds/Footfalls/Grass/Footstep_Grass_2.Footstep_Grass_2
+[2024.08.22-16.08.07:028][591]LogContentBrowser: Attempting asset rename: Footsteps__Human__Grass__Run_SND62074_2 -> Footstep_Grass_3
+[2024.08.22-16.08.07:047][591]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-16.08.07:074][591]LogSavePackage: Moving output files for package: /Game/VFX_SFX/Sounds/Footfalls/Grass/Footstep_Grass_3
+[2024.08.22-16.08.07:074][591]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Footstep_Grass_33871C29E4E0679AEDEAFA58D0F293228.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/VFX_SFX/Sounds/Footfalls/Grass/Footstep_Grass_3.uasset'
+[2024.08.22-16.08.07:085][591]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 1.06 sec)
+[2024.08.22-16.08.07:121][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.08.22-16.08.07:146][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.08.22-16.08.07:171][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.08.22-16.08.07:177][591]AssetCheck: New page: Asset Save: Footstep_Grass_3
+[2024.08.22-16.08.07:177][591]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/VFX_SFX/Sounds/Footfalls/Grass/Footstep_Grass_3.Footstep_Grass_3
+[2024.08.22-16.08.08:468][727]LogContentBrowser: Attempting asset rename: Footsteps__Human__Grass__Run_SND62074_3 -> Footstep_Grass_4
+[2024.08.22-16.08.08:484][727]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-16.08.08:515][727]LogSavePackage: Moving output files for package: /Game/VFX_SFX/Sounds/Footfalls/Grass/Footstep_Grass_4
+[2024.08.22-16.08.08:515][727]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Footstep_Grass_412ACE8094DEA062036CBB999AC96F700.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/VFX_SFX/Sounds/Footfalls/Grass/Footstep_Grass_4.uasset'
+[2024.08.22-16.08.08:523][727]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 1.10 sec)
+[2024.08.22-16.08.08:560][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.08.22-16.08.08:584][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.08.22-16.08.08:608][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.08.22-16.08.08:614][727]AssetCheck: New page: Asset Save: Footstep_Grass_4
+[2024.08.22-16.08.08:614][727]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/VFX_SFX/Sounds/Footfalls/Grass/Footstep_Grass_4.Footstep_Grass_4
+[2024.08.22-16.09.01:286][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.08.22-16.09.01:289][645]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-16.09.01:325][645]LogSavePackage: Moving output files for package: /Game/Movement/BPC_Footfalls
+[2024.08.22-16.09.01:325][645]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BPC_FootfallsC140404243A5A2EC1890008672735FF3.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Movement/BPC_Footfalls.uasset'
+[2024.08.22-16.09.01:327][645]LogSavePackage: Moving output files for package: /Game/VFX_SFX/Sounds/Footfalls/Grass/Footstep_Grass_SC
+[2024.08.22-16.09.01:327][645]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Footstep_Grass_SC6E76BC7245F691BBA85BC7856610920E.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/VFX_SFX/Sounds/Footfalls/Grass/Footstep_Grass_SC.uasset'
+[2024.08.22-16.09.01:335][645]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 1.14 sec)
+[2024.08.22-16.09.01:340][645]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.22-16.09.01:340][645]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Movement/BPC_Footfalls.BPC_Footfalls
+[2024.08.22-16.09.01:340][645]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/VFX_SFX/Sounds/Footfalls/Grass/Footstep_Grass_SC.Footstep_Grass_SC
+[2024.08.22-16.09.17:991][352]LogContentBrowser: Attempting asset rename: Footstep_Grass_SC -> Footstep_Wood_SC
+[2024.08.22-16.09.18:009][352]LogMetaData: Removing '/Game/VFX_SFX/Sounds/Footfalls/Wood/Footstep_Wood_SC.Footstep_Wood_SC:SoundCueGraph_0.SoundCueGraphNode_Root_0' ref from Metadata '/Game/VFX_SFX/Sounds/Footfalls/Wood/Footstep_Grass_SC.PackageMetaData'
+[2024.08.22-16.09.18:009][352]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-16.09.18:042][352]LogSavePackage: Moving output files for package: /Game/Movement/BPC_Footfalls
+[2024.08.22-16.09.18:042][352]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BPC_Footfalls862B0FAE48C78070519A57A2A665D3D1.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Movement/BPC_Footfalls.uasset'
+[2024.08.22-16.09.18:045][352]LogSavePackage: Moving output files for package: /Game/VFX_SFX/Sounds/Footfalls/Wood/Footstep_Wood_SC
+[2024.08.22-16.09.18:045][352]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Footstep_Wood_SC5A1B87E146DED5066307A99D6FBCE60E.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/VFX_SFX/Sounds/Footfalls/Wood/Footstep_Wood_SC.uasset'
+[2024.08.22-16.09.18:053][352]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 1.19 sec)
+[2024.08.22-16.09.18:091][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.08.22-16.09.18:115][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.08.22-16.09.18:139][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.08.22-16.09.18:144][352]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.22-16.09.18:144][352]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Movement/BPC_Footfalls.BPC_Footfalls
+[2024.08.22-16.09.18:144][352]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/VFX_SFX/Sounds/Footfalls/Wood/Footstep_Wood_SC.Footstep_Wood_SC
+[2024.08.22-16.09.43:570][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.08.22-16.09.43:575][377]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-16.09.43:608][377]LogSavePackage: Moving output files for package: /Game/Movement/BPC_Footfalls
+[2024.08.22-16.09.43:609][377]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BPC_FootfallsF4DFE96E45889D374F208787EADED4D5.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Movement/BPC_Footfalls.uasset'
+[2024.08.22-16.09.43:616][377]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 1.23 sec)
+[2024.08.22-16.09.43:621][377]AssetCheck: New page: Asset Save: BPC_Footfalls
+[2024.08.22-16.09.43:621][377]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Movement/BPC_Footfalls.BPC_Footfalls
+[2024.08.22-16.10.12:575][671]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.10.12:587][672]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.22-16.10.24:312][995]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.08.22-16.10.24:333][995]LogContentBrowser: Creating deferred item: NewFolder
+[2024.08.22-16.10.24:343][996]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.08.22-16.10.28:574][499]LogContentBrowser: Attempting asset rename: NewFolder -> Physics_Materials
+[2024.08.22-16.10.28:575][499]LogContentBrowser: End creating deferred item NewFolder
+[2024.08.22-16.13.57:653][737]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.22-16.13.58:288][797]LogShaderCompilers: Display: ================================================
+[2024.08.22-16.13.58:288][797]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.08.22-16.13.58:288][797]LogShaderCompilers: Display: Total job queries 17, among them cache hits 0 (0.00%)
+[2024.08.22-16.13.58:288][797]LogShaderCompilers: Display: Tracking 15 distinct input hashes that result in 14 distinct outputs (93.33%)
+[2024.08.22-16.13.58:288][797]LogShaderCompilers: Display: RAM used: 301.57 KiB of 1.60 GiB budget. Usage: 0.02%
+[2024.08.22-16.13.58:288][797]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.08.22-16.13.58:288][797]LogShaderCompilers: Display: Shaders Compiled: 2
+[2024.08.22-16.13.58:288][797]LogShaderCompilers: Display: Jobs assigned 4, completed 2 (50.00%)
+[2024.08.22-16.13.58:288][797]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.08 s
+[2024.08.22-16.13.58:288][797]LogShaderCompilers: Display: Job execution time: average 0.53 s, max 0.53 s
+[2024.08.22-16.13.58:288][797]LogShaderCompilers: Display: Job life time (pending + execution): average 0.61 s, max 0.61
+[2024.08.22-16.13.58:288][797]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.61 s
+[2024.08.22-16.13.58:288][797]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.08.22-16.13.58:288][797]LogShaderCompilers: Display: Average processing rate: 3.30 jobs/sec
+[2024.08.22-16.13.58:289][797]LogShaderCompilers: Display: Total thread time: 0.555 s
+[2024.08.22-16.13.58:289][797]LogShaderCompilers: Display: Total thread preprocess time: 0.025 s
+[2024.08.22-16.13.58:289][797]LogShaderCompilers: Display: Percentage time preprocessing: 4.46%
+[2024.08.22-16.13.58:289][797]LogShaderCompilers: Display: Effective parallelization: 0.92 (times faster than compiling all shaders on one thread). Compare with number of workers: 14
+[2024.08.22-16.13.58:289][797]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2024.08.22-16.13.58:289][797]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2024.08.22-16.13.58:289][797]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.25 sec, max 0.25 sec, min 0.25 sec)
+[2024.08.22-16.13.58:289][797]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2024.08.22-16.13.58:289][797]LogShaderCompilers: Display:                                                 FLumenCardVS - 55.04% of total time (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2024.08.22-16.13.58:289][797]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 44.96% of total time (compiled    1 times, average 0.25 sec, max 0.25 sec, min 0.25 sec)
+[2024.08.22-16.13.58:289][797]LogShaderCompilers: Display: ================================================
+[2024.08.22-16.13.58:932][864]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.MI_PrototypeGrid_Gray
+[2024.08.22-16.13.58:945][864]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.22-16.13.58:945][864]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.22-16.13.59:092][864]LogViewport: Scene viewport resized to 704x491, mode Windowed.
+[2024.08.22-16.14.47:141][485]LogSlate: Window 'Pick Physical Material Class' being destroyed
+[2024.08.22-16.14.47:148][485]LogContentBrowser: Deferred new asset file creation: NewPhysicalMaterial
+[2024.08.22-16.14.47:154][485]LogContentBrowser: Creating deferred item: NewPhysicalMaterial
+[2024.08.22-16.14.47:179][487]LogContentBrowser: Renaming the item being created (Deferred Item: NewPhysicalMaterial).
+[2024.08.22-16.14.50:349][865]LogContentBrowser: Attempting asset rename: NewPhysicalMaterial -> PM_Grass
+[2024.08.22-16.14.50:350][865]LogContentBrowser: End creating deferred item NewPhysicalMaterial
+[2024.08.22-16.14.53:967][256]LogContentBrowser: Attempting asset rename: PM_Grass_2 -> PM_Tile
+[2024.08.22-16.14.53:982][256]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-16.14.54:012][256]LogSavePackage: Moving output files for package: /Game/Physics_Materials/PM_Tile
+[2024.08.22-16.14.54:012][256]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/PM_TileC2B7C57540A142F2E2D02D891582F5FC.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Physics_Materials/PM_Tile.uasset'
+[2024.08.22-16.14.54:021][256]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 1.27 sec)
+[2024.08.22-16.14.54:057][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.08.22-16.14.54:084][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.08.22-16.14.54:107][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.08.22-16.14.54:113][256]AssetCheck: New page: Asset Save: PM_Tile
+[2024.08.22-16.14.54:113][256]LogContentValidation: Display: Validating /Script/PhysicsCore.PhysicalMaterial /Game/Physics_Materials/PM_Tile.PM_Tile
+[2024.08.22-16.14.57:349][599]LogContentBrowser: Attempting asset rename: PM_Tile_2 -> PM_Wood
+[2024.08.22-16.14.57:363][599]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-16.14.57:394][599]LogSavePackage: Moving output files for package: /Game/Physics_Materials/PM_Wood
+[2024.08.22-16.14.57:394][599]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/PM_WoodBF06CD40498795EFB223C38BC7D2C865.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Physics_Materials/PM_Wood.uasset'
+[2024.08.22-16.14.57:404][599]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 1.31 sec)
+[2024.08.22-16.14.57:437][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.08.22-16.14.57:462][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.08.22-16.14.57:488][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.08.22-16.14.57:493][599]AssetCheck: New page: Asset Save: PM_Wood
+[2024.08.22-16.14.57:493][599]LogContentValidation: Display: Validating /Script/PhysicsCore.PhysicalMaterial /Game/Physics_Materials/PM_Wood.PM_Wood
+[2024.08.22-16.15.40:492][913]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.08.22-16.15.40:493][913]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/ThirdPersonMap' took 0.023
+[2024.08.22-16.15.40:494][913]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Physics_Materials/PM_Grass] ([1] browsable assets)...
+[2024.08.22-16.15.40:494][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/Physics_Materials/PM_Grass]
+[2024.08.22-16.15.40:495][913]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Physics_Materials/PM_Grass_Auto5
+[2024.08.22-16.15.40:495][913]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/PM_Grass_Auto54A71B47B46A8A910232511BD4EBEBAE2.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Autosaves/Game/Physics_Materials/PM_Grass_Auto5.uasset'
+[2024.08.22-16.15.40:496][913]LogFileHelpers: Auto-saving content packages took 0.002
+[2024.08.22-16.15.56:111][960]LogDerivedDataCache: C:/Users/harry/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:45.166 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 23381 files in 26378 folders with total size 3005 MiB.
+[2024.08.22-16.17.12:119][296]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-16.17.12:149][296]LogSavePackage: Moving output files for package: /Game/Physics_Materials/PM_Grass
+[2024.08.22-16.17.12:149][296]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/PM_GrassAF35295F4EDA52CE09D7E280F9AD474B.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Physics_Materials/PM_Grass.uasset'
+[2024.08.22-16.17.12:157][296]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 1.35 sec)
+[2024.08.22-16.17.12:162][296]AssetCheck: New page: Asset Save: PM_Grass
+[2024.08.22-16.17.12:162][296]LogContentValidation: Display: Validating /Script/PhysicsCore.PhysicalMaterial /Game/Physics_Materials/PM_Grass.PM_Grass
+[2024.08.22-16.17.12:617][347]LogAssetEditorSubsystem: Opening Asset editor for PhysicalMaterial /Game/Physics_Materials/PM_Grass.PM_Grass
+[2024.08.22-16.21.04:085][969]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.22-16.21.04:111][969]LogSavePackage: Moving output files for package: /Game/Physics_Materials/PM_Grass
+[2024.08.22-16.21.04:112][969]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/PM_GrassF216D90B4E2B5673F392D8A1BF8BFDF0.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Physics_Materials/PM_Grass.uasset'
+[2024.08.22-16.21.04:119][969]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 1.38 sec)
+[2024.08.22-16.21.04:125][969]AssetCheck: New page: Asset Save: PM_Grass
+[2024.08.22-16.21.04:125][969]LogContentValidation: Display: Validating /Script/PhysicsCore.PhysicalMaterial /Game/Physics_Materials/PM_Grass.PM_Grass
+[2024.08.22-16.21.13:411][857]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.22-16.21.13:417][857]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.08.22-16.21.13:418][857]LogWorldPartition: Display: GenerateStreaming started...
+[2024.08.22-16.21.13:418][857]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.08.22-16.21.13:418][857]LogWorldPartition: Display: GetPartitionedActors took 8 us (total: 60 us)
+[2024.08.22-16.21.13:418][857]LogWorldPartition: Display: GenerateStreaming took 153 us (total: 983 us)
+[2024.08.22-16.21.13:419][857]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.08.22-16.21.13:421][857]LogPlayLevel: [PlayLevel] Compiling BPC_Footfalls before play...
+[2024.08.22-16.21.13:476][857]LogScript: Warning: Attempted to access TRASH_BPC_Slide_C_295 via property BPC_Slide, but TRASH_BPC_Slide_C_295 is not valid (pending kill or garbage)
+	BP_Player_C /Engine/Transient.World_3:PersistentLevel.BP_Player_C_0
+	Function /Game/Characters/Player/BP_Player.BP_Player_C:Get_Sliding:0017
+[2024.08.22-16.21.13:486][857]LogScript: Warning: Attempted to access TRASH_BPC_Slide_C_310 via property BPC_Slide, but TRASH_BPC_Slide_C_310 is not valid (pending kill or garbage)
+	BP_Player_C /Engine/Transient.World_3:PersistentLevel.BP_Player_C_0
+	Function /Game/Characters/Player/BP_Player.BP_Player_C:Get_Sliding:0017
+[2024.08.22-16.21.13:518][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.08.22-16.21.13:520][857]LogPlayLevel: PlayLevel: Blueprint regeneration took 100 ms (1 blueprints)
+[2024.08.22-16.21.13:520][857]PIE: New page: PIE session: ThirdPersonMap (22 Aug 2024, 18:21:13)
+[2024.08.22-16.21.13:541][857]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.22-16.21.13:552][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010546s)
+[2024.08.22-16.21.13:552][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.010594s)
+[2024.08.22-16.21.13:552][857]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.22-16.21.13:552][857]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.22-16.21.13:552][857]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.08.22-16.21.13:552][857]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.08.22-16.21.13:552][857]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.08.22-16.21.13:552][857]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.08.22-16.21.13:555][857]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.08.22-16.21.13:555][857]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 4.18 sec)
+[2024.08.22-16.21.13:555][857]LogPlayLevel: PIE: World Init took: (0.003531s)
+[2024.08.22-16.21.13:576][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.08.22-16.21.13:579][857]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.08.22-16.21.13:579][857]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.22-16.21.13:579][857]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.22-16.21.13:579][857]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.22-16.21.13:579][857]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.22-16.21.13:579][857]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.22-16.21.13:579][857]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.08.22-16.21.13:579][857]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.22-16.21.13:579][857]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.22-16.21.13:580][857]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.22-16.21.13:580][857]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.22-16.21.13:580][857]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.22-16.21.13:582][857]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.22-16.21.13:607][857]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2024.08.22-16.21.13:607][857]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.22-16.21.13:607][857]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.22-16.21.13:607][857]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.22-16.21.13:608][857]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.08.22-16.21.13:608][857]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=8
+[2024.08.22-16.21.13:610][857]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.08.22-16.21.13:610][857]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.08.22-16.21.13:610][857]LogInit: FAudioDevice initialized with ID 8.
+[2024.08.22-16.21.13:610][857]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonMap'.
+[2024.08.22-16.21.13:610][857]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.08.22-16.21.13:613][857]LogLoad: Game class is 'BP_Player_GameMode_C'
+[2024.08.22-16.21.13:618][857]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.08.22-17.21.13
+[2024.08.22-16.21.13:621][857]LogWorld: Bringing up level for play took: 0.007560
+[2024.08.22-16.21.13:624][857]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2024.08.22-16.21.13:634][857]PIE: Server logged in
+[2024.08.22-16.21.13:634][857]PIE: Play in editor total start time 0.217 seconds.
+[2024.08.22-16.21.13:636][857]LogBlueprintUserMessages: [BPC_Footfalls] playing soun
+[2024.08.22-16.21.13:636][857]LogBlueprintUserMessages: [BPC_Footfalls] playing soun
+[2024.08.22-16.21.13:653][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.21.13:654][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.21.13:654][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.21.13:654][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.21.13:655][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.21.13:655][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.21.13:655][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.21.13:655][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.21.13:656][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.21.13:656][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.21.13:657][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.21.13:658][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.21.13:678][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.21.13:678][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.21.13:678][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.21.13:678][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.21.13:678][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.21.13:679][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.21.13:679][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.21.13:679][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.21.13:679][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.21.13:680][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.21.13:681][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.21.13:681][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.21.14:617][963]LogBlueprintUserMessages: [BPC_Footfalls] playing soun
+[2024.08.22-16.21.15:014][ 10]LogBlueprintUserMessages: [BPC_Footfalls] playing soun
+[2024.08.22-16.21.15:114][ 22]LogBlueprintUserMessages: [BPC_Footfalls] playing soun
+[2024.08.22-16.21.15:616][ 82]LogBlueprintUserMessages: [BPC_Footfalls] playing soun
+[2024.08.22-16.21.16:017][130]LogBlueprintUserMessages: [BPC_Footfalls] playing soun
+[2024.08.22-16.21.16:417][178]LogBlueprintUserMessages: [BPC_Footfalls] playing soun
+[2024.08.22-16.21.16:915][235]LogBlueprintUserMessages: [BPC_Footfalls] playing soun
+[2024.08.22-16.21.17:368][289]LogBlueprintUserMessages: [BPC_Footfalls] playing soun
+[2024.08.22-16.21.17:821][343]LogBlueprintUserMessages: [BPC_Footfalls] playing soun
+[2024.08.22-16.21.18:265][396]LogBlueprintUserMessages: [BPC_Footfalls] playing soun
+[2024.08.22-16.21.18:716][450]LogBlueprintUserMessages: [BPC_Footfalls] playing soun
+[2024.08.22-16.21.19:171][504]LogBlueprintUserMessages: [BPC_Footfalls] playing soun
+[2024.08.22-16.21.19:321][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.22-16.21.19:321][518]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.22-16.21.19:321][518]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.08.22-16.21.19:322][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.22-16.21.19:322][518]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.08.22-16.21.19:326][518]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.22-16.21.19:330][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.22-16.21.19:354][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.22-16.21.19:355][518]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.08.22-16.21.19:355][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.08.22-16.21.19:356][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.08.22-16.21.19:366][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.08.22-16.21.19:390][518]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.21.19:404][519]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2024.08.22-16.21.19:422][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.25.47:227][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.08.22-16.25.47:232][359]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/ThirdPersonMap/0/DX/5FW2U4KT04K2AKQRKKFG5Z_Auto6
+[2024.08.22-16.25.47:232][359]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/5FW2U4KT04K2AKQRKKFG5Z_Auto6D04F2841453CB9852EE17DB203F10C2D.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Autosaves/Game/__ExternalActors__/Maps/ThirdPersonMap/0/DX/5FW2U4KT04K2AKQRKKFG5Z_Auto6.uasset'
+[2024.08.22-16.25.47:232][359]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/ThirdPersonMap' took 0.032
+[2024.08.22-16.25.47:232][359]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.032
+[2024.08.22-16.33.49:767][359]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.22-16.33.49:773][359]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.08.22-16.33.49:775][359]LogWorldPartition: Display: GenerateStreaming started...
+[2024.08.22-16.33.49:775][359]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.08.22-16.33.49:775][359]LogWorldPartition: Display: GetPartitionedActors took 7 us (total: 67 us)
+[2024.08.22-16.33.49:775][359]LogWorldPartition: Display: GenerateStreaming took 134 us (total: 1 ms)
+[2024.08.22-16.33.49:775][359]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.22-16.33.49:775][359]PIE: New page: PIE session: ThirdPersonMap (22 Aug 2024, 18:33:49)
+[2024.08.22-16.33.49:800][359]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.22-16.33.49:811][359]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010855s)
+[2024.08.22-16.33.49:811][359]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.010901s)
+[2024.08.22-16.33.49:811][359]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.22-16.33.49:811][359]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.22-16.33.49:812][359]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.08.22-16.33.49:812][359]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.08.22-16.33.49:812][359]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.08.22-16.33.49:812][359]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.08.22-16.33.49:814][359]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.08.22-16.33.49:814][359]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 4.18 sec)
+[2024.08.22-16.33.49:814][359]LogPlayLevel: PIE: World Init took: (0.003266s)
+[2024.08.22-16.33.49:837][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.08.22-16.33.49:838][359]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.08.22-16.33.49:838][359]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.22-16.33.49:838][359]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.22-16.33.49:838][359]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.22-16.33.49:838][359]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.22-16.33.49:838][359]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.22-16.33.49:838][359]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.08.22-16.33.49:838][359]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.22-16.33.49:838][359]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.22-16.33.49:838][359]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.22-16.33.49:838][359]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.22-16.33.49:838][359]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.22-16.33.49:842][359]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.22-16.33.49:863][359]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2024.08.22-16.33.49:864][359]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.22-16.33.49:864][359]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.22-16.33.49:864][359]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.22-16.33.49:864][359]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.08.22-16.33.49:865][359]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=9
+[2024.08.22-16.33.49:866][359]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.08.22-16.33.49:866][359]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.08.22-16.33.49:866][359]LogInit: FAudioDevice initialized with ID 9.
+[2024.08.22-16.33.49:866][359]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdPersonMap'.
+[2024.08.22-16.33.49:866][359]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.08.22-16.33.49:869][359]LogLoad: Game class is 'BP_Player_GameMode_C'
+[2024.08.22-16.33.49:873][359]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.08.22-17.33.49
+[2024.08.22-16.33.49:876][359]LogWorld: Bringing up level for play took: 0.006924
+[2024.08.22-16.33.49:878][359]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2024.08.22-16.33.49:887][359]PIE: Server logged in
+[2024.08.22-16.33.49:888][359]PIE: Play in editor total start time 0.114 seconds.
+[2024.08.22-16.33.49:890][359]LogBlueprintUserMessages: [BPC_Footfalls] playing soun
+[2024.08.22-16.33.49:890][359]LogBlueprintUserMessages: [BPC_Footfalls] playing soun
+[2024.08.22-16.33.49:905][359]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.33.49:905][359]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.33.49:905][359]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.33.49:905][359]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.33.49:906][359]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.33.49:906][359]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.33.49:906][359]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.33.49:906][359]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.33.49:907][359]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.33.49:907][359]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.33.49:908][359]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.33.49:908][359]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.33.49:919][360]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.33.49:920][360]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.33.49:921][360]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.33.49:921][360]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.33.49:921][360]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.33.49:921][360]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.33.49:922][360]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.33.49:922][360]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.33.49:922][360]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.33.49:922][360]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.33.49:923][360]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.33.49:924][360]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.33.51:026][487]LogBlueprintUserMessages: [BPC_Footfalls] playing soun
+[2024.08.22-16.33.51:475][541]LogBlueprintUserMessages: [BPC_Footfalls] playing soun
+[2024.08.22-16.33.51:875][589]LogBlueprintUserMessages: [BPC_Footfalls] playing soun
+[2024.08.22-16.33.52:425][655]LogBlueprintUserMessages: [BPC_Footfalls] playing soun
+[2024.08.22-16.33.52:820][702]LogBlueprintUserMessages: [BPC_Footfalls] playing soun
+[2024.08.22-16.33.53:320][762]LogBlueprintUserMessages: [BPC_Footfalls] playing soun
+[2024.08.22-16.33.53:769][816]LogBlueprintUserMessages: [BPC_Footfalls] playing soun
+[2024.08.22-16.33.54:219][870]LogBlueprintUserMessages: [BPC_Footfalls] playing soun
+[2024.08.22-16.33.54:352][886]LogBlueprintUserMessages: [BPC_Custom_Movement_Handler] UPDATING MOVEMENT MODE TO BE: Sprinting
+[2024.08.22-16.33.54:619][918]LogBlueprintUserMessages: [BPC_Footfalls] playing soun
+[2024.08.22-16.33.54:769][936]LogBlueprintUserMessages: [BPC_Footfalls] playing soun
+[2024.08.22-16.33.55:020][966]LogBlueprintUserMessages: [BPC_Footfalls] playing soun
+[2024.08.22-16.33.55:320][  2]LogBlueprintUserMessages: [BPC_Footfalls] playing soun
+[2024.08.22-16.33.55:620][ 38]LogBlueprintUserMessages: [BPC_Footfalls] playing soun
+[2024.08.22-16.33.55:920][ 74]LogBlueprintUserMessages: [BPC_Footfalls] playing soun
+[2024.08.22-16.33.56:170][104]LogBlueprintUserMessages: [BPC_Footfalls] playing soun
+[2024.08.22-16.33.56:519][146]LogBlueprintUserMessages: [BPC_Footfalls] playing soun
+[2024.08.22-16.33.56:763][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.22-16.33.56:763][170]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.22-16.33.56:763][170]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.08.22-16.33.56:764][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.22-16.33.56:764][170]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.08.22-16.33.56:767][170]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.22-16.33.56:771][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.22-16.33.56:792][170]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.22-16.33.56:793][170]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.08.22-16.33.56:793][170]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.08.22-16.33.56:795][170]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.08.22-16.33.56:799][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.22-16.33.56:802][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.08.22-16.33.56:826][170]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.33.56:839][171]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.08.22-16.33.56:854][171]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.22-16.35.54:931][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.08.22-16.35.54:934][757]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/ThirdPersonMap/0/DX/5FW2U4KT04K2AKQRKKFG5Z_Auto7
+[2024.08.22-16.35.54:934][757]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/5FW2U4KT04K2AKQRKKFG5Z_Auto720DFC06D43539D666A1943B344AE23E0.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Autosaves/Game/__ExternalActors__/Maps/ThirdPersonMap/0/DX/5FW2U4KT04K2AKQRKKFG5Z_Auto7.uasset'
+[2024.08.22-16.35.54:935][757]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/ThirdPersonMap' took 0.030
+[2024.08.22-16.35.54:935][757]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.030
