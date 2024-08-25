@@ -23096,3 +23096,1057 @@ Script Stack (0 frames) :
 [2024.08.25-22.00.04:291][787]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401A0F02_1691127916
 [2024.08.25-22.00.04:291][787]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B40700F02_1835656048
 [2024.08.25-22.00.04:291][787]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B404B1102_1933395654
+[2024.08.25-22.01.43:422][992]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Weapons/Actor_Components/BPC_Melee_Attack.BPC_Melee_Attack
+[2024.08.25-22.01.43:422][992]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.25-22.01.43:422][992]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.25-22.02.50:121][670]BlueprintLog: New page: Compile BPC_Melee_Attack
+[2024.08.25-22.02.50:197][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.08.25-22.03.02:442][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.08.25-22.03.02:446][684]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.25-22.03.02:470][684]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/1/H4/MA5GNP8SF9ZOEOEMEM6M28
+[2024.08.25-22.03.02:470][684]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/MA5GNP8SF9ZOEOEMEM6M28872047804E4734D692E357BD6A3E160D.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/1/H4/MA5GNP8SF9ZOEOEMEM6M28.uasset'
+[2024.08.25-22.03.02:473][684]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/2/3F/SDJP0I76XUPYQPN55YE924
+[2024.08.25-22.03.02:473][684]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/SDJP0I76XUPYQPN55YE924900829FB4F2DA7ECB85B9982A1300847.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/2/3F/SDJP0I76XUPYQPN55YE924.uasset'
+[2024.08.25-22.03.02:475][684]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/4/T4/4BDTFBYDVTTO9TEYRDS3TB
+[2024.08.25-22.03.02:476][684]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/4BDTFBYDVTTO9TEYRDS3TB82CDF7064848BF9534BAA08CE7AD23EB.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/4/T4/4BDTFBYDVTTO9TEYRDS3TB.uasset'
+[2024.08.25-22.03.02:478][684]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/8/GN/OK6Z9HNHPA9R5SVLN87GKF
+[2024.08.25-22.03.02:478][684]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/OK6Z9HNHPA9R5SVLN87GKF12A66FB344E6AEB615F69B9799DC3714.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/8/GN/OK6Z9HNHPA9R5SVLN87GKF.uasset'
+[2024.08.25-22.03.02:480][684]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/D/I8/XS6HPZQCNUU5RLTKE5A2QY
+[2024.08.25-22.03.02:480][684]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/XS6HPZQCNUU5RLTKE5A2QY91A182BD49D340320CFF8E9118CB4CE1.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/D/I8/XS6HPZQCNUU5RLTKE5A2QY.uasset'
+[2024.08.25-22.03.02:486][684]LogSavePackage: Moving output files for package: /Game/Weapons/Actor_Components/BPC_Melee_Attack
+[2024.08.25-22.03.02:486][684]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BPC_Melee_Attack8F5822754A965FD276D2078E2456E590.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Weapons/Actor_Components/BPC_Melee_Attack.uasset'
+[2024.08.25-22.03.02:494][684]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 14.3 sec)
+[2024.08.25-22.03.02:501][684]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.25-22.03.02:501][684]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Weapons/Actor_Components/BPC_Melee_Attack.BPC_Melee_Attack
+[2024.08.25-22.03.02:501][684]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401F0F02_1621660798
+[2024.08.25-22.03.02:501][684]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401F0F02_1619844797
+[2024.08.25-22.03.02:501][684]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401A0F02_1691127916
+[2024.08.25-22.03.02:501][684]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B40700F02_1835656048
+[2024.08.25-22.03.02:501][684]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B404B1102_1933395654
+[2024.08.25-22.03.34:476][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.08.25-22.03.34:481][469]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.25-22.03.34:510][469]LogSavePackage: Moving output files for package: /Game/Weapons/Actor_Components/BPC_Melee_Attack
+[2024.08.25-22.03.34:511][469]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BPC_Melee_Attack1991C9324739F1AC4F883599E4571F5E.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Weapons/Actor_Components/BPC_Melee_Attack.uasset'
+[2024.08.25-22.03.34:518][469]LogFileHelpers: InternalPromptForCheckoutAndSave took 37 ms (total: 14.3 sec)
+[2024.08.25-22.03.34:522][469]AssetCheck: New page: Asset Save: BPC_Melee_Attack
+[2024.08.25-22.03.34:522][469]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Weapons/Actor_Components/BPC_Melee_Attack.BPC_Melee_Attack
+[2024.08.25-22.04.00:968][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.08.25-22.04.00:973][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.25-22.04.01:013][ 19]LogSavePackage: Moving output files for package: /Game/Weapons/Actor_Components/BPC_Melee_Attack
+[2024.08.25-22.04.01:013][ 19]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BPC_Melee_Attack49CCC7E44FEBAD21946A7FBE92EFC383.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Weapons/Actor_Components/BPC_Melee_Attack.uasset'
+[2024.08.25-22.04.01:021][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 14.4 sec)
+[2024.08.25-22.04.01:026][ 19]AssetCheck: New page: Asset Save: BPC_Melee_Attack
+[2024.08.25-22.04.01:026][ 19]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Weapons/Actor_Components/BPC_Melee_Attack.BPC_Melee_Attack
+[2024.08.25-22.04.01:137][ 28]BlueprintLog: New page: Compile BPC_Melee_Attack
+[2024.08.25-22.04.01:236][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.08.25-22.04.04:312][304]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.08.25-22.04.04:312][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.25-22.04.04:318][304]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.08.25-22.04.04:318][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.25-22.04.14:982][560]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Weapons/Interfaces/BPI_Melee_Weapon.BPI_Melee_Weapon
+[2024.08.25-22.04.14:982][560]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.25-22.04.14:982][560]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.25-22.04.23:389][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.08.25-22.04.23:396][461]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.25-22.04.23:417][461]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/1/H4/MA5GNP8SF9ZOEOEMEM6M28
+[2024.08.25-22.04.23:418][461]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/MA5GNP8SF9ZOEOEMEM6M283DE1D9EF424530BFC4478ABC100B51E5.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/1/H4/MA5GNP8SF9ZOEOEMEM6M28.uasset'
+[2024.08.25-22.04.23:421][461]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/2/3F/SDJP0I76XUPYQPN55YE924
+[2024.08.25-22.04.23:421][461]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/SDJP0I76XUPYQPN55YE9242F5D30EA421953DE9E3507A5AA2E7738.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/2/3F/SDJP0I76XUPYQPN55YE924.uasset'
+[2024.08.25-22.04.23:423][461]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/4/T4/4BDTFBYDVTTO9TEYRDS3TB
+[2024.08.25-22.04.23:423][461]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/4BDTFBYDVTTO9TEYRDS3TB9DA6CA7E4FF947B83A030B8FE579A7F0.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/4/T4/4BDTFBYDVTTO9TEYRDS3TB.uasset'
+[2024.08.25-22.04.23:426][461]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/8/GN/OK6Z9HNHPA9R5SVLN87GKF
+[2024.08.25-22.04.23:426][461]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/OK6Z9HNHPA9R5SVLN87GKFC5DB38BF4B07FCDB2AB316B1034ECE25.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/8/GN/OK6Z9HNHPA9R5SVLN87GKF.uasset'
+[2024.08.25-22.04.23:428][461]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/D/I8/XS6HPZQCNUU5RLTKE5A2QY
+[2024.08.25-22.04.23:428][461]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/XS6HPZQCNUU5RLTKE5A2QY47E5B7DF45C228B8057D8FA69C2DFB25.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/D/I8/XS6HPZQCNUU5RLTKE5A2QY.uasset'
+[2024.08.25-22.04.23:430][461]LogSavePackage: Moving output files for package: /Game/Weapons/Interfaces/BPI_Melee_Weapon
+[2024.08.25-22.04.23:430][461]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BPI_Melee_Weapon8743A4304FF5A25E60BD359EEDF12EAE.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Weapons/Interfaces/BPI_Melee_Weapon.uasset'
+[2024.08.25-22.04.23:437][461]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 14.4 sec)
+[2024.08.25-22.04.23:443][461]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.25-22.04.23:443][461]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Weapons/Interfaces/BPI_Melee_Weapon.BPI_Melee_Weapon
+[2024.08.25-22.04.23:443][461]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401F0F02_1621660798
+[2024.08.25-22.04.23:443][461]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401F0F02_1619844797
+[2024.08.25-22.04.23:443][461]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401A0F02_1691127916
+[2024.08.25-22.04.23:443][461]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B40700F02_1835656048
+[2024.08.25-22.04.23:443][461]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B404B1102_1933395654
+[2024.08.25-22.04.24:378][556]BlueprintLog: New page: Compile BPI_Melee_Weapon
+[2024.08.25-22.04.24:456][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.08.25-22.05.05:026][972]LogEditorTransaction: Undo Split Struct Pin
+[2024.08.25-22.05.06:594][106]LogEditorTransaction: Undo Split Struct Pin
+[2024.08.25-22.05.18:649][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.08.25-22.05.18:655][477]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.25-22.05.18:687][477]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/1/H4/MA5GNP8SF9ZOEOEMEM6M28
+[2024.08.25-22.05.18:687][477]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/MA5GNP8SF9ZOEOEMEM6M285FC9F6E24260822A5EA386BC451591B0.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/1/H4/MA5GNP8SF9ZOEOEMEM6M28.uasset'
+[2024.08.25-22.05.18:691][477]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/2/3F/SDJP0I76XUPYQPN55YE924
+[2024.08.25-22.05.18:691][477]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/SDJP0I76XUPYQPN55YE92425B0DF3E4C968B9387D146BAF43A9E86.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/2/3F/SDJP0I76XUPYQPN55YE924.uasset'
+[2024.08.25-22.05.18:693][477]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/4/T4/4BDTFBYDVTTO9TEYRDS3TB
+[2024.08.25-22.05.18:693][477]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/4BDTFBYDVTTO9TEYRDS3TBB04E811E42C1044ECC1E70A7913BF34E.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/4/T4/4BDTFBYDVTTO9TEYRDS3TB.uasset'
+[2024.08.25-22.05.18:695][477]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/8/GN/OK6Z9HNHPA9R5SVLN87GKF
+[2024.08.25-22.05.18:696][477]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/OK6Z9HNHPA9R5SVLN87GKF5020D1BA4F56970FA20E9499DA8A7624.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/8/GN/OK6Z9HNHPA9R5SVLN87GKF.uasset'
+[2024.08.25-22.05.18:697][477]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/D/I8/XS6HPZQCNUU5RLTKE5A2QY
+[2024.08.25-22.05.18:698][477]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/XS6HPZQCNUU5RLTKE5A2QYC649556E4217F4C7FA4581963BF6713C.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/D/I8/XS6HPZQCNUU5RLTKE5A2QY.uasset'
+[2024.08.25-22.05.18:763][477]LogSavePackage: Moving output files for package: /Game/Weapons/BPs/BP_Weapon
+[2024.08.25-22.05.18:763][477]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BP_Weapon5142A21B42939E4717F6419D78261A60.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Weapons/BPs/BP_Weapon.uasset'
+[2024.08.25-22.05.18:772][477]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 14.5 sec)
+[2024.08.25-22.05.18:776][477]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.25-22.05.18:776][477]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Weapons/BPs/BP_Weapon.BP_Weapon
+[2024.08.25-22.05.18:776][477]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401F0F02_1621660798
+[2024.08.25-22.05.18:776][477]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401F0F02_1619844797
+[2024.08.25-22.05.18:776][477]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401A0F02_1691127916
+[2024.08.25-22.05.18:776][477]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B40700F02_1835656048
+[2024.08.25-22.05.18:776][477]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B404B1102_1933395654
+[2024.08.25-22.05.19:411][553]BlueprintLog: New page: Compile BP_Weapon
+[2024.08.25-22.05.19:421][553]LogBlueprint: Error: [AssetLog] C:\Users\harry\Documents\Uni\Side Projects\Organic-Dungeon-V2\Organic_Dungeon_V2\Content\Weapons\BPs\BP_Weapon.uasset: [Compiler] The current value (ObjectTypeQuery1) of the ' Object Types ' pin is invalid: Array inputs (like 'Object Types') must have an input wired into them (try connecting a MakeArray node).
+[2024.08.25-22.05.19:492][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.08.25-22.05.23:643][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.08.25-22.05.23:648][  3]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.25-22.05.23:679][  3]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/1/H4/MA5GNP8SF9ZOEOEMEM6M28
+[2024.08.25-22.05.23:679][  3]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/MA5GNP8SF9ZOEOEMEM6M2861C44D534143A5F11F85ED9270924F80.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/1/H4/MA5GNP8SF9ZOEOEMEM6M28.uasset'
+[2024.08.25-22.05.23:682][  3]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/2/3F/SDJP0I76XUPYQPN55YE924
+[2024.08.25-22.05.23:682][  3]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/SDJP0I76XUPYQPN55YE924ADEE2769482FBFCCF4ECF38A7C68026F.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/2/3F/SDJP0I76XUPYQPN55YE924.uasset'
+[2024.08.25-22.05.23:683][  3]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/4/T4/4BDTFBYDVTTO9TEYRDS3TB
+[2024.08.25-22.05.23:684][  3]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/4BDTFBYDVTTO9TEYRDS3TB1D2536DD477E525868DB38AFC79C9AEB.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/4/T4/4BDTFBYDVTTO9TEYRDS3TB.uasset'
+[2024.08.25-22.05.23:686][  3]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/8/GN/OK6Z9HNHPA9R5SVLN87GKF
+[2024.08.25-22.05.23:686][  3]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/OK6Z9HNHPA9R5SVLN87GKF9930A5C94BC5CC922E8A62BB4EA3ADDA.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/8/GN/OK6Z9HNHPA9R5SVLN87GKF.uasset'
+[2024.08.25-22.05.23:687][  3]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/D/I8/XS6HPZQCNUU5RLTKE5A2QY
+[2024.08.25-22.05.23:687][  3]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/XS6HPZQCNUU5RLTKE5A2QYA6A487524422279335CD78BCD8598C3D.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/D/I8/XS6HPZQCNUU5RLTKE5A2QY.uasset'
+[2024.08.25-22.05.23:739][  3]LogSavePackage: Moving output files for package: /Game/Weapons/BPs/BP_Weapon
+[2024.08.25-22.05.23:740][  3]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BP_Weapon7BBF174A4123A61B936B26A75D6D2F24.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Weapons/BPs/BP_Weapon.uasset'
+[2024.08.25-22.05.23:750][  3]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 14.6 sec)
+[2024.08.25-22.05.23:758][  3]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.25-22.05.23:758][  3]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Weapons/BPs/BP_Weapon.BP_Weapon
+[2024.08.25-22.05.23:758][  3]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401F0F02_1621660798
+[2024.08.25-22.05.23:758][  3]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401F0F02_1619844797
+[2024.08.25-22.05.23:758][  3]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401A0F02_1691127916
+[2024.08.25-22.05.23:758][  3]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B40700F02_1835656048
+[2024.08.25-22.05.23:758][  3]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B404B1102_1933395654
+[2024.08.25-22.05.24:249][ 62]BlueprintLog: New page: Compile BP_Weapon
+[2024.08.25-22.05.24:327][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.08.25-22.05.25:072][134]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.25:722][190]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.25-22.05.25:727][190]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.08.25-22.05.25:728][190]LogWorldPartition: Display: GenerateStreaming started...
+[2024.08.25-22.05.25:728][190]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.08.25-22.05.25:728][190]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 373 us)
+[2024.08.25-22.05.25:728][190]LogWorldPartition: Display: GenerateStreaming took 123 us (total: 7 ms)
+[2024.08.25-22.05.25:728][190]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.25-22.05.25:728][190]PIE: New page: PIE session: ThirdPersonMap (26 Aug 2024, 00:05:25)
+[2024.08.25-22.05.25:762][190]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.25-22.05.25:774][190]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011754s)
+[2024.08.25-22.05.25:774][190]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.011797s)
+[2024.08.25-22.05.25:774][190]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.25-22.05.25:774][190]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.25-22.05.25:774][190]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.08.25-22.05.25:775][190]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.08.25-22.05.25:775][190]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.08.25-22.05.25:775][190]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.08.25-22.05.25:777][190]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.08.25-22.05.25:777][190]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 6.00 sec)
+[2024.08.25-22.05.25:777][190]LogPlayLevel: PIE: World Init took: (0.003703s)
+[2024.08.25-22.05.25:801][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.08.25-22.05.25:805][190]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2024.08.25-22.05.25:805][190]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.25-22.05.25:805][190]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.25-22.05.25:805][190]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.25-22.05.25:805][190]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.25-22.05.25:805][190]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.25-22.05.25:805][190]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.08.25-22.05.25:805][190]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.25-22.05.25:805][190]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.25-22.05.25:806][190]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.25-22.05.25:806][190]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.25-22.05.25:806][190]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.25-22.05.25:808][190]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.25-22.05.25:829][190]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2024.08.25-22.05.25:829][190]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.25-22.05.25:829][190]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.25-22.05.25:829][190]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.25-22.05.25:830][190]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=58
+[2024.08.25-22.05.25:830][190]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=58
+[2024.08.25-22.05.25:831][190]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=58
+[2024.08.25-22.05.25:831][190]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=58
+[2024.08.25-22.05.25:831][190]LogInit: FAudioDevice initialized with ID 58.
+[2024.08.25-22.05.25:831][190]LogAudio: Display: Audio Device (ID: 58) registered with world 'ThirdPersonMap'.
+[2024.08.25-22.05.25:831][190]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 58
+[2024.08.25-22.05.25:833][190]LogLoad: Game class is 'BP_Player_GameMode_C'
+[2024.08.25-22.05.25:841][190]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.08.25-23.05.25
+[2024.08.25-22.05.25:843][190]LogWorld: Bringing up level for play took: 0.010104
+[2024.08.25-22.05.25:845][190]LogOnline: OSS: Created online subsystem instance for: :Context_88
+[2024.08.25-22.05.25:853][190]PIE: Server logged in
+[2024.08.25-22.05.25:854][190]PIE: Play in editor total start time 0.127 seconds.
+[2024.08.25-22.05.25:872][190]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.25:872][190]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.25:873][190]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.25:873][190]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.25:873][190]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.25:873][190]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.25:873][190]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.25:874][190]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.25:874][190]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.25:874][190]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.25:875][190]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.25:881][190]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.25:892][191]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.25:892][191]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.25:893][191]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.25:893][191]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.25:893][191]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.25:893][191]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.25:893][191]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.25:893][191]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.25:894][191]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.25:894][191]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.25:895][191]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.25:903][191]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.30:169][699]LogBlueprintUserMessages: [BPC_Player_Weaponry] ADDING THIS TO INVENTORY:Katana
+[2024.08.25-22.05.30:169][699]LogBlueprintUserMessages: [BPC_Player_Weaponry] EQUIPPING: Katana
+[2024.08.25-22.05.30:169][699]LogBlueprintUserMessages: [BPC_Player_Weaponry] DEQUIPPING: 
+[2024.08.25-22.05.30:659][757]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.31:993][913]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.25-22.05.31:993][913]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.25-22.05.31:993][913]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.08.25-22.05.31:993][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.25-22.05.31:993][913]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.08.25-22.05.32:047][913]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.25-22.05.32:050][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.25-22.05.32:081][913]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.25-22.05.32:082][913]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 58
+[2024.08.25-22.05.32:082][913]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2024.08.25-22.05.32:083][913]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2024.08.25-22.05.32:086][913]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.25-22.05.32:090][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.08.25-22.05.32:122][913]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.32:129][914]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2024.08.25-22.05.32:151][914]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.32:586][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.08.25-22.05.32:592][959]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.25-22.05.32:618][959]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/1/H4/MA5GNP8SF9ZOEOEMEM6M28
+[2024.08.25-22.05.32:618][959]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/MA5GNP8SF9ZOEOEMEM6M287E0A7F9A418866048F9B128D7F9C8C38.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/1/H4/MA5GNP8SF9ZOEOEMEM6M28.uasset'
+[2024.08.25-22.05.32:621][959]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/2/3F/SDJP0I76XUPYQPN55YE924
+[2024.08.25-22.05.32:621][959]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/SDJP0I76XUPYQPN55YE92448B55538441102D35E88C1BAA7F67DB4.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/2/3F/SDJP0I76XUPYQPN55YE924.uasset'
+[2024.08.25-22.05.32:623][959]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/4/T4/4BDTFBYDVTTO9TEYRDS3TB
+[2024.08.25-22.05.32:623][959]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/4BDTFBYDVTTO9TEYRDS3TB242A03F347A04EC52BB35DAD1B8C7650.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/4/T4/4BDTFBYDVTTO9TEYRDS3TB.uasset'
+[2024.08.25-22.05.32:626][959]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/8/GN/OK6Z9HNHPA9R5SVLN87GKF
+[2024.08.25-22.05.32:626][959]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/OK6Z9HNHPA9R5SVLN87GKFBC186E0C4A3876DC56E11D94AF2F914B.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/8/GN/OK6Z9HNHPA9R5SVLN87GKF.uasset'
+[2024.08.25-22.05.32:628][959]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/D/I8/XS6HPZQCNUU5RLTKE5A2QY
+[2024.08.25-22.05.32:628][959]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/XS6HPZQCNUU5RLTKE5A2QY7502C0584260848974C47B8F4E39CAE2.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/D/I8/XS6HPZQCNUU5RLTKE5A2QY.uasset'
+[2024.08.25-22.05.32:637][959]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 14.7 sec)
+[2024.08.25-22.05.32:641][959]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.25-22.05.32:641][959]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401F0F02_1621660798
+[2024.08.25-22.05.32:641][959]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401F0F02_1619844797
+[2024.08.25-22.05.32:641][959]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401A0F02_1691127916
+[2024.08.25-22.05.32:641][959]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B40700F02_1835656048
+[2024.08.25-22.05.32:641][959]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B404B1102_1933395654
+[2024.08.25-22.05.36:381][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.08.25-22.05.36:386][389]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.25-22.05.36:417][389]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/1/H4/MA5GNP8SF9ZOEOEMEM6M28
+[2024.08.25-22.05.36:418][389]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/MA5GNP8SF9ZOEOEMEM6M2886E50E864B0F6D471690AA8A40F5BEC0.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/1/H4/MA5GNP8SF9ZOEOEMEM6M28.uasset'
+[2024.08.25-22.05.36:421][389]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/2/3F/SDJP0I76XUPYQPN55YE924
+[2024.08.25-22.05.36:421][389]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/SDJP0I76XUPYQPN55YE924AD37E80841D64272B07A78BFA0F010AE.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/2/3F/SDJP0I76XUPYQPN55YE924.uasset'
+[2024.08.25-22.05.36:423][389]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/4/T4/4BDTFBYDVTTO9TEYRDS3TB
+[2024.08.25-22.05.36:423][389]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/4BDTFBYDVTTO9TEYRDS3TB6454683E46135D364A6FC7B7C821B6FC.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/4/T4/4BDTFBYDVTTO9TEYRDS3TB.uasset'
+[2024.08.25-22.05.36:426][389]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/8/GN/OK6Z9HNHPA9R5SVLN87GKF
+[2024.08.25-22.05.36:426][389]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/OK6Z9HNHPA9R5SVLN87GKF189C28E74847566AB5D7EBA0BB2EE8F9.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/8/GN/OK6Z9HNHPA9R5SVLN87GKF.uasset'
+[2024.08.25-22.05.36:428][389]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/D/I8/XS6HPZQCNUU5RLTKE5A2QY
+[2024.08.25-22.05.36:428][389]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/XS6HPZQCNUU5RLTKE5A2QY9DCDE4CA41B3CBCA14888FA87B67F2E0.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/D/I8/XS6HPZQCNUU5RLTKE5A2QY.uasset'
+[2024.08.25-22.05.36:469][389]LogSavePackage: Moving output files for package: /Game/Weapons/BPs/BP_Weapon
+[2024.08.25-22.05.36:469][389]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BP_Weapon1037E1454284B855893439B1F37C998B.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Weapons/BPs/BP_Weapon.uasset'
+[2024.08.25-22.05.36:478][389]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 14.8 sec)
+[2024.08.25-22.05.36:483][389]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.25-22.05.36:483][389]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Weapons/BPs/BP_Weapon.BP_Weapon
+[2024.08.25-22.05.36:483][389]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401F0F02_1621660798
+[2024.08.25-22.05.36:483][389]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401F0F02_1619844797
+[2024.08.25-22.05.36:483][389]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401A0F02_1691127916
+[2024.08.25-22.05.36:483][389]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B40700F02_1835656048
+[2024.08.25-22.05.36:483][389]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B404B1102_1933395654
+[2024.08.25-22.05.37:361][491]BlueprintLog: New page: Compile BP_Weapon
+[2024.08.25-22.05.37:446][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.08.25-22.05.38:444][570]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.25-22.05.38:450][570]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.08.25-22.05.38:451][570]LogWorldPartition: Display: GenerateStreaming started...
+[2024.08.25-22.05.38:451][570]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.08.25-22.05.38:451][570]LogWorldPartition: Display: GetPartitionedActors took 4 us (total: 377 us)
+[2024.08.25-22.05.38:451][570]LogWorldPartition: Display: GenerateStreaming took 114 us (total: 7 ms)
+[2024.08.25-22.05.38:451][570]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.25-22.05.38:451][570]PIE: New page: PIE session: ThirdPersonMap (26 Aug 2024, 00:05:38)
+[2024.08.25-22.05.38:482][570]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.25-22.05.38:492][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010169s)
+[2024.08.25-22.05.38:492][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.010209s)
+[2024.08.25-22.05.38:492][570]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.25-22.05.38:492][570]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.25-22.05.38:492][570]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.08.25-22.05.38:492][570]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.08.25-22.05.38:492][570]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.08.25-22.05.38:492][570]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.08.25-22.05.38:495][570]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.08.25-22.05.38:495][570]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 6.00 sec)
+[2024.08.25-22.05.38:495][570]LogPlayLevel: PIE: World Init took: (0.003213s)
+[2024.08.25-22.05.38:518][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.08.25-22.05.38:522][570]LogAudio: Display: Creating Audio Device:                 Id: 59, Scope: Unique, Realtime: True
+[2024.08.25-22.05.38:522][570]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.25-22.05.38:522][570]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.25-22.05.38:522][570]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.25-22.05.38:522][570]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.25-22.05.38:522][570]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.25-22.05.38:522][570]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.08.25-22.05.38:522][570]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.25-22.05.38:522][570]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.25-22.05.38:523][570]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.25-22.05.38:523][570]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.25-22.05.38:523][570]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.25-22.05.38:524][570]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.25-22.05.38:545][570]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2024.08.25-22.05.38:545][570]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.25-22.05.38:545][570]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.25-22.05.38:545][570]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.25-22.05.38:546][570]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=59
+[2024.08.25-22.05.38:546][570]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=59
+[2024.08.25-22.05.38:547][570]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=59
+[2024.08.25-22.05.38:547][570]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=59
+[2024.08.25-22.05.38:547][570]LogInit: FAudioDevice initialized with ID 59.
+[2024.08.25-22.05.38:547][570]LogAudio: Display: Audio Device (ID: 59) registered with world 'ThirdPersonMap'.
+[2024.08.25-22.05.38:547][570]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 59
+[2024.08.25-22.05.38:549][570]LogLoad: Game class is 'BP_Player_GameMode_C'
+[2024.08.25-22.05.38:556][570]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.08.25-23.05.38
+[2024.08.25-22.05.38:559][570]LogWorld: Bringing up level for play took: 0.010072
+[2024.08.25-22.05.38:561][570]LogOnline: OSS: Created online subsystem instance for: :Context_89
+[2024.08.25-22.05.38:570][570]PIE: Server logged in
+[2024.08.25-22.05.38:571][570]PIE: Play in editor total start time 0.121 seconds.
+[2024.08.25-22.05.38:588][570]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.38:588][570]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.38:588][570]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.38:589][570]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.38:589][570]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.38:589][570]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.38:589][570]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.38:590][570]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.38:590][570]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.38:590][570]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.38:590][570]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.38:596][570]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.38:607][571]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.38:607][571]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.38:608][571]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.38:608][571]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.38:608][571]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.38:608][571]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.38:608][571]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.38:609][571]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.38:609][571]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.38:609][571]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.38:609][571]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.38:615][571]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.44:500][848]LogBlueprintUserMessages: [BPC_Custom_Movement_Handler] UPDATING MOVEMENT MODE TO BE: Sprinting
+[2024.08.25-22.05.47:462][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.25-22.05.47:462][976]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.25-22.05.47:463][976]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.08.25-22.05.47:463][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.25-22.05.47:463][976]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.08.25-22.05.47:520][976]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.25-22.05.47:523][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.25-22.05.47:551][976]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.25-22.05.47:552][976]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 59
+[2024.08.25-22.05.47:552][976]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2024.08.25-22.05.47:553][976]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2024.08.25-22.05.47:556][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.25-22.05.47:560][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.08.25-22.05.47:592][976]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.47:598][977]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2024.08.25-22.05.47:619][977]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.05.47:988][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.08.25-22.05.47:993][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.25-22.05.48:018][ 14]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/1/H4/MA5GNP8SF9ZOEOEMEM6M28
+[2024.08.25-22.05.48:018][ 14]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/MA5GNP8SF9ZOEOEMEM6M28F8732F2841076B5ADF74ACA1C1DA1D25.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/1/H4/MA5GNP8SF9ZOEOEMEM6M28.uasset'
+[2024.08.25-22.05.48:021][ 14]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/2/3F/SDJP0I76XUPYQPN55YE924
+[2024.08.25-22.05.48:021][ 14]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/SDJP0I76XUPYQPN55YE9241B50B18D439FB3099639F3B632A95E6D.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/2/3F/SDJP0I76XUPYQPN55YE924.uasset'
+[2024.08.25-22.05.48:023][ 14]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/4/T4/4BDTFBYDVTTO9TEYRDS3TB
+[2024.08.25-22.05.48:023][ 14]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/4BDTFBYDVTTO9TEYRDS3TB9386326E40C9F1DF784973BAD2E3C6B3.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/4/T4/4BDTFBYDVTTO9TEYRDS3TB.uasset'
+[2024.08.25-22.05.48:026][ 14]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/8/GN/OK6Z9HNHPA9R5SVLN87GKF
+[2024.08.25-22.05.48:026][ 14]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/OK6Z9HNHPA9R5SVLN87GKFEE3DC1CE4941BCE71BC9BF8E172600AB.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/8/GN/OK6Z9HNHPA9R5SVLN87GKF.uasset'
+[2024.08.25-22.05.48:028][ 14]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/D/I8/XS6HPZQCNUU5RLTKE5A2QY
+[2024.08.25-22.05.48:028][ 14]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/XS6HPZQCNUU5RLTKE5A2QY2D83203946DE7507CD4308B0A6FA261F.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/D/I8/XS6HPZQCNUU5RLTKE5A2QY.uasset'
+[2024.08.25-22.05.48:038][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 14.8 sec)
+[2024.08.25-22.05.48:042][ 14]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.25-22.05.48:042][ 14]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401F0F02_1621660798
+[2024.08.25-22.05.48:042][ 14]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401F0F02_1619844797
+[2024.08.25-22.05.48:042][ 14]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401A0F02_1691127916
+[2024.08.25-22.05.48:042][ 14]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B40700F02_1835656048
+[2024.08.25-22.05.48:042][ 14]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B404B1102_1933395654
+[2024.08.25-22.06.06:981][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.08.25-22.06.06:987][121]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.25-22.06.07:067][121]LogSavePackage: Moving output files for package: /Game/Weapons/BPs/BP_Weapon
+[2024.08.25-22.06.07:068][121]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BP_Weapon183E4C63443AAA9B8AC849BF19F274EB.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Weapons/BPs/BP_Weapon.uasset'
+[2024.08.25-22.06.07:076][121]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 14.9 sec)
+[2024.08.25-22.06.07:081][121]AssetCheck: New page: Asset Save: BP_Weapon
+[2024.08.25-22.06.07:081][121]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Weapons/BPs/BP_Weapon.BP_Weapon
+[2024.08.25-22.06.07:514][173]BlueprintLog: New page: Compile BP_Weapon
+[2024.08.25-22.06.07:596][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.08.25-22.06.08:600][256]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.25-22.06.08:606][256]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.08.25-22.06.08:608][256]LogWorldPartition: Display: GenerateStreaming started...
+[2024.08.25-22.06.08:608][256]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.08.25-22.06.08:608][256]LogWorldPartition: Display: GetPartitionedActors took 5 us (total: 383 us)
+[2024.08.25-22.06.08:608][256]LogWorldPartition: Display: GenerateStreaming took 119 us (total: 7 ms)
+[2024.08.25-22.06.08:608][256]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.25-22.06.08:608][256]PIE: New page: PIE session: ThirdPersonMap (26 Aug 2024, 00:06:08)
+[2024.08.25-22.06.08:642][256]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.25-22.06.08:652][256]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010569s)
+[2024.08.25-22.06.08:652][256]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.010608s)
+[2024.08.25-22.06.08:652][256]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.25-22.06.08:653][256]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.25-22.06.08:653][256]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.08.25-22.06.08:653][256]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.08.25-22.06.08:653][256]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.08.25-22.06.08:653][256]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.08.25-22.06.08:656][256]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.08.25-22.06.08:656][256]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 6.00 sec)
+[2024.08.25-22.06.08:656][256]LogPlayLevel: PIE: World Init took: (0.003210s)
+[2024.08.25-22.06.08:682][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.08.25-22.06.08:687][256]LogAudio: Display: Creating Audio Device:                 Id: 60, Scope: Unique, Realtime: True
+[2024.08.25-22.06.08:687][256]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.25-22.06.08:687][256]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.25-22.06.08:687][256]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.25-22.06.08:687][256]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.25-22.06.08:687][256]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.25-22.06.08:687][256]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.08.25-22.06.08:687][256]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.25-22.06.08:687][256]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.25-22.06.08:687][256]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.25-22.06.08:687][256]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.25-22.06.08:687][256]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.25-22.06.08:689][256]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.25-22.06.08:710][256]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2024.08.25-22.06.08:710][256]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.25-22.06.08:710][256]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.25-22.06.08:710][256]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.25-22.06.08:711][256]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=60
+[2024.08.25-22.06.08:711][256]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=60
+[2024.08.25-22.06.08:712][256]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=60
+[2024.08.25-22.06.08:712][256]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=60
+[2024.08.25-22.06.08:712][256]LogInit: FAudioDevice initialized with ID 60.
+[2024.08.25-22.06.08:712][256]LogAudio: Display: Audio Device (ID: 60) registered with world 'ThirdPersonMap'.
+[2024.08.25-22.06.08:712][256]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 60
+[2024.08.25-22.06.08:714][256]LogLoad: Game class is 'BP_Player_GameMode_C'
+[2024.08.25-22.06.08:721][256]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.08.25-23.06.08
+[2024.08.25-22.06.08:723][256]LogWorld: Bringing up level for play took: 0.009103
+[2024.08.25-22.06.08:725][256]LogOnline: OSS: Created online subsystem instance for: :Context_90
+[2024.08.25-22.06.08:735][256]PIE: Server logged in
+[2024.08.25-22.06.08:735][256]PIE: Play in editor total start time 0.129 seconds.
+[2024.08.25-22.06.08:753][256]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.08:754][256]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.08:755][256]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.08:755][256]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.08:755][256]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.08:755][256]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.08:755][256]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.08:756][256]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.08:756][256]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.08:756][256]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.08:756][256]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.08:762][256]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.08:773][257]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.08:774][257]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.08:775][257]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.08:775][257]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.08:775][257]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.08:775][257]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.08:776][257]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.08:776][257]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.08:777][257]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.08:777][257]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.08:777][257]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.08:786][257]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.11:402][563]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.25-22.06.11:402][563]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.25-22.06.11:402][563]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.08.25-22.06.11:403][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.25-22.06.11:403][563]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.08.25-22.06.11:459][563]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.25-22.06.11:461][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.25-22.06.11:491][563]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.25-22.06.11:492][563]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 60
+[2024.08.25-22.06.11:492][563]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2024.08.25-22.06.11:493][563]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2024.08.25-22.06.11:497][563]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.25-22.06.11:500][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.08.25-22.06.11:531][563]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.11:538][564]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2024.08.25-22.06.11:559][564]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.12:136][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.08.25-22.06.12:142][626]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.25-22.06.12:167][626]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/1/H4/MA5GNP8SF9ZOEOEMEM6M28
+[2024.08.25-22.06.12:168][626]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/MA5GNP8SF9ZOEOEMEM6M28151002AC4D166701152D658CF977922F.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/1/H4/MA5GNP8SF9ZOEOEMEM6M28.uasset'
+[2024.08.25-22.06.12:170][626]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/2/3F/SDJP0I76XUPYQPN55YE924
+[2024.08.25-22.06.12:170][626]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/SDJP0I76XUPYQPN55YE9245F81270A42D11D11BF8E1CAF23412030.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/2/3F/SDJP0I76XUPYQPN55YE924.uasset'
+[2024.08.25-22.06.12:173][626]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/4/T4/4BDTFBYDVTTO9TEYRDS3TB
+[2024.08.25-22.06.12:173][626]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/4BDTFBYDVTTO9TEYRDS3TBDAA36E024F36B153C77BEC903F0BABA5.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/4/T4/4BDTFBYDVTTO9TEYRDS3TB.uasset'
+[2024.08.25-22.06.12:175][626]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/8/GN/OK6Z9HNHPA9R5SVLN87GKF
+[2024.08.25-22.06.12:175][626]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/OK6Z9HNHPA9R5SVLN87GKFDD18E7C144F1BA515D0703A4FE003DA7.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/8/GN/OK6Z9HNHPA9R5SVLN87GKF.uasset'
+[2024.08.25-22.06.12:178][626]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/D/I8/XS6HPZQCNUU5RLTKE5A2QY
+[2024.08.25-22.06.12:178][626]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/XS6HPZQCNUU5RLTKE5A2QY6A24E7E64385C1940088DB94ACF23EDE.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/D/I8/XS6HPZQCNUU5RLTKE5A2QY.uasset'
+[2024.08.25-22.06.12:187][626]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 14.9 sec)
+[2024.08.25-22.06.12:191][626]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.25-22.06.12:191][626]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401F0F02_1621660798
+[2024.08.25-22.06.12:191][626]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401F0F02_1619844797
+[2024.08.25-22.06.12:191][626]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401A0F02_1691127916
+[2024.08.25-22.06.12:191][626]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B40700F02_1835656048
+[2024.08.25-22.06.12:191][626]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B404B1102_1933395654
+[2024.08.25-22.06.17:613][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.08.25-22.06.17:617][237]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.25-22.06.17:706][237]LogSavePackage: Moving output files for package: /Game/Weapons/BPs/BP_Weapon
+[2024.08.25-22.06.17:707][237]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BP_Weapon1B56AAD14AA612208630CDAD180A7112.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Weapons/BPs/BP_Weapon.uasset'
+[2024.08.25-22.06.17:715][237]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 15.0 sec)
+[2024.08.25-22.06.17:721][237]AssetCheck: New page: Asset Save: BP_Weapon
+[2024.08.25-22.06.17:721][237]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Weapons/BPs/BP_Weapon.BP_Weapon
+[2024.08.25-22.06.17:964][266]BlueprintLog: New page: Compile BP_Weapon
+[2024.08.25-22.06.18:043][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.08.25-22.06.18:778][320]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.25-22.06.18:783][320]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.08.25-22.06.18:785][320]LogWorldPartition: Display: GenerateStreaming started...
+[2024.08.25-22.06.18:785][320]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.08.25-22.06.18:785][320]LogWorldPartition: Display: GetPartitionedActors took 4 us (total: 388 us)
+[2024.08.25-22.06.18:785][320]LogWorldPartition: Display: GenerateStreaming took 117 us (total: 7 ms)
+[2024.08.25-22.06.18:785][320]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.25-22.06.18:785][320]PIE: New page: PIE session: ThirdPersonMap (26 Aug 2024, 00:06:18)
+[2024.08.25-22.06.18:821][320]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.25-22.06.18:833][320]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011747s)
+[2024.08.25-22.06.18:833][320]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.011783s)
+[2024.08.25-22.06.18:833][320]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.25-22.06.18:833][320]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.25-22.06.18:833][320]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.08.25-22.06.18:833][320]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.08.25-22.06.18:833][320]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.08.25-22.06.18:833][320]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.08.25-22.06.18:836][320]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.08.25-22.06.18:836][320]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 6.01 sec)
+[2024.08.25-22.06.18:836][320]LogPlayLevel: PIE: World Init took: (0.003582s)
+[2024.08.25-22.06.18:861][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.08.25-22.06.18:865][320]LogAudio: Display: Creating Audio Device:                 Id: 61, Scope: Unique, Realtime: True
+[2024.08.25-22.06.18:865][320]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.25-22.06.18:865][320]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.25-22.06.18:865][320]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.25-22.06.18:865][320]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.25-22.06.18:865][320]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.25-22.06.18:865][320]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.08.25-22.06.18:865][320]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.25-22.06.18:865][320]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.25-22.06.18:865][320]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.25-22.06.18:865][320]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.25-22.06.18:865][320]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.25-22.06.18:867][320]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.25-22.06.18:887][320]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2024.08.25-22.06.18:888][320]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.25-22.06.18:888][320]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.25-22.06.18:888][320]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.25-22.06.18:888][320]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=61
+[2024.08.25-22.06.18:888][320]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=61
+[2024.08.25-22.06.18:890][320]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=61
+[2024.08.25-22.06.18:890][320]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=61
+[2024.08.25-22.06.18:890][320]LogInit: FAudioDevice initialized with ID 61.
+[2024.08.25-22.06.18:890][320]LogAudio: Display: Audio Device (ID: 61) registered with world 'ThirdPersonMap'.
+[2024.08.25-22.06.18:890][320]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 61
+[2024.08.25-22.06.18:892][320]LogLoad: Game class is 'BP_Player_GameMode_C'
+[2024.08.25-22.06.18:899][320]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.08.25-23.06.18
+[2024.08.25-22.06.18:902][320]LogWorld: Bringing up level for play took: 0.009786
+[2024.08.25-22.06.18:903][320]LogOnline: OSS: Created online subsystem instance for: :Context_91
+[2024.08.25-22.06.18:911][320]PIE: Server logged in
+[2024.08.25-22.06.18:912][320]PIE: Play in editor total start time 0.128 seconds.
+[2024.08.25-22.06.18:930][320]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.18:930][320]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.18:930][320]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.18:931][320]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.18:931][320]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.18:931][320]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.18:931][320]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.18:931][320]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.18:932][320]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.18:932][320]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.18:932][320]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.18:938][320]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.18:948][321]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.18:949][321]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.18:949][321]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.18:950][321]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.18:950][321]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.18:950][321]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.18:950][321]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.18:950][321]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.18:950][321]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.18:950][321]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.18:951][321]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.18:957][321]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.22:379][728]LogBlueprintUserMessages: [BPC_Player_Weaponry] ADDING THIS TO INVENTORY:Katana
+[2024.08.25-22.06.22:379][728]LogBlueprintUserMessages: [BPC_Player_Weaponry] EQUIPPING: Katana
+[2024.08.25-22.06.22:379][728]LogBlueprintUserMessages: [BPC_Player_Weaponry] DEQUIPPING: 
+[2024.08.25-22.06.23:042][807]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.25:973][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.25-22.06.25:973][154]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.25-22.06.25:973][154]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.08.25-22.06.25:974][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.25-22.06.25:974][154]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.08.25-22.06.26:030][154]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.25-22.06.26:033][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.25-22.06.26:062][154]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.25-22.06.26:063][154]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 61
+[2024.08.25-22.06.26:063][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=61
+[2024.08.25-22.06.26:064][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=61
+[2024.08.25-22.06.26:067][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.25-22.06.26:070][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.08.25-22.06.26:103][154]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.26:109][155]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2024.08.25-22.06.26:130][155]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.26:396][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.08.25-22.06.26:402][180]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.25-22.06.26:425][180]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/1/H4/MA5GNP8SF9ZOEOEMEM6M28
+[2024.08.25-22.06.26:425][180]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/MA5GNP8SF9ZOEOEMEM6M28439811CA411511DB32A953807B55F3B5.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/1/H4/MA5GNP8SF9ZOEOEMEM6M28.uasset'
+[2024.08.25-22.06.26:427][180]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/2/3F/SDJP0I76XUPYQPN55YE924
+[2024.08.25-22.06.26:428][180]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/SDJP0I76XUPYQPN55YE92493E9527148F555F0C12B32BEB166D7C4.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/2/3F/SDJP0I76XUPYQPN55YE924.uasset'
+[2024.08.25-22.06.26:430][180]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/4/T4/4BDTFBYDVTTO9TEYRDS3TB
+[2024.08.25-22.06.26:430][180]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/4BDTFBYDVTTO9TEYRDS3TBA466C2C3424B6D9F9E72AC98A2DF26CE.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/4/T4/4BDTFBYDVTTO9TEYRDS3TB.uasset'
+[2024.08.25-22.06.26:433][180]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/8/GN/OK6Z9HNHPA9R5SVLN87GKF
+[2024.08.25-22.06.26:433][180]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/OK6Z9HNHPA9R5SVLN87GKFBAF747BF439F3F98DA5019B91A9205ED.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/8/GN/OK6Z9HNHPA9R5SVLN87GKF.uasset'
+[2024.08.25-22.06.26:435][180]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/D/I8/XS6HPZQCNUU5RLTKE5A2QY
+[2024.08.25-22.06.26:435][180]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/XS6HPZQCNUU5RLTKE5A2QYD2C3D52E4B1748BB6B4155AF0524550B.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/D/I8/XS6HPZQCNUU5RLTKE5A2QY.uasset'
+[2024.08.25-22.06.26:444][180]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 15.1 sec)
+[2024.08.25-22.06.26:448][180]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.25-22.06.26:448][180]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401F0F02_1621660798
+[2024.08.25-22.06.26:448][180]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401F0F02_1619844797
+[2024.08.25-22.06.26:448][180]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401A0F02_1691127916
+[2024.08.25-22.06.26:448][180]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B40700F02_1835656048
+[2024.08.25-22.06.26:448][180]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B404B1102_1933395654
+[2024.08.25-22.06.36:485][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.08.25-22.06.36:491][360]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.25-22.06.36:583][360]LogSavePackage: Moving output files for package: /Game/Weapons/BPs/BP_Weapon
+[2024.08.25-22.06.36:584][360]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BP_Weapon690C6A544B1F4279CA7FEB8054B61747.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Weapons/BPs/BP_Weapon.uasset'
+[2024.08.25-22.06.36:593][360]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 15.2 sec)
+[2024.08.25-22.06.36:597][360]AssetCheck: New page: Asset Save: BP_Weapon
+[2024.08.25-22.06.36:598][360]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Weapons/BPs/BP_Weapon.BP_Weapon
+[2024.08.25-22.06.36:841][389]BlueprintLog: New page: Compile BP_Weapon
+[2024.08.25-22.06.36:925][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.08.25-22.06.37:585][431]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.25-22.06.37:590][431]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.08.25-22.06.37:591][431]LogWorldPartition: Display: GenerateStreaming started...
+[2024.08.25-22.06.37:591][431]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.08.25-22.06.37:591][431]LogWorldPartition: Display: GetPartitionedActors took 5 us (total: 393 us)
+[2024.08.25-22.06.37:591][431]LogWorldPartition: Display: GenerateStreaming took 115 us (total: 7 ms)
+[2024.08.25-22.06.37:592][431]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.25-22.06.37:592][431]PIE: New page: PIE session: ThirdPersonMap (26 Aug 2024, 00:06:37)
+[2024.08.25-22.06.37:612][431]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.25-22.06.37:622][431]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009995s)
+[2024.08.25-22.06.37:622][431]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.010030s)
+[2024.08.25-22.06.37:622][431]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.25-22.06.37:622][431]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.25-22.06.37:622][431]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.08.25-22.06.37:622][431]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.08.25-22.06.37:622][431]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.08.25-22.06.37:622][431]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.08.25-22.06.37:625][431]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.08.25-22.06.37:625][431]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 6.01 sec)
+[2024.08.25-22.06.37:625][431]LogPlayLevel: PIE: World Init took: (0.003253s)
+[2024.08.25-22.06.37:649][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.08.25-22.06.37:653][431]LogAudio: Display: Creating Audio Device:                 Id: 62, Scope: Unique, Realtime: True
+[2024.08.25-22.06.37:653][431]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.25-22.06.37:653][431]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.25-22.06.37:653][431]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.25-22.06.37:653][431]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.25-22.06.37:653][431]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.25-22.06.37:653][431]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.08.25-22.06.37:653][431]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.25-22.06.37:653][431]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.25-22.06.37:653][431]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.25-22.06.37:653][431]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.25-22.06.37:653][431]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.25-22.06.37:655][431]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.25-22.06.37:676][431]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2024.08.25-22.06.37:676][431]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.25-22.06.37:676][431]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.25-22.06.37:676][431]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.25-22.06.37:677][431]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=62
+[2024.08.25-22.06.37:677][431]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=62
+[2024.08.25-22.06.37:678][431]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=62
+[2024.08.25-22.06.37:678][431]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=62
+[2024.08.25-22.06.37:678][431]LogInit: FAudioDevice initialized with ID 62.
+[2024.08.25-22.06.37:678][431]LogAudio: Display: Audio Device (ID: 62) registered with world 'ThirdPersonMap'.
+[2024.08.25-22.06.37:678][431]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 62
+[2024.08.25-22.06.37:680][431]LogLoad: Game class is 'BP_Player_GameMode_C'
+[2024.08.25-22.06.37:687][431]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.08.25-23.06.37
+[2024.08.25-22.06.37:689][431]LogWorld: Bringing up level for play took: 0.008993
+[2024.08.25-22.06.37:691][431]LogOnline: OSS: Created online subsystem instance for: :Context_92
+[2024.08.25-22.06.37:699][431]PIE: Server logged in
+[2024.08.25-22.06.37:699][431]PIE: Play in editor total start time 0.109 seconds.
+[2024.08.25-22.06.37:716][431]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.37:716][431]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.37:716][431]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.37:716][431]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.37:716][431]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.37:717][431]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.37:717][431]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.37:718][431]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.37:718][431]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.37:718][431]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.37:718][431]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.37:724][431]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.37:735][432]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.37:735][432]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.37:735][432]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.37:735][432]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.37:736][432]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.37:736][432]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.37:736][432]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.37:736][432]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.37:737][432]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.37:737][432]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.37:737][432]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.37:743][432]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.39:233][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.25-22.06.39:233][603]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.25-22.06.39:233][603]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.08.25-22.06.39:234][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.25-22.06.39:234][603]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.08.25-22.06.39:290][603]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.25-22.06.39:293][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.25-22.06.39:326][603]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.25-22.06.39:327][603]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 62
+[2024.08.25-22.06.39:327][603]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=62
+[2024.08.25-22.06.39:328][603]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=62
+[2024.08.25-22.06.39:331][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.25-22.06.39:335][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.08.25-22.06.39:368][603]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.39:374][604]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2024.08.25-22.06.39:395][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.45:522][311]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.25-22.06.45:528][311]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.08.25-22.06.45:529][311]LogWorldPartition: Display: GenerateStreaming started...
+[2024.08.25-22.06.45:529][311]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.08.25-22.06.45:529][311]LogWorldPartition: Display: GetPartitionedActors took 4 us (total: 398 us)
+[2024.08.25-22.06.45:529][311]LogWorldPartition: Display: GenerateStreaming took 119 us (total: 7 ms)
+[2024.08.25-22.06.45:529][311]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.08.25-22.06.45:530][311]LogPlayLevel: [PlayLevel] Compiling BP_Weapon before play...
+[2024.08.25-22.06.45:677][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.08.25-22.06.45:681][311]LogPlayLevel: PlayLevel: Blueprint regeneration took 151 ms (1 blueprints)
+[2024.08.25-22.06.45:681][311]PIE: New page: PIE session: ThirdPersonMap (26 Aug 2024, 00:06:45)
+[2024.08.25-22.06.45:722][311]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.25-22.06.45:732][311]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010521s)
+[2024.08.25-22.06.45:732][311]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.010557s)
+[2024.08.25-22.06.45:732][311]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.25-22.06.45:732][311]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.25-22.06.45:733][311]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.08.25-22.06.45:733][311]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.08.25-22.06.45:733][311]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.08.25-22.06.45:733][311]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.08.25-22.06.45:736][311]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.08.25-22.06.45:736][311]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 6.01 sec)
+[2024.08.25-22.06.45:736][311]LogPlayLevel: PIE: World Init took: (0.003320s)
+[2024.08.25-22.06.45:759][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.08.25-22.06.45:762][311]LogAudio: Display: Creating Audio Device:                 Id: 63, Scope: Unique, Realtime: True
+[2024.08.25-22.06.45:762][311]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.25-22.06.45:762][311]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.25-22.06.45:762][311]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.25-22.06.45:762][311]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.25-22.06.45:762][311]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.25-22.06.45:762][311]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.08.25-22.06.45:762][311]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.25-22.06.45:762][311]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.25-22.06.45:762][311]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.25-22.06.45:762][311]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.25-22.06.45:762][311]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.25-22.06.45:763][311]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.25-22.06.45:784][311]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2024.08.25-22.06.45:785][311]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.25-22.06.45:785][311]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.25-22.06.45:785][311]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.25-22.06.45:785][311]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=63
+[2024.08.25-22.06.45:785][311]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=63
+[2024.08.25-22.06.45:787][311]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=63
+[2024.08.25-22.06.45:787][311]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=63
+[2024.08.25-22.06.45:787][311]LogInit: FAudioDevice initialized with ID 63.
+[2024.08.25-22.06.45:787][311]LogAudio: Display: Audio Device (ID: 63) registered with world 'ThirdPersonMap'.
+[2024.08.25-22.06.45:787][311]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 63
+[2024.08.25-22.06.45:789][311]LogLoad: Game class is 'BP_Player_GameMode_C'
+[2024.08.25-22.06.45:796][311]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.08.25-23.06.45
+[2024.08.25-22.06.45:799][311]LogWorld: Bringing up level for play took: 0.009423
+[2024.08.25-22.06.45:800][311]LogOnline: OSS: Created online subsystem instance for: :Context_93
+[2024.08.25-22.06.45:808][311]PIE: Server logged in
+[2024.08.25-22.06.45:808][311]PIE: Play in editor total start time 0.281 seconds.
+[2024.08.25-22.06.45:819][311]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.45:820][311]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.45:820][311]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.45:820][311]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.45:821][311]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.45:821][311]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.45:821][311]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.45:821][311]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.45:822][311]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.45:822][311]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.45:822][311]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.45:828][311]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.45:876][312]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.45:876][312]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.45:877][312]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.45:877][312]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.45:877][312]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.45:877][312]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.45:878][312]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.45:878][312]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.45:878][312]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.45:878][312]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.45:878][312]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.45:885][312]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.46:892][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.25-22.06.46:892][429]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.25-22.06.46:892][429]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.08.25-22.06.46:893][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.25-22.06.46:893][429]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.08.25-22.06.46:898][429]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.25-22.06.46:901][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.25-22.06.46:929][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.25-22.06.46:929][429]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 63
+[2024.08.25-22.06.46:929][429]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=63
+[2024.08.25-22.06.46:931][429]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=63
+[2024.08.25-22.06.46:937][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.08.25-22.06.46:971][429]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.46:978][430]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2024.08.25-22.06.46:998][430]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.06.47:402][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.08.25-22.06.47:407][469]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.25-22.06.47:436][469]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/1/H4/MA5GNP8SF9ZOEOEMEM6M28
+[2024.08.25-22.06.47:436][469]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/MA5GNP8SF9ZOEOEMEM6M28F21427BF466E1D5DF57C3BB852C7AD8A.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/1/H4/MA5GNP8SF9ZOEOEMEM6M28.uasset'
+[2024.08.25-22.06.47:439][469]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/2/3F/SDJP0I76XUPYQPN55YE924
+[2024.08.25-22.06.47:439][469]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/SDJP0I76XUPYQPN55YE924CA96F15A417AB0D5FA1A4E9D9227BEB3.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/2/3F/SDJP0I76XUPYQPN55YE924.uasset'
+[2024.08.25-22.06.47:441][469]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/4/T4/4BDTFBYDVTTO9TEYRDS3TB
+[2024.08.25-22.06.47:441][469]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/4BDTFBYDVTTO9TEYRDS3TBBC92B25A4CD9F973FE6128B5BB9B89B1.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/4/T4/4BDTFBYDVTTO9TEYRDS3TB.uasset'
+[2024.08.25-22.06.47:443][469]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/8/GN/OK6Z9HNHPA9R5SVLN87GKF
+[2024.08.25-22.06.47:444][469]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/OK6Z9HNHPA9R5SVLN87GKFE1C6796447A38B9C40648A90E7460EA5.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/8/GN/OK6Z9HNHPA9R5SVLN87GKF.uasset'
+[2024.08.25-22.06.47:446][469]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/D/I8/XS6HPZQCNUU5RLTKE5A2QY
+[2024.08.25-22.06.47:446][469]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/XS6HPZQCNUU5RLTKE5A2QY9DA721F74CB0324A0F5D3EB2899280AE.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/D/I8/XS6HPZQCNUU5RLTKE5A2QY.uasset'
+[2024.08.25-22.06.47:485][469]LogSavePackage: Moving output files for package: /Game/Weapons/BPs/BP_Weapon
+[2024.08.25-22.06.47:485][469]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BP_Weapon4F4819B54B77BF8B0D338484F66216D1.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Weapons/BPs/BP_Weapon.uasset'
+[2024.08.25-22.06.47:495][469]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 15.3 sec)
+[2024.08.25-22.06.47:499][469]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.25-22.06.47:499][469]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Weapons/BPs/BP_Weapon.BP_Weapon
+[2024.08.25-22.06.47:499][469]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401F0F02_1621660798
+[2024.08.25-22.06.47:499][469]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401F0F02_1619844797
+[2024.08.25-22.06.47:500][469]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401A0F02_1691127916
+[2024.08.25-22.06.47:500][469]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B40700F02_1835656048
+[2024.08.25-22.06.47:500][469]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B404B1102_1933395654
+[2024.08.25-22.06.57:488][620]BlueprintLog: New page: Compile BP_Weapon
+[2024.08.25-22.06.57:573][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.08.25-22.07.19:929][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.08.25-22.07.19:936][250]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.25-22.07.19:967][250]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/1/H4/MA5GNP8SF9ZOEOEMEM6M28
+[2024.08.25-22.07.19:968][250]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/MA5GNP8SF9ZOEOEMEM6M2827987A5E40DF9378C6A139AEDB54F991.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/1/H4/MA5GNP8SF9ZOEOEMEM6M28.uasset'
+[2024.08.25-22.07.19:970][250]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/2/3F/SDJP0I76XUPYQPN55YE924
+[2024.08.25-22.07.19:970][250]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/SDJP0I76XUPYQPN55YE924FE07C078496F2E72C94D50B6A539BEB5.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/2/3F/SDJP0I76XUPYQPN55YE924.uasset'
+[2024.08.25-22.07.19:973][250]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/4/T4/4BDTFBYDVTTO9TEYRDS3TB
+[2024.08.25-22.07.19:973][250]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/4BDTFBYDVTTO9TEYRDS3TB040C6E1E4561C3F6A5CD6F954F147E66.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/4/T4/4BDTFBYDVTTO9TEYRDS3TB.uasset'
+[2024.08.25-22.07.19:975][250]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/8/GN/OK6Z9HNHPA9R5SVLN87GKF
+[2024.08.25-22.07.19:975][250]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/OK6Z9HNHPA9R5SVLN87GKF97D1A9B24CEFBBE868910D9A62631443.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/8/GN/OK6Z9HNHPA9R5SVLN87GKF.uasset'
+[2024.08.25-22.07.19:977][250]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/D/I8/XS6HPZQCNUU5RLTKE5A2QY
+[2024.08.25-22.07.19:978][250]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/XS6HPZQCNUU5RLTKE5A2QY86435C2A43D5908D7A5FEBBC9A915E20.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/D/I8/XS6HPZQCNUU5RLTKE5A2QY.uasset'
+[2024.08.25-22.07.20:013][250]LogSavePackage: Moving output files for package: /Game/Weapons/BPs/BP_Weapon
+[2024.08.25-22.07.20:014][250]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BP_Weapon996EB1CD444BD24A1DA3E0944F5BD0EE.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Weapons/BPs/BP_Weapon.uasset'
+[2024.08.25-22.07.20:022][250]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 15.3 sec)
+[2024.08.25-22.07.20:026][250]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.25-22.07.20:026][250]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Weapons/BPs/BP_Weapon.BP_Weapon
+[2024.08.25-22.07.20:026][250]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401F0F02_1621660798
+[2024.08.25-22.07.20:026][250]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401F0F02_1619844797
+[2024.08.25-22.07.20:026][250]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401A0F02_1691127916
+[2024.08.25-22.07.20:026][250]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B40700F02_1835656048
+[2024.08.25-22.07.20:026][250]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B404B1102_1933395654
+[2024.08.25-22.08.05:546][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.08.25-22.08.05:551][863]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/ThirdPersonMap' took 0.029
+[2024.08.25-22.08.05:551][863]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Weapons/BPs/BP_Weapon] ([2] browsable assets)...
+[2024.08.25-22.08.05:551][863]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/BPs/BP_Weapon]
+[2024.08.25-22.08.05:577][863]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Weapons/BPs/BP_Weapon_Auto1
+[2024.08.25-22.08.05:577][863]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BP_Weapon_Auto12283EC754B90620681936383FD2C5E74.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Autosaves/Game/Weapons/BPs/BP_Weapon_Auto1.uasset'
+[2024.08.25-22.08.05:578][863]LogFileHelpers: Auto-saving content packages took 0.027
+[2024.08.25-22.11.45:319][440]LogEditorTransaction: Undo Split Struct Pin
+[2024.08.25-22.12.06:195][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.08.25-22.12.06:200][423]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.25-22.12.06:237][423]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/1/H4/MA5GNP8SF9ZOEOEMEM6M28
+[2024.08.25-22.12.06:237][423]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/MA5GNP8SF9ZOEOEMEM6M28FAB09AFC48F23CC6721E71BB13DE4415.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/1/H4/MA5GNP8SF9ZOEOEMEM6M28.uasset'
+[2024.08.25-22.12.06:240][423]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/2/3F/SDJP0I76XUPYQPN55YE924
+[2024.08.25-22.12.06:240][423]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/SDJP0I76XUPYQPN55YE924EE1AFED14FBCD440FD4ED4A94765765A.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/2/3F/SDJP0I76XUPYQPN55YE924.uasset'
+[2024.08.25-22.12.06:242][423]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/4/T4/4BDTFBYDVTTO9TEYRDS3TB
+[2024.08.25-22.12.06:243][423]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/4BDTFBYDVTTO9TEYRDS3TBFDFCAA1343F5AE1E15D219982FD9DB75.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/4/T4/4BDTFBYDVTTO9TEYRDS3TB.uasset'
+[2024.08.25-22.12.06:244][423]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/8/GN/OK6Z9HNHPA9R5SVLN87GKF
+[2024.08.25-22.12.06:245][423]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/OK6Z9HNHPA9R5SVLN87GKF9534575C414892C1343241A64189BA1F.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/8/GN/OK6Z9HNHPA9R5SVLN87GKF.uasset'
+[2024.08.25-22.12.06:248][423]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/D/I8/XS6HPZQCNUU5RLTKE5A2QY
+[2024.08.25-22.12.06:248][423]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/XS6HPZQCNUU5RLTKE5A2QY65D6C83B466814D9DC74E28DA8150D52.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/D/I8/XS6HPZQCNUU5RLTKE5A2QY.uasset'
+[2024.08.25-22.12.06:297][423]LogSavePackage: Moving output files for package: /Game/Weapons/BPs/BP_Weapon
+[2024.08.25-22.12.06:297][423]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BP_Weapon5A963A0045AC8381433CB5A709540A1A.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Weapons/BPs/BP_Weapon.uasset'
+[2024.08.25-22.12.06:307][423]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 15.5 sec)
+[2024.08.25-22.12.06:313][423]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.25-22.12.06:313][423]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Weapons/BPs/BP_Weapon.BP_Weapon
+[2024.08.25-22.12.06:313][423]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401F0F02_1621660798
+[2024.08.25-22.12.06:313][423]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401F0F02_1619844797
+[2024.08.25-22.12.06:313][423]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401A0F02_1691127916
+[2024.08.25-22.12.06:313][423]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B40700F02_1835656048
+[2024.08.25-22.12.06:313][423]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B404B1102_1933395654
+[2024.08.25-22.12.06:617][458]BlueprintLog: New page: Compile BP_Weapon
+[2024.08.25-22.12.06:702][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.08.25-22.12.07:064][481]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.12.07:761][555]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.25-22.12.07:767][555]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.08.25-22.12.07:768][555]LogWorldPartition: Display: GenerateStreaming started...
+[2024.08.25-22.12.07:768][555]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.08.25-22.12.07:768][555]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 405 us)
+[2024.08.25-22.12.07:768][555]LogWorldPartition: Display: GenerateStreaming took 133 us (total: 8 ms)
+[2024.08.25-22.12.07:769][555]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.25-22.12.07:769][555]PIE: New page: PIE session: ThirdPersonMap (26 Aug 2024, 00:12:07)
+[2024.08.25-22.12.07:798][555]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.25-22.12.07:810][555]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011462s)
+[2024.08.25-22.12.07:810][555]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.011507s)
+[2024.08.25-22.12.07:810][555]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.25-22.12.07:810][555]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.25-22.12.07:810][555]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.08.25-22.12.07:811][555]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.08.25-22.12.07:811][555]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.08.25-22.12.07:811][555]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.08.25-22.12.07:813][555]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.08.25-22.12.07:813][555]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 6.01 sec)
+[2024.08.25-22.12.07:813][555]LogPlayLevel: PIE: World Init took: (0.003541s)
+[2024.08.25-22.12.07:837][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.08.25-22.12.07:841][555]LogAudio: Display: Creating Audio Device:                 Id: 64, Scope: Unique, Realtime: True
+[2024.08.25-22.12.07:841][555]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.25-22.12.07:841][555]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.25-22.12.07:841][555]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.25-22.12.07:841][555]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.25-22.12.07:841][555]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.25-22.12.07:841][555]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.08.25-22.12.07:841][555]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.25-22.12.07:841][555]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.25-22.12.07:842][555]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.25-22.12.07:842][555]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.25-22.12.07:842][555]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.25-22.12.07:844][555]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.25-22.12.07:869][555]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2024.08.25-22.12.07:869][555]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.25-22.12.07:869][555]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.25-22.12.07:869][555]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.25-22.12.07:870][555]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=64
+[2024.08.25-22.12.07:870][555]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=64
+[2024.08.25-22.12.07:871][555]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=64
+[2024.08.25-22.12.07:871][555]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=64
+[2024.08.25-22.12.07:871][555]LogInit: FAudioDevice initialized with ID 64.
+[2024.08.25-22.12.07:872][555]LogAudio: Display: Audio Device (ID: 64) registered with world 'ThirdPersonMap'.
+[2024.08.25-22.12.07:872][555]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 64
+[2024.08.25-22.12.07:874][555]LogLoad: Game class is 'BP_Player_GameMode_C'
+[2024.08.25-22.12.07:881][555]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.08.25-23.12.07
+[2024.08.25-22.12.07:884][555]LogWorld: Bringing up level for play took: 0.009915
+[2024.08.25-22.12.07:886][555]LogOnline: OSS: Created online subsystem instance for: :Context_94
+[2024.08.25-22.12.07:894][555]PIE: Server logged in
+[2024.08.25-22.12.07:894][555]PIE: Play in editor total start time 0.129 seconds.
+[2024.08.25-22.12.07:915][555]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.12.07:915][555]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.12.07:916][555]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.12.07:916][555]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.12.07:916][555]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.12.07:916][555]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.12.07:917][555]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.12.07:917][555]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.12.07:917][555]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.12.07:917][555]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.12.07:917][555]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.12.07:923][555]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.12.07:937][556]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.12.07:937][556]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.12.07:938][556]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.12.07:938][556]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.12.07:938][556]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.12.07:938][556]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.12.07:939][556]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.12.07:939][556]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.12.07:939][556]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.12.07:939][556]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.12.07:940][556]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.12.07:950][556]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.12.10:328][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.25-22.12.10:329][827]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2024.08.25-22.12.10:329][827]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.08.25-22.12.10:329][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.25-22.12.10:330][827]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.08.25-22.12.10:388][827]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.25-22.12.10:391][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.25-22.12.10:426][827]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.25-22.12.10:427][827]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 64
+[2024.08.25-22.12.10:427][827]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=64
+[2024.08.25-22.12.10:429][827]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=64
+[2024.08.25-22.12.10:432][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.25-22.12.10:436][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.08.25-22.12.10:472][827]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.12.10:478][828]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2024.08.25-22.12.10:500][828]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.08.25-22.12.17:079][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.08.25-22.12.17:086][549]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.25-22.12.17:121][549]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/1/H4/MA5GNP8SF9ZOEOEMEM6M28
+[2024.08.25-22.12.17:122][549]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/MA5GNP8SF9ZOEOEMEM6M28121CF80F48A934A3EC3098A0704DAE52.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/1/H4/MA5GNP8SF9ZOEOEMEM6M28.uasset'
+[2024.08.25-22.12.17:124][549]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/2/3F/SDJP0I76XUPYQPN55YE924
+[2024.08.25-22.12.17:124][549]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/SDJP0I76XUPYQPN55YE924F30C3CEB4F7C8367538371B6C1CEAC03.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/2/3F/SDJP0I76XUPYQPN55YE924.uasset'
+[2024.08.25-22.12.17:128][549]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/4/T4/4BDTFBYDVTTO9TEYRDS3TB
+[2024.08.25-22.12.17:128][549]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/4BDTFBYDVTTO9TEYRDS3TB833BA15A4967C662EF03B588AE046F20.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/4/T4/4BDTFBYDVTTO9TEYRDS3TB.uasset'
+[2024.08.25-22.12.17:131][549]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/8/GN/OK6Z9HNHPA9R5SVLN87GKF
+[2024.08.25-22.12.17:132][549]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/OK6Z9HNHPA9R5SVLN87GKF6E319F444E667336782B60BE0A50E9EC.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/8/GN/OK6Z9HNHPA9R5SVLN87GKF.uasset'
+[2024.08.25-22.12.17:134][549]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/D/I8/XS6HPZQCNUU5RLTKE5A2QY
+[2024.08.25-22.12.17:134][549]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/XS6HPZQCNUU5RLTKE5A2QY73CC10B246E4879CA0D55C8B8F39BBC2.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/D/I8/XS6HPZQCNUU5RLTKE5A2QY.uasset'
+[2024.08.25-22.12.17:144][549]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 15.5 sec)
+[2024.08.25-22.12.17:149][549]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.25-22.12.17:149][549]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B404B1102_1933395654
+[2024.08.25-22.12.17:149][549]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401F0F02_1621660798
+[2024.08.25-22.12.17:149][549]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401F0F02_1619844797
+[2024.08.25-22.12.17:149][549]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401A0F02_1691127916
+[2024.08.25-22.12.17:149][549]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B40700F02_1835656048
+[2024.08.25-22.12.21:206][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.08.25-22.18.08:674][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.08.25-22.18.08:680][942]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/ThirdPersonMap' took 0.034
+[2024.08.25-22.18.08:680][942]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Weapons/BPs/BP_Weapon] ([2] browsable assets)...
+[2024.08.25-22.18.09:453][942]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Weapons/BPs/BP_Weapon.BP_Weapon]
+[2024.08.25-22.18.09:453][942]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/BPs/BP_Weapon]
+[2024.08.25-22.18.09:486][942]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Weapons/BPs/BP_Weapon_Auto2
+[2024.08.25-22.18.09:486][942]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BP_Weapon_Auto2799FC44B48844767F6F1CD96E4283773.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Autosaves/Game/Weapons/BPs/BP_Weapon_Auto2.uasset'
+[2024.08.25-22.18.09:487][942]LogFileHelpers: Auto-saving content packages took 0.807
+[2024.08.25-22.19.51:134][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.08.25-22.19.51:138][311]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.25-22.19.51:200][311]LogSavePackage: Moving output files for package: /Game/Weapons/BPs/BP_Weapon
+[2024.08.25-22.19.51:201][311]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BP_Weapon0C79AC3C450DBDA528CAEBAD9DF0219D.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Weapons/BPs/BP_Weapon.uasset'
+[2024.08.25-22.19.51:210][311]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 15.6 sec)
+[2024.08.25-22.19.51:215][311]AssetCheck: New page: Asset Save: BP_Weapon
+[2024.08.25-22.19.51:215][311]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Weapons/BPs/BP_Weapon.BP_Weapon
+[2024.08.25-22.21.07:137][ 72]LogDerivedDataCache: C:/Users/harry/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:49.163 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 25746 files in 28720 folders with total size 3335 MiB.
+[2024.08.25-22.27.57:529][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.08.25-22.27.57:534][878]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.25-22.27.57:614][878]LogSavePackage: Moving output files for package: /Game/Weapons/BPs/BP_Weapon
+[2024.08.25-22.27.57:614][878]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BP_WeaponAFE647FA4EABFE6451F8CC92D02EEBC2.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Weapons/BPs/BP_Weapon.uasset'
+[2024.08.25-22.27.57:624][878]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 15.7 sec)
+[2024.08.25-22.27.57:631][878]AssetCheck: New page: Asset Save: BP_Weapon
+[2024.08.25-22.27.57:631][878]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Weapons/BPs/BP_Weapon.BP_Weapon
+[2024.08.25-22.38.21:630][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.08.25-22.38.21:635][ 31]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/ThirdPersonMap' took 0.036
+[2024.08.25-22.38.21:635][ 31]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Weapons/BPs/BP_Weapon] ([2] browsable assets)...
+[2024.08.25-22.38.21:636][ 31]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/BPs/BP_Weapon]
+[2024.08.25-22.38.21:664][ 31]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Weapons/BPs/BP_Weapon_Auto3
+[2024.08.25-22.38.21:664][ 31]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BP_Weapon_Auto335C3DFCB49F5F366F11E1CBFCFE32748.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Autosaves/Game/Weapons/BPs/BP_Weapon_Auto3.uasset'
+[2024.08.25-22.38.21:665][ 31]LogFileHelpers: Auto-saving content packages took 0.029
+[2024.08.25-22.48.41:754][621]BlueprintLog: New page: Compile BP_Weapon
+[2024.08.25-22.48.41:848][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.08.25-22.48.42:476][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.08.25-22.48.42:482][679]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.25-22.48.42:533][679]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/1/H4/MA5GNP8SF9ZOEOEMEM6M28
+[2024.08.25-22.48.42:533][679]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/MA5GNP8SF9ZOEOEMEM6M28B3BD4CEB4118B9C293638CB834D11332.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/1/H4/MA5GNP8SF9ZOEOEMEM6M28.uasset'
+[2024.08.25-22.48.42:536][679]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/2/3F/SDJP0I76XUPYQPN55YE924
+[2024.08.25-22.48.42:536][679]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/SDJP0I76XUPYQPN55YE9243B4D88D7468B5E7D7B8331B736A97F7D.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/2/3F/SDJP0I76XUPYQPN55YE924.uasset'
+[2024.08.25-22.48.42:538][679]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/4/T4/4BDTFBYDVTTO9TEYRDS3TB
+[2024.08.25-22.48.42:538][679]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/4BDTFBYDVTTO9TEYRDS3TB6C13883C45C386CB81884DB03FDA71A9.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/4/T4/4BDTFBYDVTTO9TEYRDS3TB.uasset'
+[2024.08.25-22.48.42:541][679]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/8/GN/OK6Z9HNHPA9R5SVLN87GKF
+[2024.08.25-22.48.42:541][679]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/OK6Z9HNHPA9R5SVLN87GKF48D681CF496135A2FA16B0942A427B94.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/8/GN/OK6Z9HNHPA9R5SVLN87GKF.uasset'
+[2024.08.25-22.48.42:543][679]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/D/I8/XS6HPZQCNUU5RLTKE5A2QY
+[2024.08.25-22.48.42:544][679]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/XS6HPZQCNUU5RLTKE5A2QY7C068A0046A4BBD18385F6B87066659C.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/D/I8/XS6HPZQCNUU5RLTKE5A2QY.uasset'
+[2024.08.25-22.48.42:587][679]LogSavePackage: Moving output files for package: /Game/Weapons/BPs/BP_Weapon
+[2024.08.25-22.48.42:587][679]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BP_WeaponA003F84B475B86D15B15798B65A7D3B7.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Weapons/BPs/BP_Weapon.uasset'
+[2024.08.25-22.48.42:596][679]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 15.8 sec)
+[2024.08.25-22.48.42:602][679]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.25-22.48.42:602][679]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Weapons/BPs/BP_Weapon.BP_Weapon
+[2024.08.25-22.48.42:602][679]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B404B1102_1933395654
+[2024.08.25-22.48.42:602][679]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B40700F02_1835656048
+[2024.08.25-22.48.42:602][679]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401A0F02_1691127916
+[2024.08.25-22.48.42:602][679]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401F0F02_1619844797
+[2024.08.25-22.48.42:602][679]LogContentValidation: Display: Validating /Game/Weapons/BPs/BP_Weapon.BP_Weapon_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Weapon_C_UAID_A85E45A79B401F0F02_1621660798
