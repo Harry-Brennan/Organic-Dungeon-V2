@@ -5667,3 +5667,423 @@ Make sure 'BP_Player_C' has been compiled for  Get Starter_Weapon
 [2024.09.03-20.48.11:752][532]LogContentValidation: Display: Validating /Game/Characters/Enemies/BP_Test_Dummy.BP_Test_Dummy_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Test_Dummy_C_UAID_107C61B295B0F01602_2075822987
 [2024.09.03-20.48.11:752][532]LogContentValidation: Display: Validating /Game/Characters/Enemies/BP_Test_Dummy.BP_Test_Dummy_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Test_Dummy_C_UAID_107C61B295B0E21702_1455165559
 [2024.09.03-20.48.11:752][532]LogContentValidation: Display: Validating /Game/Characters/Player/BP_Player.BP_Player_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0FB1602_1253118903
+[2024.09.03-21.02.08:462][369]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.03-21.02.08:469][369]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.09.03-21.02.08:470][369]LogWorldPartition: Display: GenerateStreaming started...
+[2024.09.03-21.02.08:470][369]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.09.03-21.02.08:470][369]LogWorldPartition: Display: GetPartitionedActors took 7 us (total: 128 us)
+[2024.09.03-21.02.08:470][369]LogWorldPartition: Display: GenerateStreaming took 156 us (total: 2 ms)
+[2024.09.03-21.02.08:470][369]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.03-21.02.08:470][369]PIE: New page: PIE session: ThirdPersonMap (3 Sep 2024, 23:02:08)
+[2024.09.03-21.02.08:471][369]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2024.09.03-21.02.08:483][369]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012834s)
+[2024.09.03-21.02.08:484][369]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.012882s)
+[2024.09.03-21.02.08:484][369]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.09.03-21.02.08:484][369]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.09.03-21.02.08:484][369]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.09.03-21.02.08:484][369]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.09.03-21.02.08:484][369]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.09.03-21.02.08:484][369]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.09.03-21.02.08:487][369]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.09.03-21.02.08:487][369]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 5.38 sec)
+[2024.09.03-21.02.08:487][369]LogPlayLevel: PIE: World Init took: (0.003858s)
+[2024.09.03-21.02.08:512][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.09.03-21.02.08:513][369]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.09.03-21.02.08:513][369]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.03-21.02.08:513][369]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.03-21.02.08:513][369]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.03-21.02.08:513][369]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.03-21.02.08:513][369]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.09.03-21.02.08:513][369]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.09.03-21.02.08:513][369]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.09.03-21.02.08:513][369]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.03-21.02.08:514][369]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.03-21.02.08:514][369]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.03-21.02.08:514][369]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.03-21.02.08:516][369]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.03-21.02.08:539][369]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2024.09.03-21.02.08:539][369]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.03-21.02.08:539][369]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.03-21.02.08:539][369]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.03-21.02.08:540][369]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.09.03-21.02.08:540][369]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=22
+[2024.09.03-21.02.08:541][369]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.09.03-21.02.08:541][369]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.09.03-21.02.08:541][369]LogInit: FAudioDevice initialized with ID 22.
+[2024.09.03-21.02.08:541][369]LogAudio: Display: Audio Device (ID: 22) registered with world 'ThirdPersonMap'.
+[2024.09.03-21.02.08:541][369]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2024.09.03-21.02.08:544][369]LogLoad: Game class is 'BP_Player_GameMode_C'
+[2024.09.03-21.02.08:553][369]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.09.03-22.02.08
+[2024.09.03-21.02.08:556][369]LogWorld: Bringing up level for play took: 0.012255
+[2024.09.03-21.02.08:558][369]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2024.09.03-21.02.08:564][369]PIE: Server logged in
+[2024.09.03-21.02.08:564][369]PIE: Play in editor total start time 0.096 seconds.
+[2024.09.03-21.02.08:628][369]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.08:629][369]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.08:629][369]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.08:629][369]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.08:630][369]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.08:630][369]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.08:630][369]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.08:630][369]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.08:630][369]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.08:631][369]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.08:631][369]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.08:631][369]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.08:631][369]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.08:632][369]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.08:632][369]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.08:632][369]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.08:632][369]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.08:634][369]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.08:645][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.08:645][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.08:646][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.08:646][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.08:646][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.08:646][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.08:646][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.08:647][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.08:647][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.08:648][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.08:648][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.08:648][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.08:649][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.08:649][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.08:649][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.08:650][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.08:650][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.08:651][370]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.08:657][371]LogBlueprintUserMessages: [BPC_Weaponry] ADDING THIS TO INVENTORY:BP_Weapon0
+[2024.09.03-21.02.08:657][371]LogBlueprintUserMessages: [BPC_Weaponry] EQUIPPING: BP_Weapon0
+[2024.09.03-21.02.08:657][371]LogBlueprintUserMessages: [BPC_Weaponry] DEQUIPPING: 
+[2024.09.03-21.02.08:658][371]LogBlueprintUserMessages: [BPC_Weaponry] ADDING THIS TO INVENTORY:BP_Weapon1
+[2024.09.03-21.02.08:658][371]LogBlueprintUserMessages: [BPC_Weaponry] EQUIPPING: BP_Weapon1
+[2024.09.03-21.02.08:658][371]LogBlueprintUserMessages: [BPC_Weaponry] DEQUIPPING: 
+[2024.09.03-21.02.08:659][371]LogBlueprintUserMessages: [BPC_Weaponry] ADDING THIS TO INVENTORY:BP_Weapon2
+[2024.09.03-21.02.08:659][371]LogBlueprintUserMessages: [BPC_Weaponry] EQUIPPING: BP_Weapon2
+[2024.09.03-21.02.08:659][371]LogBlueprintUserMessages: [BPC_Weaponry] DEQUIPPING: 
+[2024.09.03-21.02.08:659][371]LogBlueprintUserMessages: [BPC_Player_Weaponry] ADDING THIS TO INVENTORY:BP_Weapon3
+[2024.09.03-21.02.08:659][371]LogBlueprintUserMessages: [BPC_Player_Weaponry] EQUIPPING: BP_Weapon3
+[2024.09.03-21.02.08:659][371]LogBlueprintUserMessages: [BPC_Player_Weaponry] DEQUIPPING: 
+[2024.09.03-21.02.08:660][371]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.09.03-21.02.08:660][371]LogScript: Warning: Script Msg called by: WBP_Weapon_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_20.WBP_HUD_C_0.WidgetTree_0.Weapon_1
+[2024.09.03-21.02.08:660][371]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.09.03-21.02.08:660][371]LogScript: Warning: Script Msg called by: WBP_Weapon_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_20.WBP_HUD_C_0.WidgetTree_0.Weapon_1
+[2024.09.03-21.02.08:660][371]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.09.03-21.02.08:660][371]LogScript: Warning: Script Msg called by: WBP_Weapon_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_20.WBP_HUD_C_0.WidgetTree_0.Weapon_1
+[2024.09.03-21.02.08:660][371]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.09.03-21.02.08:660][371]LogScript: Warning: Script Msg called by: WBP_Weapon_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_20.WBP_HUD_C_0.WidgetTree_0.Weapon_1
+[2024.09.03-21.02.08:660][371]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.09.03-21.02.08:660][371]LogScript: Warning: Script Msg called by: WBP_Weapon_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_20.WBP_HUD_C_0.WidgetTree_0.Weapon_1
+[2024.09.03-21.02.08:660][371]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.09.03-21.02.08:660][371]LogScript: Warning: Script Msg called by: WBP_Weapon_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_20.WBP_HUD_C_0.WidgetTree_0.Weapon_1
+[2024.09.03-21.02.08:823][390]LogBlueprintUserMessages: [ABP_Bipedal_C_0] hit box start notify
+[2024.09.03-21.02.09:022][414]LogBlueprintUserMessages: [BPC_Custom_Movement_Handler] UPDATING MOVEMENT MODE TO BE: Sprinting
+[2024.09.03-21.02.09:090][422]LogBlueprintUserMessages: [ABP_Bipedal_C_0] hitbox end notify
+[2024.09.03-21.02.09:256][442]LogBlueprintUserMessages: [ABP_Bipedal_C_0] end melee attack notify
+[2024.09.03-21.02.09:427][462]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.09:428][462]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.12:517][833]AnimBlueprintLog: Error: Current state is a conduit and will reset to ref pose. This can happen if a conduit is an entry state and there isn't at least one valid transition to take. State Machine(Melee_SM), Conduit(Conduit), AnimBlueprint(/Game/Animation/Animation_BPs/ABP_Bipedal.ABP_Bipedal).
+[2024.09.03-21.02.12:558][838]LogBlueprintUserMessages: [ABP_Bipedal_C_0] hit box start notify
+[2024.09.03-21.02.12:559][838]LogBlueprintUserMessages: [BPC_Melee_Attack] BP_Test_Dummy
+[2024.09.03-21.02.12:700][855]LogBlueprintUserMessages: [BPC_Melee_Attack] BP_Player
+[2024.09.03-21.02.12:700][855]LogBlueprintUserMessages: [BPC_Health] 0.929928
+[2024.09.03-21.02.12:832][871]LogBlueprintUserMessages: [BP_Player_C_UAID_107C61B295B0FB1602_1253118903] NORMAL LANDING
+[2024.09.03-21.02.12:832][871]LogBlueprintUserMessages: [BP_Player_C_UAID_107C61B295B0FB1602_1253118903] X=1991.599 Y=803.425 Z=0.062
+[2024.09.03-21.02.12:832][871]LogBlueprintUserMessages: [BP_Player_C_UAID_107C61B295B0FB1602_1253118903] P=-0.000000 Y=57.225000 R=0.000000
+[2024.09.03-21.02.12:909][880]LogBlueprintUserMessages: [ABP_Bipedal_C_0] hitbox end notify
+[2024.09.03-21.02.12:944][884]LogBlueprintUserMessages: [BP_BloodSplosion_C_0] 250
+[2024.09.03-21.02.12:944][884]LogBlueprintUserMessages: [BPC_Health] ATTEMPTING TO HEAL : BP_Player54.0 HEALTH
+[2024.09.03-21.02.13:047][896]LogBlueprintUserMessages: [ABP_Bipedal_C_0] end melee attack notify
+[2024.09.03-21.02.13:437][942]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.13:437][942]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.13:437][942]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.13:438][942]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.13:438][942]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.13:438][942]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.14:978][127]LogBlueprintUserMessages: [ABP_Bipedal_C_0] hit box start notify
+[2024.09.03-21.02.14:978][127]LogBlueprintUserMessages: [BPC_Melee_Attack] BP_Player
+[2024.09.03-21.02.14:978][127]LogBlueprintUserMessages: [BPC_Health] 0.996667
+[2024.09.03-21.02.15:110][143]LogBlueprintUserMessages: [BP_Player_C_UAID_107C61B295B0FB1602_1253118903] NORMAL LANDING
+[2024.09.03-21.02.15:110][143]LogBlueprintUserMessages: [BP_Player_C_UAID_107C61B295B0FB1602_1253118903] X=2172.104 Y=1047.901 Z=0.062
+[2024.09.03-21.02.15:110][143]LogBlueprintUserMessages: [BP_Player_C_UAID_107C61B295B0FB1602_1253118903] P=-0.000000 Y=36.575000 R=0.000000
+[2024.09.03-21.02.15:220][156]LogBlueprintUserMessages: [BPC_Health] BP_Test_Dummy2 death
+[2024.09.03-21.02.15:220][156]LogBlueprintUserMessages: [BP_BloodSplosion_C_1] 200
+[2024.09.03-21.02.15:221][156]LogBlueprintUserMessages: [BPC_Health] ATTEMPTING TO HEAL : BP_Player24.0 HEALTH
+[2024.09.03-21.02.15:221][156]LogBlueprintUserMessages: [BP_BloodSplosion_C_2] 250
+[2024.09.03-21.02.15:221][156]LogBlueprintUserMessages: [BPC_Health] ATTEMPTING TO HEAL : BP_Player54.0 HEALTH
+[2024.09.03-21.02.15:321][167]LogBlueprintUserMessages: [ABP_Bipedal_C_0] hitbox end notify
+[2024.09.03-21.02.15:446][180]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.15:447][180]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.15:447][180]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.15:447][180]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.15:448][180]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.15:448][180]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.15:489][185]LogBlueprintUserMessages: [ABP_Bipedal_C_0] end melee attack notify
+[2024.09.03-21.02.16:249][274]LogBlueprintUserMessages: [BPC_Custom_Movement_Handler] UPDATING MOVEMENT MODE TO BE: Sprinting
+[2024.09.03-21.02.16:454][298]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.17:457][416]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.17:458][416]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.17:458][416]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.18:662][561]LogBlueprintUserMessages: [ABP_Bipedal_C_0] hit box start notify
+[2024.09.03-21.02.18:729][569]LogBlueprintUserMessages: [BPC_Melee_Attack] BP_Player
+[2024.09.03-21.02.18:729][569]LogBlueprintUserMessages: [BPC_Health] 0.956666
+[2024.09.03-21.02.18:862][585]LogBlueprintUserMessages: [BP_Player_C_UAID_107C61B295B0FB1602_1253118903] NORMAL LANDING
+[2024.09.03-21.02.18:862][585]LogBlueprintUserMessages: [BP_Player_C_UAID_107C61B295B0FB1602_1253118903] X=3491.885 Y=1335.331 Z=128.590
+[2024.09.03-21.02.18:862][585]LogBlueprintUserMessages: [BP_Player_C_UAID_107C61B295B0FB1602_1253118903] P=9.372316 Y=53.426771 R=12.351165
+[2024.09.03-21.02.18:934][593]LogBlueprintUserMessages: [ABP_Bipedal_C_0] hitbox end notify
+[2024.09.03-21.02.18:976][598]LogBlueprintUserMessages: [BPC_Health] BP_Test_Dummy death
+[2024.09.03-21.02.18:976][598]LogBlueprintUserMessages: [BP_BloodSplosion_C_3] 500
+[2024.09.03-21.02.18:976][598]LogBlueprintUserMessages: [BPC_Health] ATTEMPTING TO HEAL : BP_Player71.0 HEALTH
+[2024.09.03-21.02.18:977][598]LogBlueprintUserMessages: [BP_BloodSplosion_C_4] 250
+[2024.09.03-21.02.18:977][598]LogBlueprintUserMessages: [BPC_Health] ATTEMPTING TO HEAL : BP_Player54.0 HEALTH
+[2024.09.03-21.02.19:073][609]LogBlueprintUserMessages: [ABP_Bipedal_C_0] end melee attack notify
+[2024.09.03-21.02.19:463][655]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.19:464][655]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.19:464][655]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.19:464][655]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.19:789][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.03-21.02.19:789][691]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2024.09.03-21.02.19:790][691]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.09.03-21.02.19:791][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.03-21.02.19:791][691]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.09.03-21.02.19:798][691]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.03-21.02.19:803][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.03-21.02.19:828][691]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.09.03-21.02.19:828][691]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2024.09.03-21.02.19:828][691]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.09.03-21.02.19:830][691]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.09.03-21.02.19:833][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.03-21.02.19:840][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.09.03-21.02.19:870][691]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.19:897][692]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.09.03-21.02.19:908][692]LogViewport: Scene viewport resized to 474x184, mode Windowed.
+[2024.09.03-21.02.19:926][692]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.20:307][729]Cmd: POLY SELECT ALL
+[2024.09.03-21.02.36:080][184]BlueprintLog: New page: Compile BPC_Health
+[2024.09.03-21.02.36:154][184]LogBlueprintUserMessages: [BPC_Starting_Weapons] Hello
+[2024.09.03-21.02.36:154][184]LogBlueprintUserMessages: [BPC_Starting_Weapons] Hello
+[2024.09.03-21.02.36:156][184]LogBlueprintUserMessages: [BPC_Starting_Weapons] Hello
+[2024.09.03-21.02.36:185][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.09.03-21.02.36:599][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.09.03-21.02.36:602][221]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.03-21.02.36:626][221]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/4/4V/23QSJRH64WX7HRVXXPH39L
+[2024.09.03-21.02.36:626][221]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/23QSJRH64WX7HRVXXPH39L17937E26407232857B3E8296CC0DE3C2.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/4/4V/23QSJRH64WX7HRVXXPH39L.uasset'
+[2024.09.03-21.02.36:629][221]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/9/ZG/D4P34TJ6X7KEWYVGIWDD8E
+[2024.09.03-21.02.36:629][221]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/D4P34TJ6X7KEWYVGIWDD8EB1C9B970494FA4B138C8ADB40E695943.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/9/ZG/D4P34TJ6X7KEWYVGIWDD8E.uasset'
+[2024.09.03-21.02.36:632][221]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/B/OR/62HS1OD5IDZ2NHKG3PPE9K
+[2024.09.03-21.02.36:632][221]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/62HS1OD5IDZ2NHKG3PPE9KB7BA90014E58B931CD7DB9ACCC47FE3E.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/B/OR/62HS1OD5IDZ2NHKG3PPE9K.uasset'
+[2024.09.03-21.02.36:635][221]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/D2/MCT6H8JIL5AW61FY3BO1W6
+[2024.09.03-21.02.36:636][221]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/MCT6H8JIL5AW61FY3BO1W63669F2DA4380864CE827689EAD881624.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/7/D2/MCT6H8JIL5AW61FY3BO1W6.uasset'
+[2024.09.03-21.02.36:669][221]LogSavePackage: Moving output files for package: /Game/Health/BPs/BPC_Health
+[2024.09.03-21.02.36:669][221]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BPC_Health968E2A6C4ADA0D494052A987F738AAB8.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Health/BPs/BPC_Health.uasset'
+[2024.09.03-21.02.36:675][221]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 1.82 sec)
+[2024.09.03-21.02.36:680][221]AssetCheck: New page: Asset Save: multiple assets
+[2024.09.03-21.02.36:680][221]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Health/BPs/BPC_Health.BPC_Health
+[2024.09.03-21.02.36:680][221]LogContentValidation: Display: Validating /Game/Characters/Enemies/BP_Test_Dummy.BP_Test_Dummy_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Test_Dummy_C_UAID_107C61B295B0E11702_1702925386
+[2024.09.03-21.02.36:680][221]LogContentValidation: Display: Validating /Game/Characters/Enemies/BP_Test_Dummy.BP_Test_Dummy_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Test_Dummy_C_UAID_107C61B295B0F01602_2075822987
+[2024.09.03-21.02.36:680][221]LogContentValidation: Display: Validating /Game/Characters/Enemies/BP_Test_Dummy.BP_Test_Dummy_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Test_Dummy_C_UAID_107C61B295B0E21702_1455165559
+[2024.09.03-21.02.36:680][221]LogContentValidation: Display: Validating /Game/Characters/Player/BP_Player.BP_Player_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0FB1602_1253118903
+[2024.09.03-21.02.56:105][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.09.03-21.02.56:109][285]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.03-21.02.56:167][285]LogSavePackage: Moving output files for package: /Game/Health/BPs/BPC_Health
+[2024.09.03-21.02.56:168][285]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BPC_Health3E5BEFF84DA6D519252A789EB67D6639.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Health/BPs/BPC_Health.uasset'
+[2024.09.03-21.02.56:173][285]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 1.88 sec)
+[2024.09.03-21.02.56:178][285]AssetCheck: New page: Asset Save: BPC_Health
+[2024.09.03-21.02.56:178][285]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Health/BPs/BPC_Health.BPC_Health
+[2024.09.03-21.02.56:515][320]BlueprintLog: New page: Compile BPC_Health
+[2024.09.03-21.02.56:589][320]LogBlueprintUserMessages: [BPC_Starting_Weapons] Hello
+[2024.09.03-21.02.56:590][320]LogBlueprintUserMessages: [BPC_Starting_Weapons] Hello
+[2024.09.03-21.02.56:591][320]LogBlueprintUserMessages: [BPC_Starting_Weapons] Hello
+[2024.09.03-21.02.56:620][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.09.03-21.02.58:113][468]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.03-21.02.58:119][468]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.09.03-21.02.58:120][468]LogWorldPartition: Display: GenerateStreaming started...
+[2024.09.03-21.02.58:120][468]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.09.03-21.02.58:120][468]LogWorldPartition: Display: GetPartitionedActors took 4 us (total: 133 us)
+[2024.09.03-21.02.58:121][468]LogWorldPartition: Display: GenerateStreaming took 129 us (total: 2 ms)
+[2024.09.03-21.02.58:121][468]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.03-21.02.58:121][468]PIE: New page: PIE session: ThirdPersonMap (3 Sep 2024, 23:02:58)
+[2024.09.03-21.02.58:121][468]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2024.09.03-21.02.58:132][468]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011740s)
+[2024.09.03-21.02.58:132][468]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.011770s)
+[2024.09.03-21.02.58:132][468]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.09.03-21.02.58:132][468]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.09.03-21.02.58:133][468]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.09.03-21.02.58:133][468]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.09.03-21.02.58:133][468]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.09.03-21.02.58:133][468]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.09.03-21.02.58:136][468]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.09.03-21.02.58:136][468]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 5.38 sec)
+[2024.09.03-21.02.58:136][468]LogPlayLevel: PIE: World Init took: (0.003478s)
+[2024.09.03-21.02.58:160][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.09.03-21.02.58:162][468]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.09.03-21.02.58:162][468]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.03-21.02.58:162][468]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.03-21.02.58:162][468]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.03-21.02.58:162][468]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.03-21.02.58:162][468]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.09.03-21.02.58:162][468]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.09.03-21.02.58:162][468]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.09.03-21.02.58:162][468]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.03-21.02.58:162][468]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.03-21.02.58:162][468]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.03-21.02.58:162][468]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.03-21.02.58:164][468]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.03-21.02.58:182][468]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2024.09.03-21.02.58:183][468]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.03-21.02.58:183][468]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.03-21.02.58:183][468]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.03-21.02.58:184][468]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2024.09.03-21.02.58:184][468]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=23
+[2024.09.03-21.02.58:185][468]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2024.09.03-21.02.58:185][468]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2024.09.03-21.02.58:185][468]LogInit: FAudioDevice initialized with ID 23.
+[2024.09.03-21.02.58:185][468]LogAudio: Display: Audio Device (ID: 23) registered with world 'ThirdPersonMap'.
+[2024.09.03-21.02.58:185][468]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2024.09.03-21.02.58:187][468]LogLoad: Game class is 'BP_Player_GameMode_C'
+[2024.09.03-21.02.58:196][468]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.09.03-22.02.58
+[2024.09.03-21.02.58:198][468]LogWorld: Bringing up level for play took: 0.011282
+[2024.09.03-21.02.58:200][468]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2024.09.03-21.02.58:205][468]PIE: Server logged in
+[2024.09.03-21.02.58:206][468]PIE: Play in editor total start time 0.087 seconds.
+[2024.09.03-21.02.58:220][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.58:220][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.58:220][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.58:220][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.58:221][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.58:221][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.58:221][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.58:221][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.58:221][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.58:222][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.58:222][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.58:222][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.58:222][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.58:223][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.58:223][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.58:223][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.58:223][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.58:225][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.58:234][469]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.58:234][469]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.58:235][469]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.58:235][469]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.58:235][469]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.58:235][469]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.58:235][469]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.58:236][469]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.58:236][469]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.58:236][469]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.58:236][469]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.58:236][469]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.58:237][469]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.58:237][469]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.58:237][469]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.58:237][469]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.58:237][469]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.58:239][469]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.58:308][473]LogBlueprintUserMessages: [BPC_Weaponry] ADDING THIS TO INVENTORY:BP_Weapon0
+[2024.09.03-21.02.58:308][473]LogBlueprintUserMessages: [BPC_Weaponry] EQUIPPING: BP_Weapon0
+[2024.09.03-21.02.58:308][473]LogBlueprintUserMessages: [BPC_Weaponry] DEQUIPPING: 
+[2024.09.03-21.02.58:309][473]LogBlueprintUserMessages: [BPC_Weaponry] ADDING THIS TO INVENTORY:BP_Weapon1
+[2024.09.03-21.02.58:309][473]LogBlueprintUserMessages: [BPC_Weaponry] EQUIPPING: BP_Weapon1
+[2024.09.03-21.02.58:309][473]LogBlueprintUserMessages: [BPC_Weaponry] DEQUIPPING: 
+[2024.09.03-21.02.58:310][473]LogBlueprintUserMessages: [BPC_Weaponry] ADDING THIS TO INVENTORY:BP_Weapon2
+[2024.09.03-21.02.58:310][473]LogBlueprintUserMessages: [BPC_Weaponry] EQUIPPING: BP_Weapon2
+[2024.09.03-21.02.58:310][473]LogBlueprintUserMessages: [BPC_Weaponry] DEQUIPPING: 
+[2024.09.03-21.02.58:310][473]LogBlueprintUserMessages: [BPC_Player_Weaponry] ADDING THIS TO INVENTORY:BP_Weapon3
+[2024.09.03-21.02.58:310][473]LogBlueprintUserMessages: [BPC_Player_Weaponry] EQUIPPING: BP_Weapon3
+[2024.09.03-21.02.58:310][473]LogBlueprintUserMessages: [BPC_Player_Weaponry] DEQUIPPING: 
+[2024.09.03-21.02.58:310][473]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.09.03-21.02.58:310][473]LogScript: Warning: Script Msg called by: WBP_Weapon_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_21.WBP_HUD_C_0.WidgetTree_0.Weapon_1
+[2024.09.03-21.02.58:310][473]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.09.03-21.02.58:310][473]LogScript: Warning: Script Msg called by: WBP_Weapon_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_21.WBP_HUD_C_0.WidgetTree_0.Weapon_1
+[2024.09.03-21.02.58:310][473]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.09.03-21.02.58:310][473]LogScript: Warning: Script Msg called by: WBP_Weapon_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_21.WBP_HUD_C_0.WidgetTree_0.Weapon_1
+[2024.09.03-21.02.58:310][473]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.09.03-21.02.58:310][473]LogScript: Warning: Script Msg called by: WBP_Weapon_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_21.WBP_HUD_C_0.WidgetTree_0.Weapon_1
+[2024.09.03-21.02.58:310][473]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.09.03-21.02.58:310][473]LogScript: Warning: Script Msg called by: WBP_Weapon_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_21.WBP_HUD_C_0.WidgetTree_0.Weapon_1
+[2024.09.03-21.02.58:310][473]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.09.03-21.02.58:310][473]LogScript: Warning: Script Msg called by: WBP_Weapon_Icon_C /Engine/Transient.UnrealEdEngine_0:GameInstance_21.WBP_HUD_C_0.WidgetTree_0.Weapon_1
+[2024.09.03-21.02.58:624][511]LogBlueprintUserMessages: [BPC_Custom_Movement_Handler] UPDATING MOVEMENT MODE TO BE: Sprinting
+[2024.09.03-21.02.58:695][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.58:696][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.02.58:709][521]LogBlueprintUserMessages: [ABP_Bipedal_C_0] hit box start notify
+[2024.09.03-21.02.58:908][545]LogBlueprintUserMessages: [ABP_Bipedal_C_0] hitbox end notify
+[2024.09.03-21.02.59:042][561]LogBlueprintUserMessages: [ABP_Bipedal_C_0] end melee attack notify
+[2024.09.03-21.03.02:217][942]LogBlueprintUserMessages: [ABP_Bipedal_C_0] hit box start notify
+[2024.09.03-21.03.02:218][942]LogBlueprintUserMessages: [BPC_Melee_Attack] BP_Test_Dummy
+[2024.09.03-21.03.02:308][953]LogBlueprintUserMessages: [BPC_Melee_Attack] BP_Player
+[2024.09.03-21.03.02:432][968]LogBlueprintUserMessages: [BP_Player_C_UAID_107C61B295B0FB1602_1253118903] NORMAL LANDING
+[2024.09.03-21.03.02:433][968]LogBlueprintUserMessages: [BP_Player_C_UAID_107C61B295B0FB1602_1253118903] X=2066.934 Y=968.175 Z=0.062
+[2024.09.03-21.03.02:433][968]LogBlueprintUserMessages: [BP_Player_C_UAID_107C61B295B0FB1602_1253118903] P=-0.000000 Y=39.200001 R=0.000000
+[2024.09.03-21.03.02:567][984]LogBlueprintUserMessages: [ABP_Bipedal_C_0] hitbox end notify
+[2024.09.03-21.03.02:709][  1]LogBlueprintUserMessages: [ABP_Bipedal_C_0] end melee attack notify
+[2024.09.03-21.03.02:714][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.03.02:714][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.03.03:693][119]AnimBlueprintLog: Error: Current state is a conduit and will reset to ref pose. This can happen if a conduit is an entry state and there isn't at least one valid transition to take. State Machine(Melee_SM), Conduit(Conduit), AnimBlueprint(/Game/Animation/Animation_BPs/ABP_Bipedal.ABP_Bipedal).
+[2024.09.03-21.03.03:934][148]LogBlueprintUserMessages: [ABP_Bipedal_C_0] hit box start notify
+[2024.09.03-21.03.03:935][148]LogBlueprintUserMessages: [BPC_Melee_Attack] BP_Player
+[2024.09.03-21.03.03:935][148]LogBlueprintUserMessages: [BPC_Health] 0.899999
+[2024.09.03-21.03.04:066][164]LogBlueprintUserMessages: [BP_Player_C_UAID_107C61B295B0FB1602_1253118903] NORMAL LANDING
+[2024.09.03-21.03.04:067][164]LogBlueprintUserMessages: [BP_Player_C_UAID_107C61B295B0FB1602_1253118903] X=2049.426 Y=948.966 Z=0.062
+[2024.09.03-21.03.04:067][164]LogBlueprintUserMessages: [BP_Player_C_UAID_107C61B295B0FB1602_1253118903] P=-0.000000 Y=42.000001 R=0.000000
+[2024.09.03-21.03.04:178][177]LogBlueprintUserMessages: [BP_BloodSplosion_C_0] 250
+[2024.09.03-21.03.04:179][177]LogBlueprintUserMessages: [BPC_Health] ATTEMPTING TO HEAL : BP_Player54.0 HEALTH
+[2024.09.03-21.03.04:278][189]LogBlueprintUserMessages: [ABP_Bipedal_C_0] hitbox end notify
+[2024.09.03-21.03.04:444][209]LogBlueprintUserMessages: [ABP_Bipedal_C_0] end melee attack notify
+[2024.09.03-21.03.04:716][241]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.03.04:717][241]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.03.04:717][241]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.03.04:718][241]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.03.04:718][241]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.03.04:718][241]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.03.06:725][482]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.03.06:726][482]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.03.06:726][482]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.03.06:726][482]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.03.06:726][482]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.03.07:446][569]LogBlueprintUserMessages: [ABP_Bipedal_C_0] hit box start notify
+[2024.09.03-21.03.07:496][575]LogBlueprintUserMessages: [BPC_Melee_Attack] BP_Player
+[2024.09.03-21.03.07:496][575]LogBlueprintUserMessages: [BPC_Health] 0.466633
+[2024.09.03-21.03.07:629][591]LogBlueprintUserMessages: [BP_Player_C_UAID_107C61B295B0FB1602_1253118903] NORMAL LANDING
+[2024.09.03-21.03.07:629][591]LogBlueprintUserMessages: [BP_Player_C_UAID_107C61B295B0FB1602_1253118903] X=2207.114 Y=1052.133 Z=0.062
+[2024.09.03-21.03.07:629][591]LogBlueprintUserMessages: [BP_Player_C_UAID_107C61B295B0FB1602_1253118903] P=-0.000000 Y=46.375000 R=0.000000
+[2024.09.03-21.03.07:722][602]LogBlueprintUserMessages: [ABP_Bipedal_C_0] hitbox end notify
+[2024.09.03-21.03.07:727][602]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.03.07:855][618]LogBlueprintUserMessages: [ABP_Bipedal_C_0] end melee attack notify
+[2024.09.03-21.03.08:300][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.03-21.03.08:300][668]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2024.09.03-21.03.08:300][668]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.09.03-21.03.08:301][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.03-21.03.08:301][668]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.09.03-21.03.08:307][668]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.03-21.03.08:311][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.03-21.03.08:336][668]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.09.03-21.03.08:337][668]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2024.09.03-21.03.08:337][668]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.09.03-21.03.08:339][668]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.09.03-21.03.08:343][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.03-21.03.08:348][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.09.03-21.03.08:376][668]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.03.08:378][669]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.09.03-21.03.08:395][669]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.09.03-21.03.08:738][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.09.03-21.03.08:741][707]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.03-21.03.08:773][707]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/4/4V/23QSJRH64WX7HRVXXPH39L
+[2024.09.03-21.03.08:774][707]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/23QSJRH64WX7HRVXXPH39L12410D6E495C7BE5ABCB619D3C95172D.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/4/4V/23QSJRH64WX7HRVXXPH39L.uasset'
+[2024.09.03-21.03.08:777][707]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/9/ZG/D4P34TJ6X7KEWYVGIWDD8E
+[2024.09.03-21.03.08:777][707]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/D4P34TJ6X7KEWYVGIWDD8ED030FB2C46BD4FBD232240A574A73DC8.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/9/ZG/D4P34TJ6X7KEWYVGIWDD8E.uasset'
+[2024.09.03-21.03.08:780][707]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/B/OR/62HS1OD5IDZ2NHKG3PPE9K
+[2024.09.03-21.03.08:781][707]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/62HS1OD5IDZ2NHKG3PPE9KADC3F6764A5D8E49CC75D3B1DB1E9E42.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/B/OR/62HS1OD5IDZ2NHKG3PPE9K.uasset'
+[2024.09.03-21.03.08:785][707]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/ThirdPersonMap/7/D2/MCT6H8JIL5AW61FY3BO1W6
+[2024.09.03-21.03.08:785][707]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/MCT6H8JIL5AW61FY3BO1W6223CC95047E8F2FBFA8A5F9A40AD0BD4.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps/ThirdPersonMap/7/D2/MCT6H8JIL5AW61FY3BO1W6.uasset'
+[2024.09.03-21.03.08:792][707]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 1.93 sec)
+[2024.09.03-21.03.08:798][707]AssetCheck: New page: Asset Save: multiple assets
+[2024.09.03-21.03.08:798][707]LogContentValidation: Display: Validating /Game/Characters/Enemies/BP_Test_Dummy.BP_Test_Dummy_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Test_Dummy_C_UAID_107C61B295B0E11702_1702925386
+[2024.09.03-21.03.08:798][707]LogContentValidation: Display: Validating /Game/Characters/Enemies/BP_Test_Dummy.BP_Test_Dummy_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Test_Dummy_C_UAID_107C61B295B0F01602_2075822987
+[2024.09.03-21.03.08:798][707]LogContentValidation: Display: Validating /Game/Characters/Enemies/BP_Test_Dummy.BP_Test_Dummy_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Test_Dummy_C_UAID_107C61B295B0E21702_1455165559
+[2024.09.03-21.03.08:798][707]LogContentValidation: Display: Validating /Game/Characters/Player/BP_Player.BP_Player_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0FB1602_1253118903
