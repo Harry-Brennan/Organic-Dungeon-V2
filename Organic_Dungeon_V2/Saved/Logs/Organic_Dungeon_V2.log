@@ -2129,3 +2129,1289 @@ Script Stack (0 frames) :
 [2024.12.13-21.15.38:726][373]LogFileHelpers: InternalPromptForCheckoutAndSave started...
 [2024.12.13-21.15.38:769][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
 [2024.12.13-21.15.38:776][373]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 773 ms)
+[2024.12.13-21.16.02:494][826]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Player/BPC_Camera_FOV_Manager.BPC_Camera_FOV_Manager
+[2024.12.13-21.16.02:497][826]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.13-21.16.02:497][826]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.13-21.16.03:744][826]LogSlate: Took 0.006448 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.12.13-21.16.07:954][281]LogSlate: Window 'BPC_Camera_FOV_Manager' being destroyed
+[2024.12.13-21.16.07:965][281]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.12.13-21.16.07:965][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.13-21.16.10:001][521]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.13-21.16.10:009][521]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.13-21.16.10:011][521]LogWorldPartition: Display: GenerateStreaming started...
+[2024.12.13-21.16.10:011][521]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.12.13-21.16.10:011][521]LogWorldPartition: Display: GetPartitionedActors took 9 us
+[2024.12.13-21.16.10:011][521]LogWorldPartition: Display: GenerateStreaming took 137 us
+[2024.12.13-21.16.10:013][521]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.13-21.16.10:014][521]PIE: New page: PIE session: ThirdPersonMap (13 Dec 2024, 21:16:10)
+[2024.12.13-21.16.10:018][521]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.12.13-21.16.10:018][521]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.12.13-21.16.10:018][521]LogPlayLevel: Creating play world package: /Game/Maps_And_Modes/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.13-21.16.10:035][521]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016760s)
+[2024.12.13-21.16.10:035][521]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps_And_Modes/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.016797s)
+[2024.12.13-21.16.10:036][521]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.13-21.16.10:036][521]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.13-21.16.10:036][521]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.12.13-21.16.10:036][521]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.13-21.16.10:036][521]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.13-21.16.10:036][521]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.12.13-21.16.10:039][521]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.12.13-21.16.10:039][521]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 6.33 sec)
+[2024.12.13-21.16.10:039][521]LogPlayLevel: PIE: World Init took: (0.003672s)
+[2024.12.13-21.16.10:062][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.12.13-21.16.10:063][521]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.12.13-21.16.10:063][521]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.13-21.16.10:063][521]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.13-21.16.10:063][521]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.13-21.16.10:063][521]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.13-21.16.10:063][521]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.13-21.16.10:063][521]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.12.13-21.16.10:063][521]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.13-21.16.10:063][521]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.13-21.16.10:064][521]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.13-21.16.10:064][521]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.13-21.16.10:064][521]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.13-21.16.10:065][521]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.13-21.16.10:084][521]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2024.12.13-21.16.10:085][521]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.13-21.16.10:085][521]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.13-21.16.10:085][521]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.13-21.16.10:085][521]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.12.13-21.16.10:085][521]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=2
+[2024.12.13-21.16.10:086][521]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.12.13-21.16.10:086][521]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.12.13-21.16.10:086][521]LogInit: FAudioDevice initialized with ID 2.
+[2024.12.13-21.16.10:086][521]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2024.12.13-21.16.10:086][521]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.12.13-21.16.10:089][521]LogLoad: Game class is 'BP_Player_GameMode_C'
+[2024.12.13-21.16.10:096][521]LogWorld: Bringing World /Game/Maps_And_Modes/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.12.13-21.16.10
+[2024.12.13-21.16.10:105][521]LogWorld: Bringing up level for play took: 0.014898
+[2024.12.13-21.16.10:106][521]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2024.12.13-21.16.10:127][521]PIE: Server logged in
+[2024.12.13-21.16.10:127][521]PIE: Play in editor total start time 0.118 seconds.
+[2024.12.13-21.16.10:180][521]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.16.10:180][521]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.16.10:180][521]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.16.10:180][521]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.16.10:181][521]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.16.10:181][521]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.16.10:181][521]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.16.10:181][521]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.16.10:181][521]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.16.10:181][521]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.16.10:181][521]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.16.10:181][521]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.16.10:183][521]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.16.10:183][521]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.16.10:183][521]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.16.10:183][521]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.16.10:201][522]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.16.10:201][522]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.16.10:202][522]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.16.10:202][522]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.16.10:202][522]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.16.10:202][522]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.16.10:202][522]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.16.10:203][522]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.16.10:203][522]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.16.10:203][522]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.16.10:203][522]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.16.10:203][522]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.16.10:203][522]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.16.10:203][522]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.16.10:204][522]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.16.10:204][522]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.16.10:894][598]LogLinker: Warning: Failed to load '/Game/Animation/Animation_Assets/Reloading/Reloading_UE_Montage': Can't find file.
+[2024.12.13-21.16.10:894][598]LogLinker: Warning: Failed to load '/Game/Animation/Animation_Assets/Reloading/Reloading_UE_Montage': Can't find file.
+[2024.12.13-21.16.10:894][598]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Animation/Animation_Assets/Reloading/Reloading_UE_Montage.Reloading_UE_Montage'
+[2024.12.13-21.16.11:097][622]AnimBlueprintLog: Error: Current state is a conduit and will reset to ref pose. This can happen if a conduit is an entry state and there isn't at least one valid transition to take. State Machine(Melee_SM), Conduit(Attacking), AnimBlueprint(/Game/Animation/Animation_BPs/ABP_Bipedal.ABP_Bipedal).
+[2024.12.13-21.16.12:818][827]LogBlueprintUserMessages: [BPC_Air_Dash] AIR DASH
+[2024.12.13-21.16.13:493][908]LogBlueprintUserMessages: [BP_Player_C_UAID_107C61B295B0331C02_1765253041] X=715.171 Y=2555.849 Z=0.062
+[2024.12.13-21.16.13:493][908]LogBlueprintUserMessages: [BP_Player_C_UAID_107C61B295B0331C02_1765253041] P=-0.000000 Y=67.200012 R=0.000000
+[2024.12.13-21.16.14:798][ 64]LogBlueprintUserMessages: [BPC_Air_Dash] AIR DASH
+[2024.12.13-21.16.16:007][209]LogBlueprintUserMessages: [BP_Player_C_UAID_107C61B295B0331C02_1765253041] X=1515.176 Y=5666.198 Z=0.062
+[2024.12.13-21.16.16:007][209]LogBlueprintUserMessages: [BP_Player_C_UAID_107C61B295B0331C02_1765253041] P=-0.000000 Y=35.699985 R=0.000000
+[2024.12.13-21.16.24:027][169]LogBlueprintUserMessages: [BP_Player_C_UAID_107C61B295B0331C02_1765253041] X=2579.351 Y=8381.310 Z=0.062
+[2024.12.13-21.16.24:027][169]LogBlueprintUserMessages: [BP_Player_C_UAID_107C61B295B0331C02_1765253041] P=0.000000 Y=-136.499701 R=0.000000
+[2024.12.13-21.16.30:666][965]LogBlueprintUserMessages: [BP_Player_C_UAID_107C61B295B0331C02_1765253041] X=518.517 Y=10761.649 Z=0.062
+[2024.12.13-21.16.30:666][965]LogBlueprintUserMessages: [BP_Player_C_UAID_107C61B295B0331C02_1765253041] P=-0.000000 Y=85.950114 R=0.000000
+[2024.12.13-21.16.30:968][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.13-21.16.30:968][997]LogWorld: BeginTearingDown for /Game/Maps_And_Modes/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.13-21.16.30:975][997]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.13-21.16.30:976][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.13-21.16.30:976][997]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.12.13-21.16.30:979][997]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.13-21.16.30:983][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.13-21.16.31:007][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.13-21.16.31:008][997]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.12.13-21.16.31:008][997]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.12.13-21.16.31:009][997]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.12.13-21.16.31:018][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.12.13-21.16.31:036][997]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.16.31:042][998]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2024.12.13-21.16.31:051][998]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.17.04:537][995]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Movement/BPC_Custom_Movement_Handler.BPC_Custom_Movement_Handler
+[2024.12.13-21.17.04:537][995]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.13-21.17.04:537][995]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.13-21.17.31:687][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.12.13-21.17.31:689][591]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.13-21.17.31:749][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.12.13-21.17.31:761][591]LogSavePackage: Moving output files for package: /Game/Movement/BPC_Custom_Movement_Handler
+[2024.12.13-21.17.31:761][591]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BPC_Custom_Movement_Handler253CD7754CA22A9815A8F98869AA313C.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Movement/BPC_Custom_Movement_Handler.uasset'
+[2024.12.13-21.17.31:769][591]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 853 ms)
+[2024.12.13-21.17.31:773][591]AssetCheck: New page: Asset Save: BPC_Custom_Movement_Handler
+[2024.12.13-21.17.31:773][591]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Movement/BPC_Custom_Movement_Handler.BPC_Custom_Movement_Handler
+[2024.12.13-21.17.32:592][685]BlueprintLog: New page: Compile BPC_Custom_Movement_Handler
+[2024.12.13-21.17.32:777][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.12.13-21.17.34:558][854]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.13-21.17.34:566][854]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.13-21.17.34:567][854]LogWorldPartition: Display: GenerateStreaming started...
+[2024.12.13-21.17.34:567][854]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.12.13-21.17.34:567][854]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 16 us)
+[2024.12.13-21.17.34:567][854]LogWorldPartition: Display: GenerateStreaming took 196 us (total: 334 us)
+[2024.12.13-21.17.34:567][854]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.13-21.17.34:567][854]PIE: New page: PIE session: ThirdPersonMap (13 Dec 2024, 21:17:34)
+[2024.12.13-21.17.34:597][854]LogPlayLevel: Creating play world package: /Game/Maps_And_Modes/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.13-21.17.34:615][854]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017941s)
+[2024.12.13-21.17.34:615][854]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps_And_Modes/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.017983s)
+[2024.12.13-21.17.34:615][854]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.13-21.17.34:615][854]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.13-21.17.34:616][854]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.12.13-21.17.34:616][854]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.13-21.17.34:616][854]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.13-21.17.34:616][854]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.12.13-21.17.34:619][854]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.12.13-21.17.34:619][854]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 6.33 sec)
+[2024.12.13-21.17.34:619][854]LogPlayLevel: PIE: World Init took: (0.003837s)
+[2024.12.13-21.17.34:643][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.12.13-21.17.34:644][854]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.12.13-21.17.34:644][854]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.13-21.17.34:644][854]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.13-21.17.34:644][854]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.13-21.17.34:644][854]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.13-21.17.34:644][854]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.13-21.17.34:644][854]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.12.13-21.17.34:644][854]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.13-21.17.34:644][854]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.13-21.17.34:645][854]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.13-21.17.34:645][854]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.13-21.17.34:645][854]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.13-21.17.34:647][854]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.13-21.17.34:665][854]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2024.12.13-21.17.34:665][854]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.13-21.17.34:665][854]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.13-21.17.34:665][854]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.13-21.17.34:666][854]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.12.13-21.17.34:666][854]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=3
+[2024.12.13-21.17.34:667][854]LogInit: FAudioDevice initialized with ID 3.
+[2024.12.13-21.17.34:667][854]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.12.13-21.17.34:667][854]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2024.12.13-21.17.34:667][854]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.12.13-21.17.34:667][854]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.12.13-21.17.34:669][854]LogLoad: Game class is 'BP_Player_GameMode_C'
+[2024.12.13-21.17.34:676][854]LogWorld: Bringing World /Game/Maps_And_Modes/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.12.13-21.17.34
+[2024.12.13-21.17.34:678][854]LogWorld: Bringing up level for play took: 0.009180
+[2024.12.13-21.17.34:680][854]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2024.12.13-21.17.34:686][854]PIE: Server logged in
+[2024.12.13-21.17.34:686][854]PIE: Play in editor total start time 0.121 seconds.
+[2024.12.13-21.17.34:704][854]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.17.34:704][854]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.17.34:704][854]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.17.34:704][854]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.17.34:705][854]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.17.34:705][854]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.17.34:705][854]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.17.34:705][854]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.17.34:706][854]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.17.34:706][854]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.17.34:706][854]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.17.34:706][854]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.17.34:706][854]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.17.34:707][854]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.17.34:707][854]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.17.34:707][854]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.17.34:718][855]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.17.34:719][855]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.17.34:719][855]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.17.34:719][855]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.17.34:719][855]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.17.34:719][855]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.17.34:720][855]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.17.34:720][855]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.17.34:720][855]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.17.34:720][855]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.17.34:720][855]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.17.34:721][855]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.17.34:721][855]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.17.34:721][855]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.17.34:722][855]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.17.34:722][855]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.17.35:324][923]AnimBlueprintLog: Error: Current state is a conduit and will reset to ref pose. This can happen if a conduit is an entry state and there isn't at least one valid transition to take. State Machine(Melee_SM), Conduit(Attacking), AnimBlueprint(/Game/Animation/Animation_BPs/ABP_Bipedal.ABP_Bipedal).
+[2024.12.13-21.17.45:410][130]LogBlueprintUserMessages: [BP_Player_C_UAID_107C61B295B0331C02_1765253041] X=1132.263 Y=12500.224 Z=0.062
+[2024.12.13-21.17.45:410][130]LogBlueprintUserMessages: [BP_Player_C_UAID_107C61B295B0331C02_1765253041] P=-0.000000 Y=86.450050 R=0.000000
+[2024.12.13-21.17.46:378][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.13-21.17.46:378][242]LogWorld: BeginTearingDown for /Game/Maps_And_Modes/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.13-21.17.46:378][242]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.13-21.17.46:379][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.13-21.17.46:379][242]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.12.13-21.17.46:382][242]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.13-21.17.46:385][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.13-21.17.46:410][242]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.13-21.17.46:410][242]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.12.13-21.17.46:411][242]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.12.13-21.17.46:412][242]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.12.13-21.17.46:415][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.13-21.17.46:420][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.12.13-21.17.46:440][242]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.17.46:446][243]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.12.13-21.17.46:454][243]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.17.46:950][302]Cmd: POLY SELECT ALL
+[2024.12.13-21.17.49:417][595]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Movement/Sliding/BPC_Slide.BPC_Slide
+[2024.12.13-21.17.49:417][595]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.13-21.17.49:417][595]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.13-21.18.08:659][367]LogSlate: Took 0.004741 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.12.13-21.18.57:331][241]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2024.12.13-21.18.57:331][241]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.13-21.18.57:331][241]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.13-21.18.57:582][243]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	ABP_Bipedal_C /Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0.ABP_Bipedal_C_0
+	Function /Game/Animation/Animation_BPs/ABP_Bipedal.ABP_Bipedal_C:ExecuteUbergraph_ABP_Bipedal:21F0
+[2024.12.13-21.18.57:591][244]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	ABP_Bipedal_C /Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0.ABP_Bipedal_C_0
+	Function /Game/Animation/Animation_BPs/ABP_Bipedal.ABP_Bipedal_C:ExecuteUbergraph_ABP_Bipedal:21F0
+[2024.12.13-21.18.57:602][245]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	ABP_Bipedal_C /Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0.ABP_Bipedal_C_0
+	Function /Game/Animation/Animation_BPs/ABP_Bipedal.ABP_Bipedal_C:ExecuteUbergraph_ABP_Bipedal:21F0
+[2024.12.13-21.18.57:610][246]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	ABP_Bipedal_C /Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0.ABP_Bipedal_C_0
+	Function /Game/Animation/Animation_BPs/ABP_Bipedal.ABP_Bipedal_C:ExecuteUbergraph_ABP_Bipedal:21F0
+[2024.12.13-21.18.57:619][247]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	ABP_Bipedal_C /Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0.ABP_Bipedal_C_0
+	Function /Game/Animation/Animation_BPs/ABP_Bipedal.ABP_Bipedal_C:ExecuteUbergraph_ABP_Bipedal:21F0
+[2024.12.13-21.18.57:627][248]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	ABP_Bipedal_C /Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0.ABP_Bipedal_C_0
+	Function /Game/Animation/Animation_BPs/ABP_Bipedal.ABP_Bipedal_C:ExecuteUbergraph_ABP_Bipedal:21F0
+[2024.12.13-21.18.57:636][249]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	ABP_Bipedal_C /Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0.ABP_Bipedal_C_0
+	Function /Game/Animation/Animation_BPs/ABP_Bipedal.ABP_Bipedal_C:ExecuteUbergraph_ABP_Bipedal:21F0
+[2024.12.13-21.18.57:644][250]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	ABP_Bipedal_C /Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0.ABP_Bipedal_C_0
+	Function /Game/Animation/Animation_BPs/ABP_Bipedal.ABP_Bipedal_C:ExecuteUbergraph_ABP_Bipedal:21F0
+[2024.12.13-21.18.57:653][251]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	ABP_Bipedal_C /Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0.ABP_Bipedal_C_0
+	Function /Game/Animation/Animation_BPs/ABP_Bipedal.ABP_Bipedal_C:ExecuteUbergraph_ABP_Bipedal:21F0
+[2024.12.13-21.18.57:661][252]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	ABP_Bipedal_C /Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0.ABP_Bipedal_C_0
+	Function /Game/Animation/Animation_BPs/ABP_Bipedal.ABP_Bipedal_C:ExecuteUbergraph_ABP_Bipedal:21F0
+[2024.12.13-21.18.57:669][253]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	ABP_Bipedal_C /Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0.ABP_Bipedal_C_0
+	Function /Game/Animation/Animation_BPs/ABP_Bipedal.ABP_Bipedal_C:ExecuteUbergraph_ABP_Bipedal:21F0
+[2024.12.13-21.18.57:677][254]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	ABP_Bipedal_C /Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0.ABP_Bipedal_C_0
+	Function /Game/Animation/Animation_BPs/ABP_Bipedal.ABP_Bipedal_C:ExecuteUbergraph_ABP_Bipedal:21F0
+[2024.12.13-21.18.57:686][255]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	ABP_Bipedal_C /Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0.ABP_Bipedal_C_0
+	Function /Game/Animation/Animation_BPs/ABP_Bipedal.ABP_Bipedal_C:ExecuteUbergraph_ABP_Bipedal:21F0
+[2024.12.13-21.18.57:694][256]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	ABP_Bipedal_C /Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0.ABP_Bipedal_C_0
+	Function /Game/Animation/Animation_BPs/ABP_Bipedal.ABP_Bipedal_C:ExecuteUbergraph_ABP_Bipedal:21F0
+[2024.12.13-21.18.57:703][257]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	ABP_Bipedal_C /Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0.ABP_Bipedal_C_0
+	Function /Game/Animation/Animation_BPs/ABP_Bipedal.ABP_Bipedal_C:ExecuteUbergraph_ABP_Bipedal:21F0
+[2024.12.13-21.18.57:711][258]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	ABP_Bipedal_C /Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0.ABP_Bipedal_C_0
+	Function /Game/Animation/Animation_BPs/ABP_Bipedal.ABP_Bipedal_C:ExecuteUbergraph_ABP_Bipedal:21F0
+[2024.12.13-21.19.05:305][ 75]BlueprintLog: New page: Compile BP_Player
+[2024.12.13-21.19.05:347][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'pelvis' 
+[2024.12.13-21.19.05:347][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'spine_03' 
+[2024.12.13-21.19.05:347][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'spine_04' 
+[2024.12.13-21.19.05:347][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'spine_05' 
+[2024.12.13-21.19.05:347][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'upperarm_l' 
+[2024.12.13-21.19.05:347][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'lowerarm_l' 
+[2024.12.13-21.19.05:347][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'hand_l' 
+[2024.12.13-21.19.05:347][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'lowerarm_r' 
+[2024.12.13-21.19.05:347][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'hand_r' 
+[2024.12.13-21.19.05:347][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'foot_r' 
+[2024.12.13-21.19.05:347][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'thigh_l' 
+[2024.12.13-21.19.05:347][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'calf_l' 
+[2024.12.13-21.19.05:347][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'foot_l' 
+[2024.12.13-21.19.05:347][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'spine_02' 
+[2024.12.13-21.19.05:347][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'neck_01' 
+[2024.12.13-21.19.05:347][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'neck_02' 
+[2024.12.13-21.19.05:347][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'head' 
+[2024.12.13-21.19.05:347][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'clavicle_r' 
+[2024.12.13-21.19.05:347][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'clavicle_l' 
+[2024.12.13-21.19.05:347][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'upperarm_r' 
+[2024.12.13-21.19.05:347][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'thigh_r' 
+[2024.12.13-21.19.05:347][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'calf_r' 
+[2024.12.13-21.19.05:350][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'pelvis' 
+[2024.12.13-21.19.05:350][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'spine_03' 
+[2024.12.13-21.19.05:350][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'spine_04' 
+[2024.12.13-21.19.05:350][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'spine_05' 
+[2024.12.13-21.19.05:350][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'upperarm_l' 
+[2024.12.13-21.19.05:350][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'lowerarm_l' 
+[2024.12.13-21.19.05:350][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'hand_l' 
+[2024.12.13-21.19.05:350][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'lowerarm_r' 
+[2024.12.13-21.19.05:350][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'hand_r' 
+[2024.12.13-21.19.05:350][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'foot_r' 
+[2024.12.13-21.19.05:350][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'thigh_l' 
+[2024.12.13-21.19.05:350][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'calf_l' 
+[2024.12.13-21.19.05:350][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'foot_l' 
+[2024.12.13-21.19.05:350][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'spine_02' 
+[2024.12.13-21.19.05:350][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'neck_01' 
+[2024.12.13-21.19.05:350][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'neck_02' 
+[2024.12.13-21.19.05:350][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'head' 
+[2024.12.13-21.19.05:350][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'clavicle_r' 
+[2024.12.13-21.19.05:350][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'clavicle_l' 
+[2024.12.13-21.19.05:350][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'upperarm_r' 
+[2024.12.13-21.19.05:350][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'thigh_r' 
+[2024.12.13-21.19.05:350][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'calf_r' 
+[2024.12.13-21.19.05:355][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'pelvis' 
+[2024.12.13-21.19.05:355][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'spine_03' 
+[2024.12.13-21.19.05:355][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'spine_04' 
+[2024.12.13-21.19.05:355][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'spine_05' 
+[2024.12.13-21.19.05:355][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'upperarm_l' 
+[2024.12.13-21.19.05:355][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'lowerarm_l' 
+[2024.12.13-21.19.05:355][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'hand_l' 
+[2024.12.13-21.19.05:355][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'lowerarm_r' 
+[2024.12.13-21.19.05:355][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'hand_r' 
+[2024.12.13-21.19.05:356][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'foot_r' 
+[2024.12.13-21.19.05:356][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'thigh_l' 
+[2024.12.13-21.19.05:356][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'calf_l' 
+[2024.12.13-21.19.05:356][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'foot_l' 
+[2024.12.13-21.19.05:356][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'spine_02' 
+[2024.12.13-21.19.05:356][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'neck_01' 
+[2024.12.13-21.19.05:356][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'neck_02' 
+[2024.12.13-21.19.05:356][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'head' 
+[2024.12.13-21.19.05:356][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'clavicle_r' 
+[2024.12.13-21.19.05:356][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'clavicle_l' 
+[2024.12.13-21.19.05:356][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'upperarm_r' 
+[2024.12.13-21.19.05:356][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'thigh_r' 
+[2024.12.13-21.19.05:356][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'calf_r' 
+[2024.12.13-21.19.05:358][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'pelvis' 
+[2024.12.13-21.19.05:358][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'spine_03' 
+[2024.12.13-21.19.05:358][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'spine_04' 
+[2024.12.13-21.19.05:358][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'spine_05' 
+[2024.12.13-21.19.05:358][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'upperarm_l' 
+[2024.12.13-21.19.05:358][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'lowerarm_l' 
+[2024.12.13-21.19.05:358][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'hand_l' 
+[2024.12.13-21.19.05:358][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'lowerarm_r' 
+[2024.12.13-21.19.05:358][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'hand_r' 
+[2024.12.13-21.19.05:358][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'foot_r' 
+[2024.12.13-21.19.05:358][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'thigh_l' 
+[2024.12.13-21.19.05:358][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'calf_l' 
+[2024.12.13-21.19.05:358][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'foot_l' 
+[2024.12.13-21.19.05:358][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'spine_02' 
+[2024.12.13-21.19.05:358][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'neck_01' 
+[2024.12.13-21.19.05:358][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'neck_02' 
+[2024.12.13-21.19.05:358][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'head' 
+[2024.12.13-21.19.05:358][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'clavicle_r' 
+[2024.12.13-21.19.05:358][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'clavicle_l' 
+[2024.12.13-21.19.05:358][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'upperarm_r' 
+[2024.12.13-21.19.05:358][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'thigh_r' 
+[2024.12.13-21.19.05:358][ 75]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'calf_r' 
+[2024.12.13-21.19.05:404][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.12.13-21.19.05:535][ 77]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	ABP_Bipedal_C /Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0.ABP_Bipedal_C_1
+	Function /Game/Animation/Animation_BPs/ABP_Bipedal.ABP_Bipedal_C:ExecuteUbergraph_ABP_Bipedal:21F0
+[2024.12.13-21.19.05:544][ 78]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	ABP_Bipedal_C /Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0.ABP_Bipedal_C_1
+	Function /Game/Animation/Animation_BPs/ABP_Bipedal.ABP_Bipedal_C:ExecuteUbergraph_ABP_Bipedal:21F0
+[2024.12.13-21.19.05:551][ 79]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	ABP_Bipedal_C /Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0.ABP_Bipedal_C_1
+	Function /Game/Animation/Animation_BPs/ABP_Bipedal.ABP_Bipedal_C:ExecuteUbergraph_ABP_Bipedal:21F0
+[2024.12.13-21.19.05:560][ 80]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	ABP_Bipedal_C /Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0.ABP_Bipedal_C_1
+	Function /Game/Animation/Animation_BPs/ABP_Bipedal.ABP_Bipedal_C:ExecuteUbergraph_ABP_Bipedal:21F0
+[2024.12.13-21.19.05:568][ 81]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	ABP_Bipedal_C /Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0.ABP_Bipedal_C_1
+	Function /Game/Animation/Animation_BPs/ABP_Bipedal.ABP_Bipedal_C:ExecuteUbergraph_ABP_Bipedal:21F0
+[2024.12.13-21.19.05:577][ 82]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	ABP_Bipedal_C /Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0.ABP_Bipedal_C_1
+	Function /Game/Animation/Animation_BPs/ABP_Bipedal.ABP_Bipedal_C:ExecuteUbergraph_ABP_Bipedal:21F0
+[2024.12.13-21.19.05:585][ 83]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	ABP_Bipedal_C /Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0.ABP_Bipedal_C_1
+	Function /Game/Animation/Animation_BPs/ABP_Bipedal.ABP_Bipedal_C:ExecuteUbergraph_ABP_Bipedal:21F0
+[2024.12.13-21.19.05:593][ 84]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	ABP_Bipedal_C /Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0.ABP_Bipedal_C_1
+	Function /Game/Animation/Animation_BPs/ABP_Bipedal.ABP_Bipedal_C:ExecuteUbergraph_ABP_Bipedal:21F0
+[2024.12.13-21.19.05:602][ 85]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	ABP_Bipedal_C /Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0.ABP_Bipedal_C_1
+	Function /Game/Animation/Animation_BPs/ABP_Bipedal.ABP_Bipedal_C:ExecuteUbergraph_ABP_Bipedal:21F0
+[2024.12.13-21.19.05:610][ 86]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	ABP_Bipedal_C /Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0.ABP_Bipedal_C_1
+	Function /Game/Animation/Animation_BPs/ABP_Bipedal.ABP_Bipedal_C:ExecuteUbergraph_ABP_Bipedal:21F0
+[2024.12.13-21.19.05:618][ 87]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	ABP_Bipedal_C /Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0.ABP_Bipedal_C_1
+	Function /Game/Animation/Animation_BPs/ABP_Bipedal.ABP_Bipedal_C:ExecuteUbergraph_ABP_Bipedal:21F0
+[2024.12.13-21.19.05:626][ 88]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	ABP_Bipedal_C /Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0.ABP_Bipedal_C_1
+	Function /Game/Animation/Animation_BPs/ABP_Bipedal.ABP_Bipedal_C:ExecuteUbergraph_ABP_Bipedal:21F0
+[2024.12.13-21.19.05:635][ 89]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	ABP_Bipedal_C /Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0.ABP_Bipedal_C_1
+	Function /Game/Animation/Animation_BPs/ABP_Bipedal.ABP_Bipedal_C:ExecuteUbergraph_ABP_Bipedal:21F0
+[2024.12.13-21.19.05:643][ 90]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	ABP_Bipedal_C /Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0.ABP_Bipedal_C_1
+	Function /Game/Animation/Animation_BPs/ABP_Bipedal.ABP_Bipedal_C:ExecuteUbergraph_ABP_Bipedal:21F0
+[2024.12.13-21.19.05:651][ 91]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	ABP_Bipedal_C /Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0.ABP_Bipedal_C_1
+	Function /Game/Animation/Animation_BPs/ABP_Bipedal.ABP_Bipedal_C:ExecuteUbergraph_ABP_Bipedal:21F0
+[2024.12.13-21.19.05:660][ 92]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	ABP_Bipedal_C /Engine/Transient.World_6:PersistentLevel.BP_Player_C_0.CharacterMesh0.ABP_Bipedal_C_1
+	Function /Game/Animation/Animation_BPs/ABP_Bipedal.ABP_Bipedal_C:ExecuteUbergraph_ABP_Bipedal:21F0
+[2024.12.13-21.19.06:036][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.12.13-21.19.06:039][134]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.13-21.19.06:106][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.12.13-21.19.06:110][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/5/CK/65CT9NNTX39CG3ICUINV7R
+[2024.12.13-21.19.06:111][134]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/65CT9NNTX39CG3ICUINV7R3BC38C0B4ABD9FE65C70E1A7E887B56F.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/5/CK/65CT9NNTX39CG3ICUINV7R.uasset'
+[2024.12.13-21.19.06:114][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/2/Q2/MU8K3OLV8JZ51RHZVWFXFZ
+[2024.12.13-21.19.06:115][134]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/MU8K3OLV8JZ51RHZVWFXFZF349DC954F6205D2FDAAF0B54E9B8FA9.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/2/Q2/MU8K3OLV8JZ51RHZVWFXFZ.uasset'
+[2024.12.13-21.19.06:116][134]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.13-21.19.06:229][134]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2024.12.13-21.19.06:229][134]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BP_Player8BE838464D3947D010808DA1ADBCCD3D.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Characters/Player/BP_Player.uasset'
+[2024.12.13-21.19.06:237][134]LogFileHelpers: InternalPromptForCheckoutAndSave took 198 ms (total: 1.05 sec)
+[2024.12.13-21.19.06:242][134]AssetCheck: New page: Asset Save: multiple assets
+[2024.12.13-21.19.06:242][134]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2024.12.13-21.19.06:243][134]LogContentValidation: Display: Validating /Game/Characters/Enemies/BP_Test_Dummy.BP_Test_Dummy_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Test_Dummy_C_UAID_107C61B295B0821C02_2094871944
+[2024.12.13-21.19.06:243][134]LogContentValidation: Display: Validating /Game/Characters/Player/BP_Player.BP_Player_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041
+[2024.12.13-21.19.06:899][212]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.12.13-21.19.06:907][212]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.12.13-21.21.57:050][514]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.12.13-21.21.57:050][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.13-21.21.57:442][542]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.12.13-21.21.57:442][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.13-21.21.57:502][542]LogViewport: Scene viewport resized to 1526x574, mode Windowed.
+[2024.12.13-21.21.57:517][543]LogViewport: Scene viewport resized to 1526x570, mode Windowed.
+[2024.12.13-21.21.57:557][544]LogViewport: Scene viewport resized to 1526x561, mode Windowed.
+[2024.12.13-21.21.57:597][545]LogViewport: Scene viewport resized to 1526x557, mode Windowed.
+[2024.12.13-21.22.12:823][359]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Enemies/BP_Test_Dummy.BP_Test_Dummy
+[2024.12.13-21.22.12:823][359]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.13-21.22.12:823][359]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.13-21.22.13:080][360]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.13-21.22.13:116][361]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.13-21.22.14:449][462]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.12.13-21.22.14:449][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.13-21.22.15:478][542]LogSlate: Window 'BP_Test_Dummy' being destroyed
+[2024.12.13-21.22.19:322][984]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2024.12.13-21.22.19:323][984]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.13-21.22.19:323][984]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.13-21.22.23:782][460]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.13-21.22.23:790][460]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.13-21.22.23:790][460]LogWorldPartition: Display: GenerateStreaming started...
+[2024.12.13-21.22.23:790][460]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.12.13-21.22.23:790][460]LogWorldPartition: Display: GetPartitionedActors took 4 us (total: 21 us)
+[2024.12.13-21.22.23:791][460]LogWorldPartition: Display: GenerateStreaming took 145 us (total: 480 us)
+[2024.12.13-21.22.23:791][460]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.13-21.22.23:791][460]PIE: New page: PIE session: ThirdPersonMap (13 Dec 2024, 21:22:23)
+[2024.12.13-21.22.23:818][460]LogPlayLevel: Creating play world package: /Game/Maps_And_Modes/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.13-21.22.23:835][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016308s)
+[2024.12.13-21.22.23:835][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps_And_Modes/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.016347s)
+[2024.12.13-21.22.23:835][460]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.13-21.22.23:835][460]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.13-21.22.23:835][460]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.12.13-21.22.23:835][460]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.13-21.22.23:836][460]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.13-21.22.23:836][460]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.12.13-21.22.23:838][460]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.12.13-21.22.23:838][460]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 6.34 sec)
+[2024.12.13-21.22.23:838][460]LogPlayLevel: PIE: World Init took: (0.003663s)
+[2024.12.13-21.22.23:864][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.12.13-21.22.23:866][460]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.12.13-21.22.23:866][460]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.13-21.22.23:866][460]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.13-21.22.23:866][460]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.13-21.22.23:866][460]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.13-21.22.23:866][460]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.13-21.22.23:866][460]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.12.13-21.22.23:866][460]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.13-21.22.23:866][460]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.13-21.22.23:866][460]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.13-21.22.23:866][460]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.13-21.22.23:866][460]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.13-21.22.23:868][460]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.13-21.22.23:886][460]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2024.12.13-21.22.23:887][460]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.13-21.22.23:887][460]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.13-21.22.23:887][460]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.13-21.22.23:887][460]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.12.13-21.22.23:887][460]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=4
+[2024.12.13-21.22.23:888][460]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.12.13-21.22.23:888][460]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.12.13-21.22.23:888][460]LogInit: FAudioDevice initialized with ID 4.
+[2024.12.13-21.22.23:888][460]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonMap'.
+[2024.12.13-21.22.23:888][460]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.12.13-21.22.23:890][460]LogLoad: Game class is 'BP_Player_GameMode_C'
+[2024.12.13-21.22.23:897][460]LogWorld: Bringing World /Game/Maps_And_Modes/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.12.13-21.22.23
+[2024.12.13-21.22.23:900][460]LogWorld: Bringing up level for play took: 0.009109
+[2024.12.13-21.22.23:901][460]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.12.13-21.22.23:908][460]PIE: Server logged in
+[2024.12.13-21.22.23:908][460]PIE: Play in editor total start time 0.118 seconds.
+[2024.12.13-21.22.23:924][460]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.22.23:924][460]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.22.23:925][460]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.22.23:925][460]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.22.23:925][460]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.22.23:925][460]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.22.23:925][460]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.22.23:926][460]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.22.23:926][460]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.22.23:926][460]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.22.23:926][460]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.22.23:926][460]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.22.23:927][460]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.22.23:927][460]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.22.23:927][460]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.22.23:927][460]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.22.23:937][461]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.22.23:937][461]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.22.23:937][461]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.22.23:938][461]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.22.23:938][461]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.22.23:938][461]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.22.23:938][461]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.22.23:938][461]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.22.23:939][461]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.22.23:939][461]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.22.23:939][461]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.22.23:939][461]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.22.23:939][461]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.22.23:940][461]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.22.23:940][461]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.22.23:940][461]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.22.24:747][553]AnimBlueprintLog: Error: Current state is a conduit and will reset to ref pose. This can happen if a conduit is an entry state and there isn't at least one valid transition to take. State Machine(Melee_SM), Conduit(Attacking), AnimBlueprint(/Game/Animation/Animation_BPs/ABP_Bipedal.ABP_Bipedal).
+[2024.12.13-21.22.27:599][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.13-21.22.27:599][890]LogWorld: BeginTearingDown for /Game/Maps_And_Modes/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.13-21.22.27:599][890]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.13-21.22.27:599][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.13-21.22.27:600][890]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.12.13-21.22.27:603][890]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.13-21.22.27:606][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.13-21.22.27:630][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.13-21.22.27:630][890]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.12.13-21.22.27:630][890]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.12.13-21.22.27:632][890]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.12.13-21.22.27:640][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.12.13-21.22.27:660][890]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.22.27:666][891]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.12.13-21.22.27:674][891]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.22.31:903][123]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Player/BPC_Camera_FOV_Manager.BPC_Camera_FOV_Manager
+[2024.12.13-21.22.31:903][123]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.13-21.22.31:903][123]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.13-21.22.34:229][388]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Player/BPC_Camera_Tilt.BPC_Camera_Tilt
+[2024.12.13-21.22.34:230][388]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.13-21.22.34:230][388]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.13-21.22.36:131][601]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Player/BPC_HUD.BPC_HUD
+[2024.12.13-21.22.36:131][601]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.13-21.22.36:131][601]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.13-21.23.23:605][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.12.13-21.23.23:606][261]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps_And_Modes/Maps/ThirdPersonMap' took 0.028
+[2024.12.13-21.23.51:086][718]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Weapons/Actor_Components/BPC_Starting_Weapons.BPC_Starting_Weapons
+[2024.12.13-21.23.51:086][718]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.13-21.23.51:086][718]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.13-21.24.52:759][ 31]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.12.13-21.24.52:759][ 31]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.12.13-21.25.36:125][181]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.12.13-21.30.24:031][204]BlueprintLog: New page: Compile BPC_Starting_Weapons
+[2024.12.13-21.30.24:142][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.12.13-21.30.24:164][204]LogScript: Warning: Attempted to access TRASH_BPC_Melee_Attack_C_108 via property BPC_Melee_Attack, but TRASH_BPC_Melee_Attack_C_108 is not valid (pending kill or garbage)
+	BP_Player_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041
+	Function /Game/Characters/Player/BP_Player.BP_Player_C:Get_Current_Combo_Index:001F
+[2024.12.13-21.30.24:164][204]LogScript: Warning: Attempted to access TRASH_BPC_Slide_C_96 via property BPC_Slide, but TRASH_BPC_Slide_C_96 is not valid (pending kill or garbage)
+	BP_Player_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041
+	Function /Game/Characters/Player/BP_Player.BP_Player_C:Get_Sliding:0017
+[2024.12.13-21.30.24:176][204]LogScript: Warning: Attempted to access TRASH_BPC_Melee_Attack_C_52 via property BPC_Melee_Attack, but TRASH_BPC_Melee_Attack_C_52 is not valid (pending kill or garbage)
+	BP_Player_C /Engine/Transient.World_11:PersistentLevel.BP_Player_C_0
+	Function /Game/Characters/Player/BP_Player.BP_Player_C:Get_Current_Combo_Index:001F
+[2024.12.13-21.30.24:176][204]LogScript: Warning: Attempted to access TRASH_BPC_Slide_C_40 via property BPC_Slide, but TRASH_BPC_Slide_C_40 is not valid (pending kill or garbage)
+	BP_Player_C /Engine/Transient.World_11:PersistentLevel.BP_Player_C_0
+	Function /Game/Characters/Player/BP_Player.BP_Player_C:Get_Sliding:0017
+[2024.12.13-21.30.24:207][204]LogScript: Warning: Attempted to access TRASH_BPC_Melee_Attack_C_136 via property BPC_Melee_Attack, but TRASH_BPC_Melee_Attack_C_136 is not valid (pending kill or garbage)
+	BP_Player_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041
+	Function /Game/Characters/Player/BP_Player.BP_Player_C:Get_Current_Combo_Index:001F
+[2024.12.13-21.30.24:207][204]LogScript: Warning: Attempted to access TRASH_BPC_Slide_C_124 via property BPC_Slide, but TRASH_BPC_Slide_C_124 is not valid (pending kill or garbage)
+	BP_Player_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041
+	Function /Game/Characters/Player/BP_Player.BP_Player_C:Get_Sliding:0017
+[2024.12.13-21.30.24:215][204]LogScript: Warning: Attempted to access TRASH_BPC_Melee_Attack_C_80 via property BPC_Melee_Attack, but TRASH_BPC_Melee_Attack_C_80 is not valid (pending kill or garbage)
+	BP_Player_C /Engine/Transient.World_11:PersistentLevel.BP_Player_C_0
+	Function /Game/Characters/Player/BP_Player.BP_Player_C:Get_Current_Combo_Index:001F
+[2024.12.13-21.30.24:215][204]LogScript: Warning: Attempted to access TRASH_BPC_Slide_C_68 via property BPC_Slide, but TRASH_BPC_Slide_C_68 is not valid (pending kill or garbage)
+	BP_Player_C /Engine/Transient.World_11:PersistentLevel.BP_Player_C_0
+	Function /Game/Characters/Player/BP_Player.BP_Player_C:Get_Sliding:0017
+[2024.12.13-21.30.25:154][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.12.13-21.30.25:158][294]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.13-21.30.25:226][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.12.13-21.30.25:230][294]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/5/CK/65CT9NNTX39CG3ICUINV7R
+[2024.12.13-21.30.25:231][294]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/65CT9NNTX39CG3ICUINV7RA22A12F84DC0CCD8BDF477A8E7B56424.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/5/CK/65CT9NNTX39CG3ICUINV7R.uasset'
+[2024.12.13-21.30.25:234][294]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/2/Q2/MU8K3OLV8JZ51RHZVWFXFZ
+[2024.12.13-21.30.25:234][294]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/MU8K3OLV8JZ51RHZVWFXFZ4B6B972A4BE7DDE0DD4E168788AB704C.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/2/Q2/MU8K3OLV8JZ51RHZVWFXFZ.uasset'
+[2024.12.13-21.30.25:269][294]LogSavePackage: Moving output files for package: /Game/Weapons/Actor_Components/BPC_Starting_Weapons
+[2024.12.13-21.30.25:270][294]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BPC_Starting_WeaponsD11F8AC94402AF0A9C17A69EF6D88258.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Weapons/Actor_Components/BPC_Starting_Weapons.uasset'
+[2024.12.13-21.30.25:276][294]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 1.17 sec)
+[2024.12.13-21.30.25:282][294]AssetCheck: New page: Asset Save: multiple assets
+[2024.12.13-21.30.25:282][294]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Weapons/Actor_Components/BPC_Starting_Weapons.BPC_Starting_Weapons
+[2024.12.13-21.30.25:282][294]LogContentValidation: Display: Validating /Game/Characters/Enemies/BP_Test_Dummy.BP_Test_Dummy_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Test_Dummy_C_UAID_107C61B295B0821C02_2094871944
+[2024.12.13-21.30.25:282][294]LogContentValidation: Display: Validating /Game/Characters/Player/BP_Player.BP_Player_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041
+[2024.12.13-21.30.50:245][271]LogEditorTransaction: Undo Straighten Connection(s)
+[2024.12.13-21.30.52:683][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.12.13-21.30.52:691][523]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.13-21.30.52:759][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.12.13-21.30.52:793][523]LogSavePackage: Moving output files for package: /Game/Weapons/Actor_Components/BPC_Starting_Weapons
+[2024.12.13-21.30.52:793][523]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BPC_Starting_Weapons04A3DAEC4578EF4DD7ECC5A95BEBA670.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Weapons/Actor_Components/BPC_Starting_Weapons.uasset'
+[2024.12.13-21.30.52:803][523]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 1.28 sec)
+[2024.12.13-21.30.52:808][523]AssetCheck: New page: Asset Save: BPC_Starting_Weapons
+[2024.12.13-21.30.52:809][523]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Weapons/Actor_Components/BPC_Starting_Weapons.BPC_Starting_Weapons
+[2024.12.13-21.30.53:323][585]BlueprintLog: New page: Compile BPC_Starting_Weapons
+[2024.12.13-21.30.53:411][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.12.13-21.30.53:417][585]LogScript: Warning: Attempted to access TRASH_BPC_Melee_Attack_C_192 via property BPC_Melee_Attack, but TRASH_BPC_Melee_Attack_C_192 is not valid (pending kill or garbage)
+	BP_Player_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041
+	Function /Game/Characters/Player/BP_Player.BP_Player_C:Get_Current_Combo_Index:001F
+[2024.12.13-21.30.53:417][585]LogScript: Warning: Attempted to access TRASH_BPC_Slide_C_180 via property BPC_Slide, but TRASH_BPC_Slide_C_180 is not valid (pending kill or garbage)
+	BP_Player_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041
+	Function /Game/Characters/Player/BP_Player.BP_Player_C:Get_Sliding:0017
+[2024.12.13-21.30.53:425][585]LogScript: Warning: Attempted to access TRASH_BPC_Melee_Attack_C_136 via property BPC_Melee_Attack, but TRASH_BPC_Melee_Attack_C_136 is not valid (pending kill or garbage)
+	BP_Player_C /Engine/Transient.World_11:PersistentLevel.BP_Player_C_0
+	Function /Game/Characters/Player/BP_Player.BP_Player_C:Get_Current_Combo_Index:001F
+[2024.12.13-21.30.53:425][585]LogScript: Warning: Attempted to access TRASH_BPC_Slide_C_124 via property BPC_Slide, but TRASH_BPC_Slide_C_124 is not valid (pending kill or garbage)
+	BP_Player_C /Engine/Transient.World_11:PersistentLevel.BP_Player_C_0
+	Function /Game/Characters/Player/BP_Player.BP_Player_C:Get_Sliding:0017
+[2024.12.13-21.30.53:448][585]LogScript: Warning: Attempted to access TRASH_BPC_Melee_Attack_C_220 via property BPC_Melee_Attack, but TRASH_BPC_Melee_Attack_C_220 is not valid (pending kill or garbage)
+	BP_Player_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041
+	Function /Game/Characters/Player/BP_Player.BP_Player_C:Get_Current_Combo_Index:001F
+[2024.12.13-21.30.53:448][585]LogScript: Warning: Attempted to access TRASH_BPC_Slide_C_208 via property BPC_Slide, but TRASH_BPC_Slide_C_208 is not valid (pending kill or garbage)
+	BP_Player_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041
+	Function /Game/Characters/Player/BP_Player.BP_Player_C:Get_Sliding:0017
+[2024.12.13-21.30.53:456][585]LogScript: Warning: Attempted to access TRASH_BPC_Melee_Attack_C_164 via property BPC_Melee_Attack, but TRASH_BPC_Melee_Attack_C_164 is not valid (pending kill or garbage)
+	BP_Player_C /Engine/Transient.World_11:PersistentLevel.BP_Player_C_0
+	Function /Game/Characters/Player/BP_Player.BP_Player_C:Get_Current_Combo_Index:001F
+[2024.12.13-21.30.53:456][585]LogScript: Warning: Attempted to access TRASH_BPC_Slide_C_152 via property BPC_Slide, but TRASH_BPC_Slide_C_152 is not valid (pending kill or garbage)
+	BP_Player_C /Engine/Transient.World_11:PersistentLevel.BP_Player_C_0
+	Function /Game/Characters/Player/BP_Player.BP_Player_C:Get_Sliding:0017
+[2024.12.13-21.31.16:076][287]BlueprintLog: New page: Compile BPC_Starting_Weapons
+[2024.12.13-21.31.16:166][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.12.13-21.31.16:175][287]LogScript: Warning: Attempted to access TRASH_BPC_Melee_Attack_C_276 via property BPC_Melee_Attack, but TRASH_BPC_Melee_Attack_C_276 is not valid (pending kill or garbage)
+	BP_Player_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041
+	Function /Game/Characters/Player/BP_Player.BP_Player_C:Get_Current_Combo_Index:001F
+[2024.12.13-21.31.16:175][287]LogScript: Warning: Attempted to access TRASH_BPC_Slide_C_264 via property BPC_Slide, but TRASH_BPC_Slide_C_264 is not valid (pending kill or garbage)
+	BP_Player_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041
+	Function /Game/Characters/Player/BP_Player.BP_Player_C:Get_Sliding:0017
+[2024.12.13-21.31.16:183][287]LogScript: Warning: Attempted to access TRASH_BPC_Melee_Attack_C_220 via property BPC_Melee_Attack, but TRASH_BPC_Melee_Attack_C_220 is not valid (pending kill or garbage)
+	BP_Player_C /Engine/Transient.World_11:PersistentLevel.BP_Player_C_0
+	Function /Game/Characters/Player/BP_Player.BP_Player_C:Get_Current_Combo_Index:001F
+[2024.12.13-21.31.16:183][287]LogScript: Warning: Attempted to access TRASH_BPC_Slide_C_208 via property BPC_Slide, but TRASH_BPC_Slide_C_208 is not valid (pending kill or garbage)
+	BP_Player_C /Engine/Transient.World_11:PersistentLevel.BP_Player_C_0
+	Function /Game/Characters/Player/BP_Player.BP_Player_C:Get_Sliding:0017
+[2024.12.13-21.31.16:204][287]LogScript: Warning: Attempted to access TRASH_BPC_Melee_Attack_C_304 via property BPC_Melee_Attack, but TRASH_BPC_Melee_Attack_C_304 is not valid (pending kill or garbage)
+	BP_Player_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041
+	Function /Game/Characters/Player/BP_Player.BP_Player_C:Get_Current_Combo_Index:001F
+[2024.12.13-21.31.16:204][287]LogScript: Warning: Attempted to access TRASH_BPC_Slide_C_292 via property BPC_Slide, but TRASH_BPC_Slide_C_292 is not valid (pending kill or garbage)
+	BP_Player_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041
+	Function /Game/Characters/Player/BP_Player.BP_Player_C:Get_Sliding:0017
+[2024.12.13-21.31.16:211][287]LogScript: Warning: Attempted to access TRASH_BPC_Melee_Attack_C_248 via property BPC_Melee_Attack, but TRASH_BPC_Melee_Attack_C_248 is not valid (pending kill or garbage)
+	BP_Player_C /Engine/Transient.World_11:PersistentLevel.BP_Player_C_0
+	Function /Game/Characters/Player/BP_Player.BP_Player_C:Get_Current_Combo_Index:001F
+[2024.12.13-21.31.16:211][287]LogScript: Warning: Attempted to access TRASH_BPC_Slide_C_236 via property BPC_Slide, but TRASH_BPC_Slide_C_236 is not valid (pending kill or garbage)
+	BP_Player_C /Engine/Transient.World_11:PersistentLevel.BP_Player_C_0
+	Function /Game/Characters/Player/BP_Player.BP_Player_C:Get_Sliding:0017
+[2024.12.13-21.31.31:397][ 95]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Weapons/Interfaces/BPI_Can_Have_Weapon.BPI_Can_Have_Weapon
+[2024.12.13-21.31.31:398][ 95]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.13-21.31.31:398][ 95]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.13-21.31.35:309][557]BlueprintLog: New page: Compile BPC_Starting_Weapons
+[2024.12.13-21.31.35:402][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.12.13-21.31.35:416][557]LogScript: Warning: Attempted to access TRASH_BPC_Melee_Attack_C_360 via property BPC_Melee_Attack, but TRASH_BPC_Melee_Attack_C_360 is not valid (pending kill or garbage)
+	BP_Player_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041
+	Function /Game/Characters/Player/BP_Player.BP_Player_C:Get_Current_Combo_Index:001F
+[2024.12.13-21.31.35:416][557]LogScript: Warning: Attempted to access TRASH_BPC_Slide_C_348 via property BPC_Slide, but TRASH_BPC_Slide_C_348 is not valid (pending kill or garbage)
+	BP_Player_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041
+	Function /Game/Characters/Player/BP_Player.BP_Player_C:Get_Sliding:0017
+[2024.12.13-21.31.35:425][557]LogScript: Warning: Attempted to access TRASH_BPC_Melee_Attack_C_304 via property BPC_Melee_Attack, but TRASH_BPC_Melee_Attack_C_304 is not valid (pending kill or garbage)
+	BP_Player_C /Engine/Transient.World_11:PersistentLevel.BP_Player_C_0
+	Function /Game/Characters/Player/BP_Player.BP_Player_C:Get_Current_Combo_Index:001F
+[2024.12.13-21.31.35:425][557]LogScript: Warning: Attempted to access TRASH_BPC_Slide_C_292 via property BPC_Slide, but TRASH_BPC_Slide_C_292 is not valid (pending kill or garbage)
+	BP_Player_C /Engine/Transient.World_11:PersistentLevel.BP_Player_C_0
+	Function /Game/Characters/Player/BP_Player.BP_Player_C:Get_Sliding:0017
+[2024.12.13-21.31.35:446][557]LogScript: Warning: Attempted to access TRASH_BPC_Melee_Attack_C_388 via property BPC_Melee_Attack, but TRASH_BPC_Melee_Attack_C_388 is not valid (pending kill or garbage)
+	BP_Player_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041
+	Function /Game/Characters/Player/BP_Player.BP_Player_C:Get_Current_Combo_Index:001F
+[2024.12.13-21.31.35:446][557]LogScript: Warning: Attempted to access TRASH_BPC_Slide_C_376 via property BPC_Slide, but TRASH_BPC_Slide_C_376 is not valid (pending kill or garbage)
+	BP_Player_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041
+	Function /Game/Characters/Player/BP_Player.BP_Player_C:Get_Sliding:0017
+[2024.12.13-21.31.35:454][557]LogScript: Warning: Attempted to access TRASH_BPC_Melee_Attack_C_332 via property BPC_Melee_Attack, but TRASH_BPC_Melee_Attack_C_332 is not valid (pending kill or garbage)
+	BP_Player_C /Engine/Transient.World_11:PersistentLevel.BP_Player_C_0
+	Function /Game/Characters/Player/BP_Player.BP_Player_C:Get_Current_Combo_Index:001F
+[2024.12.13-21.31.35:454][557]LogScript: Warning: Attempted to access TRASH_BPC_Slide_C_320 via property BPC_Slide, but TRASH_BPC_Slide_C_320 is not valid (pending kill or garbage)
+	BP_Player_C /Engine/Transient.World_11:PersistentLevel.BP_Player_C_0
+	Function /Game/Characters/Player/BP_Player.BP_Player_C:Get_Sliding:0017
+[2024.12.13-21.33.03:462][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.12.13-21.33.03:466][853]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.13-21.33.03:539][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.12.13-21.33.03:544][853]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/5/CK/65CT9NNTX39CG3ICUINV7R
+[2024.12.13-21.33.03:544][853]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/65CT9NNTX39CG3ICUINV7R2B2E605D46FFE965EDB83188A71289D5.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/5/CK/65CT9NNTX39CG3ICUINV7R.uasset'
+[2024.12.13-21.33.03:547][853]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/2/Q2/MU8K3OLV8JZ51RHZVWFXFZ
+[2024.12.13-21.33.03:548][853]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/MU8K3OLV8JZ51RHZVWFXFZECADC80A41562CDE74A95CB3892632F7.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/2/Q2/MU8K3OLV8JZ51RHZVWFXFZ.uasset'
+[2024.12.13-21.33.03:619][853]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2024.12.13-21.33.03:619][853]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BP_PlayerC9F6493A4B8EFAE5325523BBCCA8A1CE.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Characters/Player/BP_Player.uasset'
+[2024.12.13-21.33.03:653][853]LogSavePackage: Moving output files for package: /Game/Weapons/Actor_Components/BPC_Starting_Weapons
+[2024.12.13-21.33.03:653][853]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BPC_Starting_Weapons200C0972484E946970C2D98B02076A97.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Weapons/Actor_Components/BPC_Starting_Weapons.uasset'
+[2024.12.13-21.33.03:662][853]LogFileHelpers: InternalPromptForCheckoutAndSave took 195 ms (total: 1.47 sec)
+[2024.12.13-21.33.03:666][853]AssetCheck: New page: Asset Save: multiple assets
+[2024.12.13-21.33.03:666][853]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Weapons/Actor_Components/BPC_Starting_Weapons.BPC_Starting_Weapons
+[2024.12.13-21.33.03:666][853]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2024.12.13-21.33.03:666][853]LogContentValidation: Display: Validating /Game/Characters/Enemies/BP_Test_Dummy.BP_Test_Dummy_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Test_Dummy_C_UAID_107C61B295B0821C02_2094871944
+[2024.12.13-21.33.03:666][853]LogContentValidation: Display: Validating /Game/Characters/Player/BP_Player.BP_Player_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041
+[2024.12.13-21.33.06:941][241]BlueprintLog: New page: Compile BP_Player
+[2024.12.13-21.33.06:982][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'pelvis' 
+[2024.12.13-21.33.06:982][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'spine_03' 
+[2024.12.13-21.33.06:982][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'spine_04' 
+[2024.12.13-21.33.06:982][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'spine_05' 
+[2024.12.13-21.33.06:982][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'upperarm_l' 
+[2024.12.13-21.33.06:982][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'lowerarm_l' 
+[2024.12.13-21.33.06:982][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'hand_l' 
+[2024.12.13-21.33.06:982][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'lowerarm_r' 
+[2024.12.13-21.33.06:982][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'hand_r' 
+[2024.12.13-21.33.06:982][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'foot_r' 
+[2024.12.13-21.33.06:982][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'thigh_l' 
+[2024.12.13-21.33.06:982][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'calf_l' 
+[2024.12.13-21.33.06:982][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'foot_l' 
+[2024.12.13-21.33.06:982][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'spine_02' 
+[2024.12.13-21.33.06:982][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'neck_01' 
+[2024.12.13-21.33.06:982][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'neck_02' 
+[2024.12.13-21.33.06:982][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'head' 
+[2024.12.13-21.33.06:982][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'clavicle_r' 
+[2024.12.13-21.33.06:982][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'clavicle_l' 
+[2024.12.13-21.33.06:982][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'upperarm_r' 
+[2024.12.13-21.33.06:982][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'thigh_r' 
+[2024.12.13-21.33.06:982][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'calf_r' 
+[2024.12.13-21.33.06:985][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'pelvis' 
+[2024.12.13-21.33.06:985][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'spine_03' 
+[2024.12.13-21.33.06:985][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'spine_04' 
+[2024.12.13-21.33.06:985][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'spine_05' 
+[2024.12.13-21.33.06:986][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'upperarm_l' 
+[2024.12.13-21.33.06:986][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'lowerarm_l' 
+[2024.12.13-21.33.06:986][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'hand_l' 
+[2024.12.13-21.33.06:986][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'lowerarm_r' 
+[2024.12.13-21.33.06:986][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'hand_r' 
+[2024.12.13-21.33.06:986][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'foot_r' 
+[2024.12.13-21.33.06:986][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'thigh_l' 
+[2024.12.13-21.33.06:986][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'calf_l' 
+[2024.12.13-21.33.06:986][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'foot_l' 
+[2024.12.13-21.33.06:986][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'spine_02' 
+[2024.12.13-21.33.06:986][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'neck_01' 
+[2024.12.13-21.33.06:986][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'neck_02' 
+[2024.12.13-21.33.06:986][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'head' 
+[2024.12.13-21.33.06:986][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'clavicle_r' 
+[2024.12.13-21.33.06:986][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'clavicle_l' 
+[2024.12.13-21.33.06:986][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'upperarm_r' 
+[2024.12.13-21.33.06:986][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'thigh_r' 
+[2024.12.13-21.33.06:986][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041.CharacterMesh0' Bone: 'calf_r' 
+[2024.12.13-21.33.06:990][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'pelvis' 
+[2024.12.13-21.33.06:990][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'spine_03' 
+[2024.12.13-21.33.06:990][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'spine_04' 
+[2024.12.13-21.33.06:990][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'spine_05' 
+[2024.12.13-21.33.06:990][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'upperarm_l' 
+[2024.12.13-21.33.06:990][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'lowerarm_l' 
+[2024.12.13-21.33.06:990][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'hand_l' 
+[2024.12.13-21.33.06:990][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'lowerarm_r' 
+[2024.12.13-21.33.06:990][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'hand_r' 
+[2024.12.13-21.33.06:990][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'foot_r' 
+[2024.12.13-21.33.06:990][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'thigh_l' 
+[2024.12.13-21.33.06:990][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'calf_l' 
+[2024.12.13-21.33.06:990][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'foot_l' 
+[2024.12.13-21.33.06:990][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'spine_02' 
+[2024.12.13-21.33.06:990][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'neck_01' 
+[2024.12.13-21.33.06:990][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'neck_02' 
+[2024.12.13-21.33.06:990][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'head' 
+[2024.12.13-21.33.06:990][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'clavicle_r' 
+[2024.12.13-21.33.06:990][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'clavicle_l' 
+[2024.12.13-21.33.06:990][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'upperarm_r' 
+[2024.12.13-21.33.06:990][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'thigh_r' 
+[2024.12.13-21.33.06:990][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'calf_r' 
+[2024.12.13-21.33.06:992][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'pelvis' 
+[2024.12.13-21.33.06:992][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'spine_03' 
+[2024.12.13-21.33.06:992][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'spine_04' 
+[2024.12.13-21.33.06:992][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'spine_05' 
+[2024.12.13-21.33.06:992][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'upperarm_l' 
+[2024.12.13-21.33.06:992][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'lowerarm_l' 
+[2024.12.13-21.33.06:992][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'hand_l' 
+[2024.12.13-21.33.06:992][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'lowerarm_r' 
+[2024.12.13-21.33.06:992][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'hand_r' 
+[2024.12.13-21.33.06:992][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'foot_r' 
+[2024.12.13-21.33.06:992][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'thigh_l' 
+[2024.12.13-21.33.06:992][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'calf_l' 
+[2024.12.13-21.33.06:992][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'foot_l' 
+[2024.12.13-21.33.06:992][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'spine_02' 
+[2024.12.13-21.33.06:992][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'neck_01' 
+[2024.12.13-21.33.06:992][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'neck_02' 
+[2024.12.13-21.33.06:993][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'head' 
+[2024.12.13-21.33.06:993][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'clavicle_r' 
+[2024.12.13-21.33.06:993][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'clavicle_l' 
+[2024.12.13-21.33.06:993][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'upperarm_r' 
+[2024.12.13-21.33.06:993][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'thigh_r' 
+[2024.12.13-21.33.06:993][241]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_11:PersistentLevel.BP_Player_C_0.CharacterMesh0' Bone: 'calf_r' 
+[2024.12.13-21.33.07:042][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.12.13-21.33.50:404][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.12.13-21.33.50:408][412]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.13-21.33.50:471][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.12.13-21.33.50:475][412]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/5/CK/65CT9NNTX39CG3ICUINV7R
+[2024.12.13-21.33.50:476][412]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/65CT9NNTX39CG3ICUINV7RA5B2585F42CA41B5B0E134B3848E090F.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/5/CK/65CT9NNTX39CG3ICUINV7R.uasset'
+[2024.12.13-21.33.50:510][412]LogSavePackage: Moving output files for package: /Game/Weapons/Actor_Components/BPC_Starting_Weapons
+[2024.12.13-21.33.50:510][412]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BPC_Starting_WeaponsAF5857C34DB75CD49968C7AB4CDB50BC.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Weapons/Actor_Components/BPC_Starting_Weapons.uasset'
+[2024.12.13-21.33.50:517][412]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 1.58 sec)
+[2024.12.13-21.33.50:522][412]AssetCheck: New page: Asset Save: multiple assets
+[2024.12.13-21.33.50:522][412]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Weapons/Actor_Components/BPC_Starting_Weapons.BPC_Starting_Weapons
+[2024.12.13-21.33.50:522][412]LogContentValidation: Display: Validating /Game/Characters/Player/BP_Player.BP_Player_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041
+[2024.12.13-21.33.51:202][494]BlueprintLog: New page: Compile BPC_Starting_Weapons
+[2024.12.13-21.33.51:321][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.12.13-21.35.02:299][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.12.13-21.35.02:303][878]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.13-21.35.02:369][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.12.13-21.35.02:374][878]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/5/CK/65CT9NNTX39CG3ICUINV7R
+[2024.12.13-21.35.02:374][878]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/65CT9NNTX39CG3ICUINV7R765A7E8045D057D9D7F08AA137B1ECE5.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/5/CK/65CT9NNTX39CG3ICUINV7R.uasset'
+[2024.12.13-21.35.02:377][878]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/2/Q2/MU8K3OLV8JZ51RHZVWFXFZ
+[2024.12.13-21.35.02:378][878]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/MU8K3OLV8JZ51RHZVWFXFZDDF06F1D47C7B03799370CA7009034C5.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/2/Q2/MU8K3OLV8JZ51RHZVWFXFZ.uasset'
+[2024.12.13-21.35.02:393][878]LogSavePackage: Moving output files for package: /Game/Characters/Player/BPC_HUD
+[2024.12.13-21.35.02:394][878]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BPC_HUD3C58856B4A0D5AF1E1D7FEA336FB6D62.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Characters/Player/BPC_HUD.uasset'
+[2024.12.13-21.35.02:401][878]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 1.68 sec)
+[2024.12.13-21.35.02:408][878]AssetCheck: New page: Asset Save: multiple assets
+[2024.12.13-21.35.02:408][878]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/Player/BPC_HUD.BPC_HUD
+[2024.12.13-21.35.02:408][878]LogContentValidation: Display: Validating /Game/Characters/Enemies/BP_Test_Dummy.BP_Test_Dummy_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Test_Dummy_C_UAID_107C61B295B0821C02_2094871944
+[2024.12.13-21.35.02:408][878]LogContentValidation: Display: Validating /Game/Characters/Player/BP_Player.BP_Player_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041
+[2024.12.13-21.35.04:252][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.35.06:741][380]BlueprintLog: New page: Compile BPC_HUD
+[2024.12.13-21.35.06:826][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.12.13-21.36.01:778][898]BlueprintLog: New page: Compile BPC_Camera_Tilt
+[2024.12.13-21.36.01:856][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.12.13-21.39.38:011][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.12.13-21.39.38:018][266]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/5/CK/65CT9NNTX39CG3ICUINV7R_Auto1
+[2024.12.13-21.39.38:018][266]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/65CT9NNTX39CG3ICUINV7R_Auto132F08FAE49814E4C7AE0A7B0711049AE.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Autosaves/Game/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/5/CK/65CT9NNTX39CG3ICUINV7R_Auto1.uasset'
+[2024.12.13-21.39.38:019][266]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps_And_Modes/Maps/ThirdPersonMap' took 0.038
+[2024.12.13-21.39.38:019][266]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.038
+[2024.12.13-21.40.46:223][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.12.13-21.40.46:227][193]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.13-21.40.46:286][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.12.13-21.40.46:291][193]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/5/CK/65CT9NNTX39CG3ICUINV7R
+[2024.12.13-21.40.46:291][193]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/65CT9NNTX39CG3ICUINV7RD9ABF3134553591278513798D31FCC28.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/5/CK/65CT9NNTX39CG3ICUINV7R.uasset'
+[2024.12.13-21.40.46:306][193]LogSavePackage: Moving output files for package: /Game/Characters/Player/BPC_Camera_Tilt
+[2024.12.13-21.40.46:306][193]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BPC_Camera_TiltFB83367D48A784ACB3F6D3BE7253EDD9.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Characters/Player/BPC_Camera_Tilt.uasset'
+[2024.12.13-21.40.46:313][193]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 1.77 sec)
+[2024.12.13-21.40.46:318][193]AssetCheck: New page: Asset Save: multiple assets
+[2024.12.13-21.40.46:318][193]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/Player/BPC_Camera_Tilt.BPC_Camera_Tilt
+[2024.12.13-21.40.46:319][193]LogContentValidation: Display: Validating /Game/Characters/Player/BP_Player.BP_Player_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041
+[2024.12.13-21.40.48:070][403]BlueprintLog: New page: Compile BPC_Camera_Tilt
+[2024.12.13-21.40.48:148][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.12.13-21.40.49:083][503]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.13-21.40.49:091][503]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.13-21.40.49:092][503]LogWorldPartition: Display: GenerateStreaming started...
+[2024.12.13-21.40.49:092][503]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.12.13-21.40.49:092][503]LogWorldPartition: Display: GetPartitionedActors took 5 us (total: 27 us)
+[2024.12.13-21.40.49:093][503]LogWorldPartition: Display: GenerateStreaming took 149 us (total: 629 us)
+[2024.12.13-21.40.49:093][503]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.13-21.40.49:093][503]PIE: New page: PIE session: ThirdPersonMap (13 Dec 2024, 21:40:49)
+[2024.12.13-21.40.49:119][503]LogPlayLevel: Creating play world package: /Game/Maps_And_Modes/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.13-21.40.49:134][503]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016535s)
+[2024.12.13-21.40.49:134][503]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps_And_Modes/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.016582s)
+[2024.12.13-21.40.49:135][503]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.13-21.40.49:135][503]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.13-21.40.49:135][503]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.12.13-21.40.49:136][503]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.13-21.40.49:136][503]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.13-21.40.49:136][503]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.12.13-21.40.49:139][503]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.12.13-21.40.49:139][503]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 6.34 sec)
+[2024.12.13-21.40.49:139][503]LogPlayLevel: PIE: World Init took: (0.003839s)
+[2024.12.13-21.40.49:162][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.12.13-21.40.49:167][503]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.12.13-21.40.49:167][503]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.13-21.40.49:167][503]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.13-21.40.49:167][503]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.13-21.40.49:167][503]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.13-21.40.49:167][503]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.13-21.40.49:167][503]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.12.13-21.40.49:167][503]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.13-21.40.49:167][503]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.13-21.40.49:168][503]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.13-21.40.49:168][503]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.13-21.40.49:168][503]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.13-21.40.49:170][503]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.13-21.40.49:189][503]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2024.12.13-21.40.49:189][503]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.13-21.40.49:189][503]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.13-21.40.49:189][503]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.13-21.40.49:190][503]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.12.13-21.40.49:190][503]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=5
+[2024.12.13-21.40.49:191][503]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.12.13-21.40.49:191][503]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.12.13-21.40.49:191][503]LogInit: FAudioDevice initialized with ID 5.
+[2024.12.13-21.40.49:191][503]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonMap'.
+[2024.12.13-21.40.49:191][503]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.12.13-21.40.49:194][503]LogLoad: Game class is 'BP_Player_GameMode_C'
+[2024.12.13-21.40.49:200][503]LogWorld: Bringing World /Game/Maps_And_Modes/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.12.13-21.40.49
+[2024.12.13-21.40.49:203][503]LogWorld: Bringing up level for play took: 0.009294
+[2024.12.13-21.40.49:204][503]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2024.12.13-21.40.49:211][503]PIE: Server logged in
+[2024.12.13-21.40.49:211][503]PIE: Play in editor total start time 0.12 seconds.
+[2024.12.13-21.40.49:227][503]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.40.49:227][503]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.40.49:228][503]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.40.49:228][503]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.40.49:228][503]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.40.49:228][503]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.40.49:229][503]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.40.49:229][503]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.40.49:229][503]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.40.49:229][503]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.40.49:230][503]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.40.49:230][503]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.40.49:230][503]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.40.49:230][503]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.40.49:230][503]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.40.49:231][503]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.40.49:243][504]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.40.49:244][504]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.40.49:244][504]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.40.49:244][504]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.40.49:244][504]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.40.49:244][504]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.40.49:244][504]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.40.49:244][504]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.40.49:245][504]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.40.49:245][504]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.40.49:245][504]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.40.49:246][504]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.40.49:246][504]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.40.49:246][504]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.40.49:246][504]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.40.49:246][504]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.40.50:721][676]AnimBlueprintLog: Error: Current state is a conduit and will reset to ref pose. This can happen if a conduit is an entry state and there isn't at least one valid transition to take. State Machine(Melee_SM), Conduit(Attacking), AnimBlueprint(/Game/Animation/Animation_BPs/ABP_Bipedal.ABP_Bipedal).
+[2024.12.13-21.41.03:145][ 88]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2024.12.13-21.41.13:858][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.13-21.41.13:858][119]LogWorld: BeginTearingDown for /Game/Maps_And_Modes/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.13-21.41.13:858][119]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.13-21.41.13:859][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.13-21.41.13:859][119]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.12.13-21.41.13:882][119]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.13-21.41.13:885][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.13-21.41.13:910][119]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.13-21.41.13:911][119]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.12.13-21.41.13:911][119]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.12.13-21.41.13:912][119]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.12.13-21.41.13:916][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.13-21.41.13:920][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.12.13-21.41.13:944][119]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.41.13:999][120]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.12.13-21.41.14:011][120]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.41.22:966][989]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.13-21.41.22:973][989]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.13-21.41.22:974][989]LogWorldPartition: Display: GenerateStreaming started...
+[2024.12.13-21.41.22:974][989]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.12.13-21.41.22:974][989]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 33 us)
+[2024.12.13-21.41.22:974][989]LogWorldPartition: Display: GenerateStreaming took 135 us (total: 765 us)
+[2024.12.13-21.41.22:974][989]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.12.13-21.41.22:978][989]LogPlayLevel: [PlayLevel] Compiling BPC_Camera_Tilt before play...
+[2024.12.13-21.41.23:075][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.12.13-21.41.23:077][989]LogPlayLevel: PlayLevel: Blueprint regeneration took 102 ms (1 blueprints)
+[2024.12.13-21.41.23:077][989]PIE: New page: PIE session: ThirdPersonMap (13 Dec 2024, 21:41:23)
+[2024.12.13-21.41.23:078][989]LogPlayLevel: Creating play world package: /Game/Maps_And_Modes/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.13-21.41.23:094][989]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016028s)
+[2024.12.13-21.41.23:094][989]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps_And_Modes/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.016063s)
+[2024.12.13-21.41.23:094][989]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.13-21.41.23:094][989]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.13-21.41.23:094][989]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.12.13-21.41.23:094][989]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.13-21.41.23:094][989]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.13-21.41.23:094][989]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.12.13-21.41.23:097][989]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.12.13-21.41.23:097][989]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 6.34 sec)
+[2024.12.13-21.41.23:097][989]LogPlayLevel: PIE: World Init took: (0.003637s)
+[2024.12.13-21.41.23:121][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.12.13-21.41.23:123][989]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.12.13-21.41.23:123][989]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.13-21.41.23:123][989]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.13-21.41.23:123][989]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.13-21.41.23:123][989]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.13-21.41.23:123][989]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.13-21.41.23:123][989]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.12.13-21.41.23:123][989]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.13-21.41.23:123][989]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.13-21.41.23:123][989]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.13-21.41.23:123][989]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.13-21.41.23:123][989]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.13-21.41.23:125][989]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.13-21.41.23:143][989]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2024.12.13-21.41.23:143][989]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.13-21.41.23:143][989]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.13-21.41.23:143][989]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.13-21.41.23:143][989]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.12.13-21.41.23:143][989]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=6
+[2024.12.13-21.41.23:145][989]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.12.13-21.41.23:145][989]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.12.13-21.41.23:145][989]LogInit: FAudioDevice initialized with ID 6.
+[2024.12.13-21.41.23:145][989]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonMap'.
+[2024.12.13-21.41.23:145][989]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.12.13-21.41.23:147][989]LogLoad: Game class is 'BP_Player_GameMode_C'
+[2024.12.13-21.41.23:154][989]LogWorld: Bringing World /Game/Maps_And_Modes/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.12.13-21.41.23
+[2024.12.13-21.41.23:157][989]LogWorld: Bringing up level for play took: 0.009434
+[2024.12.13-21.41.23:158][989]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.12.13-21.41.23:165][989]PIE: Server logged in
+[2024.12.13-21.41.23:165][989]PIE: Play in editor total start time 0.192 seconds.
+[2024.12.13-21.41.23:182][989]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.41.23:182][989]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.41.23:183][989]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.41.23:183][989]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.41.23:183][989]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.41.23:183][989]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.41.23:184][989]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.41.23:184][989]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.41.23:184][989]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.41.23:184][989]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.41.23:184][989]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.41.23:184][989]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.41.23:184][989]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.41.23:185][989]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.41.23:185][989]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.41.23:185][989]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.41.23:260][990]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.41.23:260][990]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.41.23:260][990]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.41.23:261][990]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.41.23:261][990]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.41.23:262][990]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.41.23:262][990]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.41.23:262][990]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.41.23:262][990]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.41.23:262][990]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.41.23:263][990]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.41.23:263][990]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.41.23:263][990]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.41.23:263][990]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.41.23:263][990]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.41.23:263][990]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.41.24:368][ 94]AnimBlueprintLog: Error: Current state is a conduit and will reset to ref pose. This can happen if a conduit is an entry state and there isn't at least one valid transition to take. State Machine(Melee_SM), Conduit(Attacking), AnimBlueprint(/Game/Animation/Animation_BPs/ABP_Bipedal.ABP_Bipedal).
+[2024.12.13-21.41.27:179][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.13-21.41.27:179][360]LogWorld: BeginTearingDown for /Game/Maps_And_Modes/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.13-21.41.27:180][360]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.13-21.41.27:180][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.13-21.41.27:180][360]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.12.13-21.41.27:203][360]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.13-21.41.27:206][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.13-21.41.27:233][360]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.13-21.41.27:234][360]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.12.13-21.41.27:234][360]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.12.13-21.41.27:235][360]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.12.13-21.41.27:240][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.13-21.41.27:244][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.12.13-21.41.27:271][360]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.41.27:325][361]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.12.13-21.41.27:336][361]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-21.41.30:193][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.12.13-21.41.30:197][626]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.13-21.41.30:255][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.12.13-21.41.30:260][626]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/5/CK/65CT9NNTX39CG3ICUINV7R
+[2024.12.13-21.41.30:260][626]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/65CT9NNTX39CG3ICUINV7R4623D90B44FFADB8914025B4D26E8F7F.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/5/CK/65CT9NNTX39CG3ICUINV7R.uasset'
+[2024.12.13-21.41.30:274][626]LogSavePackage: Moving output files for package: /Game/Characters/Player/BPC_Camera_Tilt
+[2024.12.13-21.41.30:275][626]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BPC_Camera_TiltA71F91394F8EAB610D432C86A644B046.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Characters/Player/BPC_Camera_Tilt.uasset'
+[2024.12.13-21.41.30:282][626]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 1.85 sec)
+[2024.12.13-21.41.30:287][626]AssetCheck: New page: Asset Save: multiple assets
+[2024.12.13-21.41.30:287][626]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/Player/BPC_Camera_Tilt.BPC_Camera_Tilt
+[2024.12.13-21.41.30:287][626]LogContentValidation: Display: Validating /Game/Characters/Player/BP_Player.BP_Player_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041
+[2024.12.13-21.43.56:289][468]BlueprintLog: New page: Compile BPC_Camera_Tilt
+[2024.12.13-21.43.56:372][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.12.13-21.44.05:483][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.12.13-21.44.05:489][382]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.13-21.44.05:551][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.12.13-21.44.05:556][382]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/5/CK/65CT9NNTX39CG3ICUINV7R
+[2024.12.13-21.44.05:556][382]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/65CT9NNTX39CG3ICUINV7R3E37EE7B40B290BCBFD94C91D1321E62.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/5/CK/65CT9NNTX39CG3ICUINV7R.uasset'
+[2024.12.13-21.44.05:570][382]LogSavePackage: Moving output files for package: /Game/Characters/Player/BPC_Camera_Tilt
+[2024.12.13-21.44.05:570][382]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BPC_Camera_TiltC428E3134AF500C94D1CB5AA08133DD3.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Characters/Player/BPC_Camera_Tilt.uasset'
+[2024.12.13-21.44.05:579][382]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 1.94 sec)
+[2024.12.13-21.44.05:585][382]AssetCheck: New page: Asset Save: multiple assets
+[2024.12.13-21.44.05:585][382]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/Player/BPC_Camera_Tilt.BPC_Camera_Tilt
+[2024.12.13-21.44.05:585][382]LogContentValidation: Display: Validating /Game/Characters/Player/BP_Player.BP_Player_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041
+[2024.12.13-21.44.09:340][537]BlueprintLog: New page: Compile BPC_Camera_Tilt
+[2024.12.13-21.44.09:416][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.12.13-21.44.12:566][835]LogSlate: Window 'BPC_Camera_Tilt' being destroyed
+[2024.12.13-21.47.44:010][117]BlueprintLog: New page: Compile BPC_Camera_FOV_Manager
+[2024.12.13-21.47.44:072][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.12.13-21.47.47:717][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.12.13-21.47.47:720][519]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.13-21.47.47:782][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.12.13-21.47.47:787][519]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/5/CK/65CT9NNTX39CG3ICUINV7R
+[2024.12.13-21.47.47:787][519]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/65CT9NNTX39CG3ICUINV7R30AFB1F8484EAF91F582CC91C2EEEA85.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/5/CK/65CT9NNTX39CG3ICUINV7R.uasset'
+[2024.12.13-21.47.47:794][519]LogSavePackage: Moving output files for package: /Game/Characters/Player/BPC_Camera_FOV_Manager
+[2024.12.13-21.47.47:794][519]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BPC_Camera_FOV_Manager96951880415574013CAE49BECB24A67C.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Characters/Player/BPC_Camera_FOV_Manager.uasset'
+[2024.12.13-21.47.47:802][519]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 2.02 sec)
+[2024.12.13-21.47.47:806][519]AssetCheck: New page: Asset Save: multiple assets
+[2024.12.13-21.47.47:807][519]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/Player/BPC_Camera_FOV_Manager.BPC_Camera_FOV_Manager
+[2024.12.13-21.47.47:807][519]LogContentValidation: Display: Validating /Game/Characters/Player/BP_Player.BP_Player_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041
+[2024.12.13-21.47.50:478][836]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/BPC_Floating_Damage.BPC_Floating_Damage
+[2024.12.13-21.47.50:479][836]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.13-21.47.50:479][836]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.13-21.50.07:660][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.12.13-21.50.07:661][795]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps_And_Modes/Maps/ThirdPersonMap' took 0.030
+[2024.12.13-21.59.11:313][838]LogEditorTransaction: Undo Straighten Connection(s)
+[2024.12.13-22.01.04:619][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.12.13-22.01.04:621][468]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps_And_Modes/Maps/ThirdPersonMap' took 0.032
+[2024.12.13-22.02.16:585][849]BlueprintLog: New page: Compile BPC_Floating_Damage
+[2024.12.13-22.02.16:716][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.12.13-22.02.16:724][849]BlueprintLog: New page: Compile BPC_Floating_Damage
+[2024.12.13-22.02.16:803][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.12.13-22.02.17:314][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.12.13-22.02.17:317][900]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.13-22.02.17:392][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.12.13-22.02.17:398][900]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/5/CK/65CT9NNTX39CG3ICUINV7R
+[2024.12.13-22.02.17:399][900]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/65CT9NNTX39CG3ICUINV7R650D791247A260F8379F1DB858CBBCD4.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/5/CK/65CT9NNTX39CG3ICUINV7R.uasset'
+[2024.12.13-22.02.17:403][900]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/2/Q2/MU8K3OLV8JZ51RHZVWFXFZ
+[2024.12.13-22.02.17:403][900]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/MU8K3OLV8JZ51RHZVWFXFZE0BF101E463918E93136DF81579D414A.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/2/Q2/MU8K3OLV8JZ51RHZVWFXFZ.uasset'
+[2024.12.13-22.02.17:419][900]LogSavePackage: Moving output files for package: /Game/Characters/BPC_Floating_Damage
+[2024.12.13-22.02.17:419][900]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BPC_Floating_Damage9585F4844A77FC3269E4EF9B01EA2627.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Characters/BPC_Floating_Damage.uasset'
+[2024.12.13-22.02.17:426][900]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 2.13 sec)
+[2024.12.13-22.02.17:434][900]AssetCheck: New page: Asset Save: multiple assets
+[2024.12.13-22.02.17:434][900]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/BPC_Floating_Damage.BPC_Floating_Damage
+[2024.12.13-22.02.17:434][900]LogContentValidation: Display: Validating /Game/Characters/Enemies/BP_Test_Dummy.BP_Test_Dummy_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Test_Dummy_C_UAID_107C61B295B0821C02_2094871944
+[2024.12.13-22.02.17:434][900]LogContentValidation: Display: Validating /Game/Characters/Player/BP_Player.BP_Player_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041
+[2024.12.13-22.02.29:368][325]BlueprintLog: New page: Compile BPC_Floating_Damage
+[2024.12.13-22.02.29:446][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.12.13-22.02.55:423][434]BlueprintLog: New page: Compile BPC_Floating_Damage
+[2024.12.13-22.02.55:500][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.12.13-22.02.55:813][468]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.12.13-22.02.57:164][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.12.13-22.02.57:168][614]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.13-22.02.57:230][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.12.13-22.02.57:235][614]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/5/CK/65CT9NNTX39CG3ICUINV7R
+[2024.12.13-22.02.57:235][614]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/65CT9NNTX39CG3ICUINV7RF13493F64882D5F94CF4598495B0CF4C.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/5/CK/65CT9NNTX39CG3ICUINV7R.uasset'
+[2024.12.13-22.02.57:238][614]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/2/Q2/MU8K3OLV8JZ51RHZVWFXFZ
+[2024.12.13-22.02.57:239][614]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/MU8K3OLV8JZ51RHZVWFXFZB657EB654BDF4E9D16B9B7B1699E3EE4.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/2/Q2/MU8K3OLV8JZ51RHZVWFXFZ.uasset'
+[2024.12.13-22.02.57:253][614]LogSavePackage: Moving output files for package: /Game/Characters/BPC_Floating_Damage
+[2024.12.13-22.02.57:253][614]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BPC_Floating_Damage29FCAC4A4A511B280D880E930AFB7598.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Characters/BPC_Floating_Damage.uasset'
+[2024.12.13-22.02.57:260][614]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 2.22 sec)
+[2024.12.13-22.02.57:264][614]AssetCheck: New page: Asset Save: multiple assets
+[2024.12.13-22.02.57:264][614]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Characters/BPC_Floating_Damage.BPC_Floating_Damage
+[2024.12.13-22.02.57:264][614]LogContentValidation: Display: Validating /Game/Characters/Enemies/BP_Test_Dummy.BP_Test_Dummy_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Test_Dummy_C_UAID_107C61B295B0821C02_2094871944
+[2024.12.13-22.02.57:264][614]LogContentValidation: Display: Validating /Game/Characters/Player/BP_Player.BP_Player_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041
+[2024.12.13-22.03.58:582][941]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Health/BPs/BPC_Health.BPC_Health
+[2024.12.13-22.03.58:582][941]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.13-22.03.58:582][941]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.13-22.04.55:220][869]BlueprintLog: New page: Compile BPC_Health
+[2024.12.13-22.04.55:335][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.12.13-22.05.47:623][672]LogEditorTransaction: Undo Straighten Connection(s)
+[2024.12.13-22.06.07:088][857]LogSlate: Took 0.007306 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NotoSansMath-Regular.ttf' (574K)
+[2024.12.13-22.06.57:546][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.12.13-22.06.57:549][688]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.13-22.06.57:622][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.12.13-22.06.57:627][688]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/5/CK/65CT9NNTX39CG3ICUINV7R
+[2024.12.13-22.06.57:628][688]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/65CT9NNTX39CG3ICUINV7R022C004542012D2D1BDE6595C93C2C4B.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/5/CK/65CT9NNTX39CG3ICUINV7R.uasset'
+[2024.12.13-22.06.57:631][688]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/2/Q2/MU8K3OLV8JZ51RHZVWFXFZ
+[2024.12.13-22.06.57:631][688]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/MU8K3OLV8JZ51RHZVWFXFZ45162C8146C64358A57B74B95BFD4897.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/2/Q2/MU8K3OLV8JZ51RHZVWFXFZ.uasset'
+[2024.12.13-22.06.57:682][688]LogSavePackage: Moving output files for package: /Game/Health/BPs/BPC_Health
+[2024.12.13-22.06.57:683][688]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BPC_Health145B3A874EFFA4039ECD0299ECF72784.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Health/BPs/BPC_Health.uasset'
+[2024.12.13-22.06.57:688][688]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 2.36 sec)
+[2024.12.13-22.06.57:695][688]AssetCheck: New page: Asset Save: multiple assets
+[2024.12.13-22.06.57:695][688]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Health/BPs/BPC_Health.BPC_Health
+[2024.12.13-22.06.57:695][688]LogContentValidation: Display: Validating /Game/Characters/Enemies/BP_Test_Dummy.BP_Test_Dummy_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Test_Dummy_C_UAID_107C61B295B0821C02_2094871944
+[2024.12.13-22.06.57:695][688]LogContentValidation: Display: Validating /Game/Characters/Player/BP_Player.BP_Player_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041
+[2024.12.13-22.09.16:850][220]LogDerivedDataCache: C:/Users/harry/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:08.253 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 35328 files in 37656 folders with total size 3966 MiB.
+[2024.12.13-22.11.05:692][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.12.13-22.11.05:695][546]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps_And_Modes/Maps/ThirdPersonMap' took 0.035
+[2024.12.13-22.21.06:393][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.12.13-22.21.06:395][348]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps_And_Modes/Maps/ThirdPersonMap' took 0.038
+[2024.12.13-22.22.36:470][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.12.13-22.22.36:475][602]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.13-22.22.36:565][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.12.13-22.22.36:621][602]LogSavePackage: Moving output files for package: /Game/Health/BPs/BPC_Health
+[2024.12.13-22.22.36:621][602]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BPC_HealthC838D93E43779D5E5CB9D397AF68040B.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Health/BPs/BPC_Health.uasset'
+[2024.12.13-22.22.36:629][602]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 2.52 sec)
+[2024.12.13-22.22.36:635][602]AssetCheck: New page: Asset Save: BPC_Health
+[2024.12.13-22.22.36:635][602]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Health/BPs/BPC_Health.BPC_Health
+[2024.12.13-22.30.21:343][248]LogEditorTransaction: Undo Straighten Connection(s)
+[2024.12.13-22.31.35:163][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.12.13-22.31.35:169][601]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.13-22.31.35:245][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.12.13-22.31.35:307][601]LogSavePackage: Moving output files for package: /Game/Health/BPs/BPC_Health
+[2024.12.13-22.31.35:307][601]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BPC_HealthC3A72B8D40CB283D6226C2A1AB040ED0.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Health/BPs/BPC_Health.uasset'
+[2024.12.13-22.31.35:314][601]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 2.66 sec)
+[2024.12.13-22.31.35:322][601]AssetCheck: New page: Asset Save: BPC_Health
+[2024.12.13-22.31.35:322][601]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Health/BPs/BPC_Health.BPC_Health
+[2024.12.13-22.31.36:790][776]BlueprintLog: New page: Compile BPC_Health
+[2024.12.13-22.31.36:904][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.12.13-22.31.54:834][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.12.13-22.31.54:840][887]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.13-22.31.54:916][887]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.12.13-22.31.54:920][887]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/5/CK/65CT9NNTX39CG3ICUINV7R
+[2024.12.13-22.31.54:921][887]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/65CT9NNTX39CG3ICUINV7R6A7565954A17D506389F8D96098A1444.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/5/CK/65CT9NNTX39CG3ICUINV7R.uasset'
+[2024.12.13-22.31.54:924][887]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/2/Q2/MU8K3OLV8JZ51RHZVWFXFZ
+[2024.12.13-22.31.54:925][887]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/MU8K3OLV8JZ51RHZVWFXFZ432928A54565AFAB00AE70847B6B97A0.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/2/Q2/MU8K3OLV8JZ51RHZVWFXFZ.uasset'
+[2024.12.13-22.31.54:977][887]LogSavePackage: Moving output files for package: /Game/Health/BPs/BPC_Health
+[2024.12.13-22.31.54:978][887]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BPC_HealthD484AB924F83F582E08B6A9C7280E7C3.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Health/BPs/BPC_Health.uasset'
+[2024.12.13-22.31.54:984][887]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 2.81 sec)
+[2024.12.13-22.31.54:992][887]AssetCheck: New page: Asset Save: multiple assets
+[2024.12.13-22.31.54:992][887]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Health/BPs/BPC_Health.BPC_Health
+[2024.12.13-22.31.54:992][887]LogContentValidation: Display: Validating /Game/Characters/Enemies/BP_Test_Dummy.BP_Test_Dummy_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Test_Dummy_C_UAID_107C61B295B0821C02_2094871944
+[2024.12.13-22.31.54:992][887]LogContentValidation: Display: Validating /Game/Characters/Player/BP_Player.BP_Player_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041
+[2024.12.13-22.31.55:892][995]BlueprintLog: New page: Compile BPC_Health
+[2024.12.13-22.31.56:008][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.12.13-22.33.08:037][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.12.13-22.33.08:043][418]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/5/CK/65CT9NNTX39CG3ICUINV7R_Auto1
+[2024.12.13-22.33.08:044][418]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/65CT9NNTX39CG3ICUINV7R_Auto133686E50414F199C720793BA075805B9.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Autosaves/Game/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/5/CK/65CT9NNTX39CG3ICUINV7R_Auto1.uasset'
+[2024.12.13-22.33.08:048][418]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/2/Q2/MU8K3OLV8JZ51RHZVWFXFZ_Auto1
+[2024.12.13-22.33.08:048][418]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/MU8K3OLV8JZ51RHZVWFXFZ_Auto11FC92F16414B96B2F8102089BF23E4DB.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Autosaves/Game/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/2/Q2/MU8K3OLV8JZ51RHZVWFXFZ_Auto1.uasset'
+[2024.12.13-22.33.08:049][418]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps_And_Modes/Maps/ThirdPersonMap' took 0.040
+[2024.12.13-22.33.08:049][418]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.040
+[2024.12.13-22.43.08:419][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.12.13-22.43.08:421][284]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps_And_Modes/Maps/ThirdPersonMap' took 0.035
+[2024.12.13-22.53.08:864][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.12.13-22.53.08:866][ 85]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps_And_Modes/Maps/ThirdPersonMap' took 0.034
+[2024.12.13-22.59.54:414][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.12.13-22.59.54:418][689]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.13-22.59.54:501][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.12.13-22.59.54:506][689]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/5/CK/65CT9NNTX39CG3ICUINV7R
+[2024.12.13-22.59.54:507][689]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/65CT9NNTX39CG3ICUINV7RD378764D44E82930F589099F30865ABF.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/5/CK/65CT9NNTX39CG3ICUINV7R.uasset'
+[2024.12.13-22.59.54:510][689]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/2/Q2/MU8K3OLV8JZ51RHZVWFXFZ
+[2024.12.13-22.59.54:511][689]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/MU8K3OLV8JZ51RHZVWFXFZ6EA67E1843F8DD837E0662A0354FCB88.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/2/Q2/MU8K3OLV8JZ51RHZVWFXFZ.uasset'
+[2024.12.13-22.59.54:565][689]LogSavePackage: Moving output files for package: /Game/Health/BPs/BPC_Health
+[2024.12.13-22.59.54:565][689]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BPC_Health18CECD0346C95F57C0E19CB49926E9F6.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Health/BPs/BPC_Health.uasset'
+[2024.12.13-22.59.54:575][689]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 2.96 sec)
+[2024.12.13-22.59.54:585][689]AssetCheck: New page: Asset Save: multiple assets
+[2024.12.13-22.59.54:585][689]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Health/BPs/BPC_Health.BPC_Health
+[2024.12.13-22.59.54:585][689]LogContentValidation: Display: Validating /Game/Characters/Enemies/BP_Test_Dummy.BP_Test_Dummy_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Test_Dummy_C_UAID_107C61B295B0821C02_2094871944
+[2024.12.13-22.59.54:585][689]LogContentValidation: Display: Validating /Game/Characters/Player/BP_Player.BP_Player_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041
+[2024.12.13-23.03.09:711][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.12.13-23.03.09:712][320]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps_And_Modes/Maps/ThirdPersonMap' took 0.029
+[2024.12.13-23.05.56:627][584]BlueprintLog: New page: Compile BPC_Health
+[2024.12.13-23.05.56:786][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.12.13-23.05.57:945][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.12.13-23.05.57:949][710]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.13-23.05.58:043][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.12.13-23.05.58:048][710]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/5/CK/65CT9NNTX39CG3ICUINV7R
+[2024.12.13-23.05.58:049][710]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/65CT9NNTX39CG3ICUINV7R234E10904D9B5AEE0CE3F0A46EEB5F1F.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/5/CK/65CT9NNTX39CG3ICUINV7R.uasset'
+[2024.12.13-23.05.58:052][710]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/2/Q2/MU8K3OLV8JZ51RHZVWFXFZ
+[2024.12.13-23.05.58:053][710]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/MU8K3OLV8JZ51RHZVWFXFZCC4FE8A54DE21786BCA4E5B0E9BAC664.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/2/Q2/MU8K3OLV8JZ51RHZVWFXFZ.uasset'
+[2024.12.13-23.05.58:109][710]LogSavePackage: Moving output files for package: /Game/Health/BPs/BPC_Health
+[2024.12.13-23.05.58:109][710]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BPC_Health224B912E4E61DCCB7A17AF83CEB73FC3.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Health/BPs/BPC_Health.uasset'
+[2024.12.13-23.05.58:119][710]LogFileHelpers: InternalPromptForCheckoutAndSave took 170 ms (total: 3.13 sec)
+[2024.12.13-23.05.58:125][710]AssetCheck: New page: Asset Save: multiple assets
+[2024.12.13-23.05.58:125][710]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Health/BPs/BPC_Health.BPC_Health
+[2024.12.13-23.05.58:125][710]LogContentValidation: Display: Validating /Game/Characters/Enemies/BP_Test_Dummy.BP_Test_Dummy_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Test_Dummy_C_UAID_107C61B295B0821C02_2094871944
+[2024.12.13-23.05.58:125][710]LogContentValidation: Display: Validating /Game/Characters/Player/BP_Player.BP_Player_C /Game/Maps_And_Modes/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Player_C_UAID_107C61B295B0331C02_1765253041
+[2024.12.13-23.06.06:068][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.12.13-23.06.06:072][647]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.13-23.06.06:158][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.12.13-23.06.06:232][647]LogSavePackage: Moving output files for package: /Game/Health/BPs/BPC_Health
+[2024.12.13-23.06.06:232][647]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/BPC_Health1BAA65464899D123DD4F12B66C94B821.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Content/Health/BPs/BPC_Health.uasset'
+[2024.12.13-23.06.06:244][647]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 3.30 sec)
+[2024.12.13-23.06.06:251][647]AssetCheck: New page: Asset Save: BPC_Health
+[2024.12.13-23.06.06:251][647]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Health/BPs/BPC_Health.BPC_Health
+[2024.12.13-23.08.20:860][960]BlueprintLog: New page: Compile BPC_Health
+[2024.12.13-23.08.21:018][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.12.13-23.09.17:237][217]LogDerivedDataCache: C:/Users/harry/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:08.640 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 35328 files in 37656 folders with total size 3966 MiB.
+[2024.12.13-23.13.10:255][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.12.13-23.13.10:262][915]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/5/CK/65CT9NNTX39CG3ICUINV7R_Auto1
+[2024.12.13-23.13.10:263][915]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/65CT9NNTX39CG3ICUINV7R_Auto113EE8368474C1B6829F17E84B3CAF60A.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Autosaves/Game/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/5/CK/65CT9NNTX39CG3ICUINV7R_Auto1.uasset'
+[2024.12.13-23.13.10:267][915]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/2/Q2/MU8K3OLV8JZ51RHZVWFXFZ_Auto1
+[2024.12.13-23.13.10:267][915]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/MU8K3OLV8JZ51RHZVWFXFZ_Auto1116AFFF44ADE2F21EEA4808E94652D05.tmp' to '../../../../../../Users/harry/Documents/Uni/Side Projects/Organic-Dungeon-V2/Organic_Dungeon_V2/Saved/Autosaves/Game/__ExternalActors__/Maps_And_Modes/Maps/ThirdPersonMap/2/Q2/MU8K3OLV8JZ51RHZVWFXFZ_Auto1.uasset'
+[2024.12.13-23.13.10:268][915]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps_And_Modes/Maps/ThirdPersonMap' took 0.042
+[2024.12.13-23.13.10:268][915]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.042
+[2024.12.13-23.23.10:975][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.12.13-23.23.10:977][717]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps_And_Modes/Maps/ThirdPersonMap' took 0.032
+[2024.12.13-23.33.11:372][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.12.13-23.33.11:374][518]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps_And_Modes/Maps/ThirdPersonMap' took 0.032
+[2024.12.13-23.43.11:754][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.12.13-23.43.11:756][319]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps_And_Modes/Maps/ThirdPersonMap' took 0.029
