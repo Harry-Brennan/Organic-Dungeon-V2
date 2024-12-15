@@ -1,12 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\harry\\Documents\\Uni\\Side Projects\\Organic_Dungeon_V2_C\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\harry\\Documents\\Uni\\Side Projects\\Organic-Dungeon-V2\\Organic_Dungeon_V2_C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{141DE019-849A-3CB9-9FAC-FA37772D3822}|Intermediate\\ProjectFiles\\Organic_Dungeon_V2_C.vcxproj|C:\\Users\\harry\\Documents\\Uni\\Side Projects\\Organic-Dungeon-V2\\Organic_Dungeon_V2_C\\Source\\Organic_Dungeon_V2_C\\Private\\RecoilFunctionLibrary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{141DE019-849A-3CB9-9FAC-FA37772D3822}|Intermediate\\ProjectFiles\\Organic_Dungeon_V2_C.vcxproj|solutionrelative:Source\\Organic_Dungeon_V2_C\\Private\\RecoilFunctionLibrary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141DE019-849A-3CB9-9FAC-FA37772D3822}|Intermediate\\ProjectFiles\\Organic_Dungeon_V2_C.vcxproj|C:\\Users\\harry\\Documents\\Uni\\Side Projects\\Organic-Dungeon-V2\\Organic_Dungeon_V2_C\\Source\\Organic_Dungeon_V2_C\\Public\\RecoilFunctionLibrary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{141DE019-849A-3CB9-9FAC-FA37772D3822}|Intermediate\\ProjectFiles\\Organic_Dungeon_V2_C.vcxproj|solutionrelative:Source\\Organic_Dungeon_V2_C\\Public\\RecoilFunctionLibrary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecoilFunctionLibrary.cpp",
+              "DocumentMoniker": "C:\\Users\\harry\\Documents\\Uni\\Side Projects\\Organic-Dungeon-V2\\Organic_Dungeon_V2_C\\Source\\Organic_Dungeon_V2_C\\Private\\RecoilFunctionLibrary.cpp",
+              "RelativeDocumentMoniker": "Source\\Organic_Dungeon_V2_C\\Private\\RecoilFunctionLibrary.cpp",
+              "ToolTip": "C:\\Users\\harry\\Documents\\Uni\\Side Projects\\Organic-Dungeon-V2\\Organic_Dungeon_V2_C\\Source\\Organic_Dungeon_V2_C\\Private\\RecoilFunctionLibrary.cpp",
+              "RelativeToolTip": "Source\\Organic_Dungeon_V2_C\\Private\\RecoilFunctionLibrary.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-15T15:30:50.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecoilFunctionLibrary.h",
+              "DocumentMoniker": "C:\\Users\\harry\\Documents\\Uni\\Side Projects\\Organic-Dungeon-V2\\Organic_Dungeon_V2_C\\Source\\Organic_Dungeon_V2_C\\Public\\RecoilFunctionLibrary.h",
+              "RelativeDocumentMoniker": "Source\\Organic_Dungeon_V2_C\\Public\\RecoilFunctionLibrary.h",
+              "ToolTip": "C:\\Users\\harry\\Documents\\Uni\\Side Projects\\Organic-Dungeon-V2\\Organic_Dungeon_V2_C\\Source\\Organic_Dungeon_V2_C\\Public\\RecoilFunctionLibrary.h",
+              "RelativeToolTip": "Source\\Organic_Dungeon_V2_C\\Public\\RecoilFunctionLibrary.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-15T15:30:50.096Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -7,7 +7,10 @@
 		{
 			"Name": "Organic_Dungeon_V2_C",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
 		}
 	],
 	"Plugins": [

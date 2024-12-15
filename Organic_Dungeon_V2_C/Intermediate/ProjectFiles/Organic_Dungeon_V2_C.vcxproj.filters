@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Organic_Dungeon_V2_C.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Organic_Dungeon_V2_C.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Organic_Dungeon_V2_CEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Platforms">
+      <UniqueIdentifier>{ED49A36C-4FD5-37E5-A2AC-E11BEF4F21CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\HoloLens">
+      <UniqueIdentifier>{28125F47-4973-377C-9D77-EBC3C72EC856}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\HoloLens\Config">
+      <UniqueIdentifier>{D3BF39CB-FA64-39E2-A327-B5021BA69773}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Platforms\HoloLens\Config\HoloLensEngine.ini">
+      <Filter>Platforms\HoloLens\Config</Filter>
+    </None>
+    <Filter Include="Source\Organic_Dungeon_V2_C">
+      <UniqueIdentifier>{A0656EEE-9C26-3F6C-B0CB-DDE5ED959889}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Organic_Dungeon_V2_C\Organic_Dungeon_V2_C.Build.cs">
+      <Filter>Source\Organic_Dungeon_V2_C</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Organic_Dungeon_V2_C\Organic_Dungeon_V2_C.cpp">
+      <Filter>Source\Organic_Dungeon_V2_C</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Organic_Dungeon_V2_C\Organic_Dungeon_V2_C.h">
+      <Filter>Source\Organic_Dungeon_V2_C</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Organic_Dungeon_V2_C\Organic_Dungeon_V2_CCharacter.cpp">
+      <Filter>Source\Organic_Dungeon_V2_C</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Organic_Dungeon_V2_C\Organic_Dungeon_V2_CCharacter.h">
+      <Filter>Source\Organic_Dungeon_V2_C</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Organic_Dungeon_V2_C\Organic_Dungeon_V2_CGameMode.cpp">
+      <Filter>Source\Organic_Dungeon_V2_C</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Organic_Dungeon_V2_C\Organic_Dungeon_V2_CGameMode.h">
+      <Filter>Source\Organic_Dungeon_V2_C</Filter>
+    </ClInclude>
+    <Filter Include="Source\Organic_Dungeon_V2_C\Private">
+      <UniqueIdentifier>{450ACB77-8096-34B0-88BB-4FF0DBC40850}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Organic_Dungeon_V2_C\Private\RecoilFunctionLibrary.cpp">
+      <Filter>Source\Organic_Dungeon_V2_C\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Organic_Dungeon_V2_C\Public">
+      <UniqueIdentifier>{BBEF22F1-6CD7-33D6-ABC9-E90C16976129}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Organic_Dungeon_V2_C\Public\RecoilFunctionLibrary.h">
+      <Filter>Source\Organic_Dungeon_V2_C\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
