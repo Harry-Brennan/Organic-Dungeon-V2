@@ -1,0 +1,77 @@
+[+] Containers:
+ |- [+] Container: /Game/Maps_And_Modes/Maps/ThirdPersonMap
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:08E2D1DB4B78A74B59B0089C0D5BCF83 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_107C61B295B0354302_2110439599 Label:Inventory Area Point SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=281.043 Y=2026.465 Z=190.813), Max=(X=281.043 Y=2026.465 Z=190.813) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 Parent:4A6EB1E849DBBF864E6CA085FDDF88B9
+ |   |   |- Guid:0A3CE4DA496D08F2329EA9BBBEE8BAFE BaseClass: NativeClass:/Script/NavigationSystem.RecastNavMesh Name:RecastNavMesh_UAID_107C61B295B0341C02-Default Label:RecastNavMesh-Default SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:224633A54EB060BB0FB2339AB1465D0A BaseClass:/Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Weather.Ultra_Dynamic_Weather_C NativeClass:/Script/Engine.Actor Name:Ultra_Dynamic_Weather_C_UAID_A85E45A79B400A0F02_1730026096 Label:Ultra_Dynamic_Weather SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5000000000.000 Y=-5000000000.000 Z=-5000000100.000), Max=(X=5000000000.000 Y=5000000000.000 Z=4999999900.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:2DA6C4B046BEC26FBC7C8ABDA238A1A7 BaseClass:/Game/Weapons/BPs/BP_Weapon.BP_Weapon_C NativeClass:/Script/Engine.Actor Name:BP_Weapon_C_UAID_A85E45A79B401F0F02_1621660798 Label:Revolver SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=833.669 Y=1091.855 Z=83.985), Max=(X=1201.669 Y=1362.532 Z=339.985) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Weapons FolderGuid:D6688E1242B8D833B08A32B55A71C2B6
+ |   |   |- Guid:35394F4F45AA3FC147D43E861429F800 BaseClass:/Game/Weapons/BPs/BP_Weapon.BP_Weapon_C NativeClass:/Script/Engine.Actor Name:BP_Weapon_C_UAID_107C61B295B06C1E02_2047816184 Label:Revolver2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=833.669 Y=828.629 Z=83.986), Max=(X=1201.669 Y=1099.306 Z=339.986) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Weapons FolderGuid:D6688E1242B8D833B08A32B55A71C2B6
+ |   |   |- Guid:4A6EB1E849DBBF864E6CA085FDDF88B9 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_107C61B295B0354302_2096738598 Label:Inventory Area SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=81.043 Y=1776.465 Z=40.813), Max=(X=481.043 Y=2276.465 Z=140.813) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:5402652E4BF59A824E5E799CDCCDAC71 BaseClass:/Game/Weapons/BPs/BP_Weapon.BP_Weapon_C NativeClass:/Script/Engine.Actor Name:BP_Weapon_C_UAID_107C61B295B0E51602_1738389049 Label:Katana SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=833.669 Y=1337.513 Z=83.985), Max=(X=1201.669 Y=1593.513 Z=361.770) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Weapons FolderGuid:D6688E1242B8D833B08A32B55A71C2B6
+ |   |   |- Guid:56F6A00042C7B56495CB3890F85180A9 BaseClass: NativeClass:/Script/NavigationSystem.NavMeshBoundsVolume Name:NavMeshBoundsVolume_UAID_107C61B295B0341C02_1121358215 Label:NavMeshBoundsVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-48226.013 Y=-49199.046 Z=-50000.000), Max=(X=51773.987 Y=50800.954 Z=50000.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Volumes FolderGuid:2494046C4731A4395AE7A28C12E3E62C
+ |   |   |- Guid:6BAF4DDD444C60371492D3919DB42C97 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:6BF5AC3F4CEB287051ADE79E32F2A3ED BaseClass:/Game/Characters/Player/BP_Player.BP_Player_C NativeClass:/Script/Engine.Character Name:BP_Player_C_UAID_107C61B295B0331C02_1765253041 Label:BP_Player SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-37.317 Y=-28.442 Z=-0.000), Max=(X=334.525 Y=47.278 Z=184.006) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:6E69686C4AF7B82BF64B719735CB1D0A BaseClass:/Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Sky.Ultra_Dynamic_Sky_C NativeClass:/Script/Engine.Actor Name:Ultra_Dynamic_Sky_C_UAID_A85E45A79B400A0F02_1722726095 Label:Ultra_Dynamic_Sky SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-9369290602.598 Y=-9369288750.000 Z=-10538807737.791), Max=(X=9369286897.402 Y=9369286875.000 Z=9390707887.209) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:76F848FE4F2B4D60BB9A32ABE6F36301 BaseClass:/Game/Weapons/BPs/BP_Weapon.BP_Weapon_C NativeClass:/Script/Engine.Actor Name:BP_Weapon_C_UAID_A85E45A79B401A0F02_1691127916 Label:Submachine Gun SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=841.852 Y=356.114 Z=62.587), Max=(X=1209.852 Y=649.114 Z=318.587) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Weapons FolderGuid:D6688E1242B8D833B08A32B55A71C2B6
+ |   |   |- Guid:A8CC75A8496580363E62509132400309 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_UAID_107C61B295B0954202_2044848418 Label:PostProcessVolume2 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-100.000 Y=-100.000 Z=-100.000), Max=(X=100.000 Y=100.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Volumes FolderGuid:2494046C4731A4395AE7A28C12E3E62C
+ |   |   |- Guid:AE0B97C048651C5A68B584A8C19EF21C BaseClass:/Game/Weapons/BPs/BP_Weapon.BP_Weapon_C NativeClass:/Script/Engine.Actor Name:BP_Weapon_C_UAID_A85E45A79B40700F02_1835656048 Label:Rocket_Launcher SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=833.669 Y=129.567 Z=83.985), Max=(X=1201.669 Y=385.567 Z=339.985) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Weapons FolderGuid:D6688E1242B8D833B08A32B55A71C2B6
+ |   |   |- Guid:B0F82FD545C77DC429281E8D4FCE4A72 BaseClass:/Game/Weapons/BPs/BP_Weapon.BP_Weapon_C NativeClass:/Script/Engine.Actor Name:BP_Weapon_C_UAID_A85E45A79B404B1102_1933395654 Label:Shotgun SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=833.669 Y=567.680 Z=83.985), Max=(X=1201.669 Y=870.680 Z=339.985) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Weapons FolderGuid:D6688E1242B8D833B08A32B55A71C2B6
+ |   |   |- Guid:DFAB3EC44A413923E64F499543FA20B9 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_107C61B295B0354302_1153219580 Label:Floor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-15000.000 Y=-15000.000 Z=-12.500), Max=(X=15000.000 Y=15000.000 Z=12.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderGuid:F22D77DE4BF4FF7187A46EBC2BEFA2D9
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:AE0B97C048651C5A68B584A8C19EF21C BaseClass:/Game/Weapons/BPs/BP_Weapon.BP_Weapon_C NativeClass:/Script/Engine.Actor Name:BP_Weapon_C_UAID_A85E45A79B40700F02_1835656048 Label:Rocket_Launcher SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=833.669 Y=129.567 Z=83.985), Max=(X=1201.669 Y=385.567 Z=339.985) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Weapons FolderGuid:D6688E1242B8D833B08A32B55A71C2B6
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:B0F82FD545C77DC429281E8D4FCE4A72 BaseClass:/Game/Weapons/BPs/BP_Weapon.BP_Weapon_C NativeClass:/Script/Engine.Actor Name:BP_Weapon_C_UAID_A85E45A79B404B1102_1933395654 Label:Shotgun SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=833.669 Y=567.680 Z=83.985), Max=(X=1201.669 Y=870.680 Z=339.985) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Weapons FolderGuid:D6688E1242B8D833B08A32B55A71C2B6
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:08E2D1DB4B78A74B59B0089C0D5BCF83 BaseClass: NativeClass:/Script/Engine.TargetPoint Name:TargetPoint_UAID_107C61B295B0354302_2110439599 Label:Inventory Area Point SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=281.043 Y=2026.465 Z=190.813), Max=(X=281.043 Y=2026.465 Z=190.813) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 Parent:4A6EB1E849DBBF864E6CA085FDDF88B9
+ |   |   |   |- Guid:4A6EB1E849DBBF864E6CA085FDDF88B9 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_107C61B295B0354302_2096738598 Label:Inventory Area SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=81.043 Y=1776.465 Z=40.813), Max=(X=481.043 Y=2276.465 Z=140.813) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:A8CC75A8496580363E62509132400309 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_UAID_107C61B295B0954202_2044848418 Label:PostProcessVolume2 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-100.000 Y=-100.000 Z=-100.000), Max=(X=100.000 Y=100.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Volumes FolderGuid:2494046C4731A4395AE7A28C12E3E62C
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:76F848FE4F2B4D60BB9A32ABE6F36301 BaseClass:/Game/Weapons/BPs/BP_Weapon.BP_Weapon_C NativeClass:/Script/Engine.Actor Name:BP_Weapon_C_UAID_A85E45A79B401A0F02_1691127916 Label:Submachine Gun SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=841.852 Y=356.114 Z=62.587), Max=(X=1209.852 Y=649.114 Z=318.587) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Weapons FolderGuid:D6688E1242B8D833B08A32B55A71C2B6
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:6BF5AC3F4CEB287051ADE79E32F2A3ED BaseClass:/Game/Characters/Player/BP_Player.BP_Player_C NativeClass:/Script/Engine.Character Name:BP_Player_C_UAID_107C61B295B0331C02_1765253041 Label:BP_Player SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-37.317 Y=-28.442 Z=-0.000), Max=(X=334.525 Y=47.278 Z=184.006) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:35394F4F45AA3FC147D43E861429F800 BaseClass:/Game/Weapons/BPs/BP_Weapon.BP_Weapon_C NativeClass:/Script/Engine.Actor Name:BP_Weapon_C_UAID_107C61B295B06C1E02_2047816184 Label:Revolver2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=833.669 Y=828.629 Z=83.986), Max=(X=1201.669 Y=1099.306 Z=339.986) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Weapons FolderGuid:D6688E1242B8D833B08A32B55A71C2B6
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:224633A54EB060BB0FB2339AB1465D0A BaseClass:/Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Weather.Ultra_Dynamic_Weather_C NativeClass:/Script/Engine.Actor Name:Ultra_Dynamic_Weather_C_UAID_A85E45A79B400A0F02_1730026096 Label:Ultra_Dynamic_Weather SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5000000000.000 Y=-5000000000.000 Z=-5000000100.000), Max=(X=5000000000.000 Y=5000000000.000 Z=4999999900.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:5402652E4BF59A824E5E799CDCCDAC71 BaseClass:/Game/Weapons/BPs/BP_Weapon.BP_Weapon_C NativeClass:/Script/Engine.Actor Name:BP_Weapon_C_UAID_107C61B295B0E51602_1738389049 Label:Katana SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=833.669 Y=1337.513 Z=83.985), Max=(X=1201.669 Y=1593.513 Z=361.770) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Weapons FolderGuid:D6688E1242B8D833B08A32B55A71C2B6
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:6BAF4DDD444C60371492D3919DB42C97 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:56F6A00042C7B56495CB3890F85180A9 BaseClass: NativeClass:/Script/NavigationSystem.NavMeshBoundsVolume Name:NavMeshBoundsVolume_UAID_107C61B295B0341C02_1121358215 Label:NavMeshBoundsVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-48226.013 Y=-49199.046 Z=-50000.000), Max=(X=51773.987 Y=50800.954 Z=50000.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Volumes FolderGuid:2494046C4731A4395AE7A28C12E3E62C
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:6E69686C4AF7B82BF64B719735CB1D0A BaseClass:/Game/UltraDynamicSky/Blueprints/Ultra_Dynamic_Sky.Ultra_Dynamic_Sky_C NativeClass:/Script/Engine.Actor Name:Ultra_Dynamic_Sky_C_UAID_A85E45A79B400A0F02_1722726095 Label:Ultra_Dynamic_Sky SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-9369290602.598 Y=-9369288750.000 Z=-10538807737.791), Max=(X=9369286897.402 Y=9369286875.000 Z=9390707887.209) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:2DA6C4B046BEC26FBC7C8ABDA238A1A7 BaseClass:/Game/Weapons/BPs/BP_Weapon.BP_Weapon_C NativeClass:/Script/Engine.Actor Name:BP_Weapon_C_UAID_A85E45A79B401F0F02_1621660798 Label:Revolver SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=833.669 Y=1091.855 Z=83.985), Max=(X=1201.669 Y=1362.532 Z=339.985) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Weapons FolderGuid:D6688E1242B8D833B08A32B55A71C2B6
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:0A3CE4DA496D08F2329EA9BBBEE8BAFE BaseClass: NativeClass:/Script/NavigationSystem.RecastNavMesh Name:RecastNavMesh_UAID_107C61B295B0341C02-Default Label:RecastNavMesh-Default SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:DFAB3EC44A413923E64F499543FA20B9 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_107C61B295B0354302_1153219580 Label:Floor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-15000.000 Y=-15000.000 Z=-12.500), Max=(X=15000.000 Y=15000.000 Z=12.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderGuid:F22D77DE4BF4FF7187A46EBC2BEFA2D9
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 0x0000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Maps_And_Modes/Maps/ThirdPersonMap
+----------------------------------------------------------------------------------------------------------------
+ThirdPersonMap - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+Always loaded Actor Count: 108 
+
+----------------------------------------------------------------------------------------------------------------
+ThirdPersonMap - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
